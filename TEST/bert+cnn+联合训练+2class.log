@@ -1,0 +1,1600 @@
+2022-07-31 04:53:54.171 | INFO     | __main__:train:166 - Train Epoch: 1 [3200/36000 (8.80%)], train Loss: 0.684236
+2022-07-31 04:54:08.884 | INFO     | __main__:train:166 - Train Epoch: 1 [6400/36000 (17.69%)], train Loss: 0.650458
+2022-07-31 04:54:23.584 | INFO     | __main__:train:166 - Train Epoch: 1 [9600/36000 (26.58%)], train Loss: 0.571917
+2022-07-31 04:54:38.564 | INFO     | __main__:train:166 - Train Epoch: 1 [12800/36000 (35.47%)], train Loss: 0.540913
+2022-07-31 04:54:53.359 | INFO     | __main__:train:166 - Train Epoch: 1 [16000/36000 (44.36%)], train Loss: 0.493399
+2022-07-31 04:55:08.095 | INFO     | __main__:train:166 - Train Epoch: 1 [19200/36000 (53.24%)], train Loss: 0.446156
+2022-07-31 04:55:22.944 | INFO     | __main__:train:166 - Train Epoch: 1 [22400/36000 (62.13%)], train Loss: 0.427213
+2022-07-31 04:55:37.830 | INFO     | __main__:train:166 - Train Epoch: 1 [25600/36000 (71.02%)], train Loss: 0.443307
+2022-07-31 04:55:52.635 | INFO     | __main__:train:166 - Train Epoch: 1 [28800/36000 (79.91%)], train Loss: 0.426888
+2022-07-31 04:56:07.503 | INFO     | __main__:train:166 - Train Epoch: 1 [32000/36000 (88.80%)], train Loss: 0.436915
+2022-07-31 04:56:22.363 | INFO     | __main__:train:166 - Train Epoch: 1 [35200/36000 (97.69%)], train Loss: 0.356057
+2022-07-31 04:56:38.784 | INFO     | __main__:test:195 - --------------------------------------------Train Epoch: 1-----------------------------------------------------
+2022-07-31 04:56:38.790 | INFO     | __main__:test:196 - Eval set: Average loss: 0.4499, Accuracy: (0.86), Pre: (0.87), Recall: (0.86)
+2022-07-31 04:56:38.790 | INFO     | __main__:test:199 - [[5599  338]
+ [1394 4669]]
+2022-07-31 04:56:40.592 | INFO     | __main__:<module>:215 - acc is: 0.8557, best acc is 0.8557, best model get in 1
+2022-07-31 04:56:55.719 | INFO     | __main__:train:166 - Train Epoch: 2 [3200/36000 (8.80%)], train Loss: 0.508973
+2022-07-31 04:57:10.548 | INFO     | __main__:train:166 - Train Epoch: 2 [6400/36000 (17.69%)], train Loss: 0.428868
+2022-07-31 04:57:25.503 | INFO     | __main__:train:166 - Train Epoch: 2 [9600/36000 (26.58%)], train Loss: 0.430927
+2022-07-31 04:57:40.542 | INFO     | __main__:train:166 - Train Epoch: 2 [12800/36000 (35.47%)], train Loss: 0.504875
+2022-07-31 04:57:55.589 | INFO     | __main__:train:166 - Train Epoch: 2 [16000/36000 (44.36%)], train Loss: 0.466638
+2022-07-31 04:58:10.889 | INFO     | __main__:train:166 - Train Epoch: 2 [19200/36000 (53.24%)], train Loss: 0.417399
+2022-07-31 04:58:25.807 | INFO     | __main__:train:166 - Train Epoch: 2 [22400/36000 (62.13%)], train Loss: 0.422631
+2022-07-31 04:58:41.238 | INFO     | __main__:train:166 - Train Epoch: 2 [25600/36000 (71.02%)], train Loss: 0.435496
+2022-07-31 04:58:56.219 | INFO     | __main__:train:166 - Train Epoch: 2 [28800/36000 (79.91%)], train Loss: 0.341668
+2022-07-31 04:59:11.404 | INFO     | __main__:train:166 - Train Epoch: 2 [32000/36000 (88.80%)], train Loss: 0.367185
+2022-07-31 04:59:26.611 | INFO     | __main__:train:166 - Train Epoch: 2 [35200/36000 (97.69%)], train Loss: 0.435655
+2022-07-31 04:59:43.577 | INFO     | __main__:test:195 - --------------------------------------------Train Epoch: 2-----------------------------------------------------
+2022-07-31 04:59:43.580 | INFO     | __main__:test:196 - Eval set: Average loss: 0.4313, Accuracy: (0.88), Pre: (0.89), Recall: (0.88)
+2022-07-31 04:59:43.581 | INFO     | __main__:test:199 - [[5672  265]
+ [1210 4853]]
+2022-07-31 04:59:45.548 | INFO     | __main__:<module>:215 - acc is: 0.8771, best acc is 0.8771, best model get in 2
+2022-07-31 05:00:00.454 | INFO     | __main__:train:166 - Train Epoch: 3 [3200/36000 (8.80%)], train Loss: 0.353952
+2022-07-31 05:00:15.490 | INFO     | __main__:train:166 - Train Epoch: 3 [6400/36000 (17.69%)], train Loss: 0.320964
+2022-07-31 05:00:30.342 | INFO     | __main__:train:166 - Train Epoch: 3 [9600/36000 (26.58%)], train Loss: 0.437136
+2022-07-31 05:00:45.488 | INFO     | __main__:train:166 - Train Epoch: 3 [12800/36000 (35.47%)], train Loss: 0.426558
+2022-07-31 05:01:00.679 | INFO     | __main__:train:166 - Train Epoch: 3 [16000/36000 (44.36%)], train Loss: 0.406128
+2022-07-31 05:01:15.691 | INFO     | __main__:train:166 - Train Epoch: 3 [19200/36000 (53.24%)], train Loss: 0.418997
+2022-07-31 05:01:30.704 | INFO     | __main__:train:166 - Train Epoch: 3 [22400/36000 (62.13%)], train Loss: 0.417358
+2022-07-31 05:01:45.953 | INFO     | __main__:train:166 - Train Epoch: 3 [25600/36000 (71.02%)], train Loss: 0.330047
+2022-07-31 05:02:01.213 | INFO     | __main__:train:166 - Train Epoch: 3 [28800/36000 (79.91%)], train Loss: 0.328837
+2022-07-31 05:02:16.135 | INFO     | __main__:train:166 - Train Epoch: 3 [32000/36000 (88.80%)], train Loss: 0.454458
+2022-07-31 05:02:31.080 | INFO     | __main__:train:166 - Train Epoch: 3 [35200/36000 (97.69%)], train Loss: 0.469543
+2022-07-31 05:02:47.554 | INFO     | __main__:test:195 - --------------------------------------------Train Epoch: 3-----------------------------------------------------
+2022-07-31 05:02:47.558 | INFO     | __main__:test:196 - Eval set: Average loss: 0.4212, Accuracy: (0.89), Pre: (0.90), Recall: (0.89)
+2022-07-31 05:02:47.558 | INFO     | __main__:test:199 - [[5695  242]
+ [1098 4965]]
+2022-07-31 05:02:49.740 | INFO     | __main__:<module>:215 - acc is: 0.8883, best acc is 0.8883, best model get in 3
+2022-07-31 05:03:04.690 | INFO     | __main__:train:166 - Train Epoch: 4 [3200/36000 (8.80%)], train Loss: 0.409979
+2022-07-31 05:03:19.496 | INFO     | __main__:train:166 - Train Epoch: 4 [6400/36000 (17.69%)], train Loss: 0.387458
+2022-07-31 05:03:34.362 | INFO     | __main__:train:166 - Train Epoch: 4 [9600/36000 (26.58%)], train Loss: 0.346875
+2022-07-31 05:03:49.185 | INFO     | __main__:train:166 - Train Epoch: 4 [12800/36000 (35.47%)], train Loss: 0.402052
+2022-07-31 05:04:04.148 | INFO     | __main__:train:166 - Train Epoch: 4 [16000/36000 (44.36%)], train Loss: 0.345969
+2022-07-31 05:04:18.944 | INFO     | __main__:train:166 - Train Epoch: 4 [19200/36000 (53.24%)], train Loss: 0.391165
+2022-07-31 05:04:33.944 | INFO     | __main__:train:166 - Train Epoch: 4 [22400/36000 (62.13%)], train Loss: 0.374290
+2022-07-31 05:04:48.816 | INFO     | __main__:train:166 - Train Epoch: 4 [25600/36000 (71.02%)], train Loss: 0.350779
+2022-07-31 05:05:03.916 | INFO     | __main__:train:166 - Train Epoch: 4 [28800/36000 (79.91%)], train Loss: 0.322952
+2022-07-31 05:05:18.721 | INFO     | __main__:train:166 - Train Epoch: 4 [32000/36000 (88.80%)], train Loss: 0.375755
+2022-07-31 05:05:33.801 | INFO     | __main__:train:166 - Train Epoch: 4 [35200/36000 (97.69%)], train Loss: 0.404368
+2022-07-31 05:05:50.198 | INFO     | __main__:test:195 - --------------------------------------------Train Epoch: 4-----------------------------------------------------
+2022-07-31 05:05:50.202 | INFO     | __main__:test:196 - Eval set: Average loss: 0.4151, Accuracy: (0.89), Pre: (0.89), Recall: (0.89)
+2022-07-31 05:05:50.202 | INFO     | __main__:test:199 - [[5485  452]
+ [ 828 5235]]
+2022-07-31 05:05:52.374 | INFO     | __main__:<module>:215 - acc is: 0.8933, best acc is 0.8933, best model get in 4
+2022-07-31 05:06:07.328 | INFO     | __main__:train:166 - Train Epoch: 5 [3200/36000 (8.80%)], train Loss: 0.438595
+2022-07-31 05:06:22.110 | INFO     | __main__:train:166 - Train Epoch: 5 [6400/36000 (17.69%)], train Loss: 0.388009
+2022-07-31 05:06:36.979 | INFO     | __main__:train:166 - Train Epoch: 5 [9600/36000 (26.58%)], train Loss: 0.400109
+2022-07-31 05:06:51.900 | INFO     | __main__:train:166 - Train Epoch: 5 [12800/36000 (35.47%)], train Loss: 0.406464
+2022-07-31 05:07:06.772 | INFO     | __main__:train:166 - Train Epoch: 5 [16000/36000 (44.36%)], train Loss: 0.529669
+2022-07-31 05:07:21.619 | INFO     | __main__:train:166 - Train Epoch: 5 [19200/36000 (53.24%)], train Loss: 0.387175
+2022-07-31 05:07:36.528 | INFO     | __main__:train:166 - Train Epoch: 5 [22400/36000 (62.13%)], train Loss: 0.387286
+2022-07-31 05:07:51.536 | INFO     | __main__:train:166 - Train Epoch: 5 [25600/36000 (71.02%)], train Loss: 0.316729
+2022-07-31 05:08:06.549 | INFO     | __main__:train:166 - Train Epoch: 5 [28800/36000 (79.91%)], train Loss: 0.376475
+2022-07-31 05:08:21.493 | INFO     | __main__:train:166 - Train Epoch: 5 [32000/36000 (88.80%)], train Loss: 0.465904
+2022-07-31 05:08:36.298 | INFO     | __main__:train:166 - Train Epoch: 5 [35200/36000 (97.69%)], train Loss: 0.367631
+2022-07-31 05:08:52.762 | INFO     | __main__:test:195 - --------------------------------------------Train Epoch: 5-----------------------------------------------------
+2022-07-31 05:08:52.767 | INFO     | __main__:test:196 - Eval set: Average loss: 0.4080, Accuracy: (0.90), Pre: (0.90), Recall: (0.90)
+2022-07-31 05:08:52.767 | INFO     | __main__:test:199 - [[5481  456]
+ [ 716 5347]]
+2022-07-31 05:08:55.152 | INFO     | __main__:<module>:215 - acc is: 0.9023, best acc is 0.9023, best model get in 5
+2022-07-31 05:09:09.996 | INFO     | __main__:train:166 - Train Epoch: 6 [3200/36000 (8.80%)], train Loss: 0.345584
+2022-07-31 05:09:24.784 | INFO     | __main__:train:166 - Train Epoch: 6 [6400/36000 (17.69%)], train Loss: 0.346926
+2022-07-31 05:09:39.630 | INFO     | __main__:train:166 - Train Epoch: 6 [9600/36000 (26.58%)], train Loss: 0.403577
+2022-07-31 05:09:54.682 | INFO     | __main__:train:166 - Train Epoch: 6 [12800/36000 (35.47%)], train Loss: 0.440951
+2022-07-31 05:10:09.770 | INFO     | __main__:train:166 - Train Epoch: 6 [16000/36000 (44.36%)], train Loss: 0.372427
+2022-07-31 05:10:24.876 | INFO     | __main__:train:166 - Train Epoch: 6 [19200/36000 (53.24%)], train Loss: 0.384448
+2022-07-31 05:10:39.956 | INFO     | __main__:train:166 - Train Epoch: 6 [22400/36000 (62.13%)], train Loss: 0.336488
+2022-07-31 05:10:54.800 | INFO     | __main__:train:166 - Train Epoch: 6 [25600/36000 (71.02%)], train Loss: 0.412930
+2022-07-31 05:11:09.564 | INFO     | __main__:train:166 - Train Epoch: 6 [28800/36000 (79.91%)], train Loss: 0.313520
+2022-07-31 05:11:24.474 | INFO     | __main__:train:166 - Train Epoch: 6 [32000/36000 (88.80%)], train Loss: 0.313444
+2022-07-31 05:11:39.705 | INFO     | __main__:train:166 - Train Epoch: 6 [35200/36000 (97.69%)], train Loss: 0.400393
+2022-07-31 05:11:56.066 | INFO     | __main__:test:195 - --------------------------------------------Train Epoch: 6-----------------------------------------------------
+2022-07-31 05:11:56.075 | INFO     | __main__:test:196 - Eval set: Average loss: 0.4108, Accuracy: (0.90), Pre: (0.90), Recall: (0.90)
+2022-07-31 05:11:56.075 | INFO     | __main__:test:199 - [[5454  483]
+ [ 727 5336]]
+2022-07-31 05:11:56.077 | INFO     | __main__:<module>:215 - acc is: 0.8992, best acc is 0.9023, best model get in 0
+2022-07-31 05:12:11.094 | INFO     | __main__:train:166 - Train Epoch: 7 [3200/36000 (8.80%)], train Loss: 0.379312
+2022-07-31 05:12:25.843 | INFO     | __main__:train:166 - Train Epoch: 7 [6400/36000 (17.69%)], train Loss: 0.319583
+2022-07-31 05:12:40.984 | INFO     | __main__:train:166 - Train Epoch: 7 [9600/36000 (26.58%)], train Loss: 0.376299
+2022-07-31 05:12:55.865 | INFO     | __main__:train:166 - Train Epoch: 7 [12800/36000 (35.47%)], train Loss: 0.327902
+2022-07-31 05:13:10.906 | INFO     | __main__:train:166 - Train Epoch: 7 [16000/36000 (44.36%)], train Loss: 0.367407
+2022-07-31 05:13:25.606 | INFO     | __main__:train:166 - Train Epoch: 7 [19200/36000 (53.24%)], train Loss: 0.382529
+2022-07-31 05:13:40.617 | INFO     | __main__:train:166 - Train Epoch: 7 [22400/36000 (62.13%)], train Loss: 0.344562
+2022-07-31 05:13:55.905 | INFO     | __main__:train:166 - Train Epoch: 7 [25600/36000 (71.02%)], train Loss: 0.344541
+2022-07-31 05:14:10.838 | INFO     | __main__:train:166 - Train Epoch: 7 [28800/36000 (79.91%)], train Loss: 0.344575
+2022-07-31 05:14:25.743 | INFO     | __main__:train:166 - Train Epoch: 7 [32000/36000 (88.80%)], train Loss: 0.357113
+2022-07-31 05:14:40.876 | INFO     | __main__:train:166 - Train Epoch: 7 [35200/36000 (97.69%)], train Loss: 0.408296
+2022-07-31 05:14:57.327 | INFO     | __main__:test:195 - --------------------------------------------Train Epoch: 7-----------------------------------------------------
+2022-07-31 05:14:57.332 | INFO     | __main__:test:196 - Eval set: Average loss: 0.4076, Accuracy: (0.90), Pre: (0.90), Recall: (0.90)
+2022-07-31 05:14:57.332 | INFO     | __main__:test:199 - [[5412  525]
+ [ 632 5431]]
+2022-07-31 05:14:59.577 | INFO     | __main__:<module>:215 - acc is: 0.9036, best acc is 0.9036, best model get in 7
+2022-07-31 05:15:14.567 | INFO     | __main__:train:166 - Train Epoch: 8 [3200/36000 (8.80%)], train Loss: 0.362653
+2022-07-31 05:15:29.761 | INFO     | __main__:train:166 - Train Epoch: 8 [6400/36000 (17.69%)], train Loss: 0.387091
+2022-07-31 05:15:44.874 | INFO     | __main__:train:166 - Train Epoch: 8 [9600/36000 (26.58%)], train Loss: 0.353193
+2022-07-31 05:16:00.267 | INFO     | __main__:train:166 - Train Epoch: 8 [12800/36000 (35.47%)], train Loss: 0.314676
+2022-07-31 05:16:15.278 | INFO     | __main__:train:166 - Train Epoch: 8 [16000/36000 (44.36%)], train Loss: 0.351821
+2022-07-31 05:16:30.449 | INFO     | __main__:train:166 - Train Epoch: 8 [19200/36000 (53.24%)], train Loss: 0.371076
+2022-07-31 05:16:45.233 | INFO     | __main__:train:166 - Train Epoch: 8 [22400/36000 (62.13%)], train Loss: 0.346162
+2022-07-31 05:17:00.624 | INFO     | __main__:train:166 - Train Epoch: 8 [25600/36000 (71.02%)], train Loss: 0.375725
+2022-07-31 05:17:15.628 | INFO     | __main__:train:166 - Train Epoch: 8 [28800/36000 (79.91%)], train Loss: 0.369983
+2022-07-31 05:17:31.122 | INFO     | __main__:train:166 - Train Epoch: 8 [32000/36000 (88.80%)], train Loss: 0.345297
+2022-07-31 05:17:46.260 | INFO     | __main__:train:166 - Train Epoch: 8 [35200/36000 (97.69%)], train Loss: 0.373632
+2022-07-31 05:18:02.788 | INFO     | __main__:test:195 - --------------------------------------------Train Epoch: 8-----------------------------------------------------
+2022-07-31 05:18:02.791 | INFO     | __main__:test:196 - Eval set: Average loss: 0.4058, Accuracy: (0.90), Pre: (0.90), Recall: (0.90)
+2022-07-31 05:18:02.792 | INFO     | __main__:test:199 - [[5473  464]
+ [ 685 5378]]
+2022-07-31 05:18:04.803 | INFO     | __main__:<module>:215 - acc is: 0.9042, best acc is 0.9042, best model get in 8
+2022-07-31 05:18:20.028 | INFO     | __main__:train:166 - Train Epoch: 9 [3200/36000 (8.80%)], train Loss: 0.344548
+2022-07-31 05:18:35.035 | INFO     | __main__:train:166 - Train Epoch: 9 [6400/36000 (17.69%)], train Loss: 0.319427
+2022-07-31 05:18:50.146 | INFO     | __main__:train:166 - Train Epoch: 9 [9600/36000 (26.58%)], train Loss: 0.390959
+2022-07-31 05:19:05.289 | INFO     | __main__:train:166 - Train Epoch: 9 [12800/36000 (35.47%)], train Loss: 0.344430
+2022-07-31 05:19:20.112 | INFO     | __main__:train:166 - Train Epoch: 9 [16000/36000 (44.36%)], train Loss: 0.387060
+2022-07-31 05:19:34.985 | INFO     | __main__:train:166 - Train Epoch: 9 [19200/36000 (53.24%)], train Loss: 0.379884
+2022-07-31 05:19:50.044 | INFO     | __main__:train:166 - Train Epoch: 9 [22400/36000 (62.13%)], train Loss: 0.374324
+2022-07-31 05:20:05.138 | INFO     | __main__:train:166 - Train Epoch: 9 [25600/36000 (71.02%)], train Loss: 0.313280
+2022-07-31 05:20:20.062 | INFO     | __main__:train:166 - Train Epoch: 9 [28800/36000 (79.91%)], train Loss: 0.437349
+2022-07-31 05:20:35.201 | INFO     | __main__:train:166 - Train Epoch: 9 [32000/36000 (88.80%)], train Loss: 0.320736
+2022-07-31 05:20:50.572 | INFO     | __main__:train:166 - Train Epoch: 9 [35200/36000 (97.69%)], train Loss: 0.316518
+2022-07-31 05:21:07.077 | INFO     | __main__:test:195 - --------------------------------------------Train Epoch: 9-----------------------------------------------------
+2022-07-31 05:21:07.078 | INFO     | __main__:test:196 - Eval set: Average loss: 0.4081, Accuracy: (0.90), Pre: (0.90), Recall: (0.90)
+2022-07-31 05:21:07.079 | INFO     | __main__:test:199 - [[5475  462]
+ [ 706 5357]]
+2022-07-31 05:21:07.080 | INFO     | __main__:<module>:215 - acc is: 0.9027, best acc is 0.9042, best model get in 0
+2022-07-31 05:21:22.944 | INFO     | __main__:train:166 - Train Epoch: 10 [3200/36000 (8.80%)], train Loss: 0.317535
+2022-07-31 05:21:37.980 | INFO     | __main__:train:166 - Train Epoch: 10 [6400/36000 (17.69%)], train Loss: 0.345694
+2022-07-31 05:21:53.196 | INFO     | __main__:train:166 - Train Epoch: 10 [9600/36000 (26.58%)], train Loss: 0.313298
+2022-07-31 05:22:08.057 | INFO     | __main__:train:166 - Train Epoch: 10 [12800/36000 (35.47%)], train Loss: 0.375768
+2022-07-31 05:22:23.151 | INFO     | __main__:train:166 - Train Epoch: 10 [16000/36000 (44.36%)], train Loss: 0.344519
+2022-07-31 05:22:38.089 | INFO     | __main__:train:166 - Train Epoch: 10 [19200/36000 (53.24%)], train Loss: 0.337274
+2022-07-31 05:22:53.130 | INFO     | __main__:train:166 - Train Epoch: 10 [22400/36000 (62.13%)], train Loss: 0.317398
+2022-07-31 05:23:08.155 | INFO     | __main__:train:166 - Train Epoch: 10 [25600/36000 (71.02%)], train Loss: 0.375838
+2022-07-31 05:23:23.319 | INFO     | __main__:train:166 - Train Epoch: 10 [28800/36000 (79.91%)], train Loss: 0.371384
+2022-07-31 05:23:38.371 | INFO     | __main__:train:166 - Train Epoch: 10 [32000/36000 (88.80%)], train Loss: 0.396258
+2022-07-31 05:23:53.489 | INFO     | __main__:train:166 - Train Epoch: 10 [35200/36000 (97.69%)], train Loss: 0.313272
+2022-07-31 05:24:09.930 | INFO     | __main__:test:195 - --------------------------------------------Train Epoch: 10-----------------------------------------------------
+2022-07-31 05:24:09.933 | INFO     | __main__:test:196 - Eval set: Average loss: 0.4063, Accuracy: (0.90), Pre: (0.90), Recall: (0.90)
+2022-07-31 05:24:09.934 | INFO     | __main__:test:199 - [[5427  510]
+ [ 640 5423]]
+2022-07-31 05:24:09.935 | INFO     | __main__:<module>:215 - acc is: 0.9042, best acc is 0.9042, best model get in 0
+2022-07-31 05:24:24.846 | INFO     | __main__:train:166 - Train Epoch: 11 [3200/36000 (8.80%)], train Loss: 0.344518
+2022-07-31 05:24:39.758 | INFO     | __main__:train:166 - Train Epoch: 11 [6400/36000 (17.69%)], train Loss: 0.345605
+2022-07-31 05:24:54.639 | INFO     | __main__:train:166 - Train Epoch: 11 [9600/36000 (26.58%)], train Loss: 0.375760
+2022-07-31 05:25:09.908 | INFO     | __main__:train:166 - Train Epoch: 11 [12800/36000 (35.47%)], train Loss: 0.385701
+2022-07-31 05:25:24.710 | INFO     | __main__:train:166 - Train Epoch: 11 [16000/36000 (44.36%)], train Loss: 0.364069
+2022-07-31 05:25:40.509 | INFO     | __main__:train:166 - Train Epoch: 11 [19200/36000 (53.24%)], train Loss: 0.319308
+2022-07-31 05:25:55.654 | INFO     | __main__:train:166 - Train Epoch: 11 [22400/36000 (62.13%)], train Loss: 0.313501
+2022-07-31 05:26:10.528 | INFO     | __main__:train:166 - Train Epoch: 11 [25600/36000 (71.02%)], train Loss: 0.344997
+2022-07-31 05:26:25.674 | INFO     | __main__:train:166 - Train Epoch: 11 [28800/36000 (79.91%)], train Loss: 0.341159
+2022-07-31 05:26:40.671 | INFO     | __main__:train:166 - Train Epoch: 11 [32000/36000 (88.80%)], train Loss: 0.313445
+2022-07-31 05:26:55.609 | INFO     | __main__:train:166 - Train Epoch: 11 [35200/36000 (97.69%)], train Loss: 0.315930
+2022-07-31 05:27:12.177 | INFO     | __main__:test:195 - --------------------------------------------Train Epoch: 11-----------------------------------------------------
+2022-07-31 05:27:12.181 | INFO     | __main__:test:196 - Eval set: Average loss: 0.4056, Accuracy: (0.91), Pre: (0.91), Recall: (0.91)
+2022-07-31 05:27:12.181 | INFO     | __main__:test:199 - [[5538  399]
+ [ 729 5334]]
+2022-07-31 05:27:14.524 | INFO     | __main__:<module>:215 - acc is: 0.9060, best acc is 0.9060, best model get in 11
+2022-07-31 05:27:29.268 | INFO     | __main__:train:166 - Train Epoch: 12 [3200/36000 (8.80%)], train Loss: 0.313267
+2022-07-31 05:27:44.685 | INFO     | __main__:train:166 - Train Epoch: 12 [6400/36000 (17.69%)], train Loss: 0.375769
+2022-07-31 05:27:59.750 | INFO     | __main__:train:166 - Train Epoch: 12 [9600/36000 (26.58%)], train Loss: 0.313268
+2022-07-31 05:28:15.014 | INFO     | __main__:train:166 - Train Epoch: 12 [12800/36000 (35.47%)], train Loss: 0.313269
+2022-07-31 05:28:30.404 | INFO     | __main__:train:166 - Train Epoch: 12 [16000/36000 (44.36%)], train Loss: 0.344526
+2022-07-31 05:28:45.912 | INFO     | __main__:train:166 - Train Epoch: 12 [19200/36000 (53.24%)], train Loss: 0.313275
+2022-07-31 05:29:02.612 | INFO     | __main__:train:166 - Train Epoch: 12 [22400/36000 (62.13%)], train Loss: 0.424115
+2022-07-31 05:29:17.628 | INFO     | __main__:train:166 - Train Epoch: 12 [25600/36000 (71.02%)], train Loss: 0.344520
+2022-07-31 05:29:32.548 | INFO     | __main__:train:166 - Train Epoch: 12 [28800/36000 (79.91%)], train Loss: 0.379837
+2022-07-31 05:29:47.352 | INFO     | __main__:train:166 - Train Epoch: 12 [32000/36000 (88.80%)], train Loss: 0.371288
+2022-07-31 05:30:02.422 | INFO     | __main__:train:166 - Train Epoch: 12 [35200/36000 (97.69%)], train Loss: 0.313331
+2022-07-31 05:30:18.711 | INFO     | __main__:test:195 - --------------------------------------------Train Epoch: 12-----------------------------------------------------
+2022-07-31 05:30:18.714 | INFO     | __main__:test:196 - Eval set: Average loss: 0.4121, Accuracy: (0.90), Pre: (0.90), Recall: (0.90)
+2022-07-31 05:30:18.714 | INFO     | __main__:test:199 - [[5654  283]
+ [ 923 5140]]
+2022-07-31 05:30:18.716 | INFO     | __main__:<module>:215 - acc is: 0.8995, best acc is 0.9060, best model get in 0
+2022-07-31 05:30:33.857 | INFO     | __main__:train:166 - Train Epoch: 13 [3200/36000 (8.80%)], train Loss: 0.344488
+2022-07-31 05:30:48.919 | INFO     | __main__:train:166 - Train Epoch: 13 [6400/36000 (17.69%)], train Loss: 0.313267
+2022-07-31 05:31:03.937 | INFO     | __main__:train:166 - Train Epoch: 13 [9600/36000 (26.58%)], train Loss: 0.373373
+2022-07-31 05:31:18.902 | INFO     | __main__:train:166 - Train Epoch: 13 [12800/36000 (35.47%)], train Loss: 0.313268
+2022-07-31 05:31:33.903 | INFO     | __main__:train:166 - Train Epoch: 13 [16000/36000 (44.36%)], train Loss: 0.346054
+2022-07-31 05:31:48.677 | INFO     | __main__:train:166 - Train Epoch: 13 [19200/36000 (53.24%)], train Loss: 0.344745
+2022-07-31 05:32:03.578 | INFO     | __main__:train:166 - Train Epoch: 13 [22400/36000 (62.13%)], train Loss: 0.313291
+2022-07-31 05:32:18.317 | INFO     | __main__:train:166 - Train Epoch: 13 [25600/36000 (71.02%)], train Loss: 0.313267
+2022-07-31 05:32:33.366 | INFO     | __main__:train:166 - Train Epoch: 13 [28800/36000 (79.91%)], train Loss: 0.313352
+2022-07-31 05:32:48.206 | INFO     | __main__:train:166 - Train Epoch: 13 [32000/36000 (88.80%)], train Loss: 0.344515
+2022-07-31 05:33:03.104 | INFO     | __main__:train:166 - Train Epoch: 13 [35200/36000 (97.69%)], train Loss: 0.313371
+2022-07-31 05:33:19.532 | INFO     | __main__:test:195 - --------------------------------------------Train Epoch: 13-----------------------------------------------------
+2022-07-31 05:33:19.535 | INFO     | __main__:test:196 - Eval set: Average loss: 0.4021, Accuracy: (0.91), Pre: (0.91), Recall: (0.91)
+2022-07-31 05:33:19.535 | INFO     | __main__:test:199 - [[5523  414]
+ [ 684 5379]]
+2022-07-31 05:33:21.997 | INFO     | __main__:<module>:215 - acc is: 0.9085, best acc is 0.9085, best model get in 13
+2022-07-31 05:33:36.933 | INFO     | __main__:train:166 - Train Epoch: 14 [3200/36000 (8.80%)], train Loss: 0.313267
+2022-07-31 05:33:51.828 | INFO     | __main__:train:166 - Train Epoch: 14 [6400/36000 (17.69%)], train Loss: 0.375836
+2022-07-31 05:34:06.635 | INFO     | __main__:train:166 - Train Epoch: 14 [9600/36000 (26.58%)], train Loss: 0.314290
+2022-07-31 05:34:21.518 | INFO     | __main__:train:166 - Train Epoch: 14 [12800/36000 (35.47%)], train Loss: 0.435039
+2022-07-31 05:34:36.463 | INFO     | __main__:train:166 - Train Epoch: 14 [16000/36000 (44.36%)], train Loss: 0.313264
+2022-07-31 05:34:51.270 | INFO     | __main__:train:166 - Train Epoch: 14 [19200/36000 (53.24%)], train Loss: 0.377884
+2022-07-31 05:35:06.066 | INFO     | __main__:train:166 - Train Epoch: 14 [22400/36000 (62.13%)], train Loss: 0.344725
+2022-07-31 05:35:21.081 | INFO     | __main__:train:166 - Train Epoch: 14 [25600/36000 (71.02%)], train Loss: 0.344572
+2022-07-31 05:35:35.855 | INFO     | __main__:train:166 - Train Epoch: 14 [28800/36000 (79.91%)], train Loss: 0.344513
+2022-07-31 05:35:50.757 | INFO     | __main__:train:166 - Train Epoch: 14 [32000/36000 (88.80%)], train Loss: 0.313269
+2022-07-31 05:36:05.590 | INFO     | __main__:train:166 - Train Epoch: 14 [35200/36000 (97.69%)], train Loss: 0.395372
+2022-07-31 05:36:22.022 | INFO     | __main__:test:195 - --------------------------------------------Train Epoch: 14-----------------------------------------------------
+2022-07-31 05:36:22.026 | INFO     | __main__:test:196 - Eval set: Average loss: 0.4070, Accuracy: (0.90), Pre: (0.91), Recall: (0.90)
+2022-07-31 05:36:22.027 | INFO     | __main__:test:199 - [[5538  399]
+ [ 746 5317]]
+2022-07-31 05:36:22.029 | INFO     | __main__:<module>:215 - acc is: 0.9046, best acc is 0.9085, best model get in 0
+2022-07-31 05:36:36.860 | INFO     | __main__:train:166 - Train Epoch: 15 [3200/36000 (8.80%)], train Loss: 0.371843
+2022-07-31 05:36:51.724 | INFO     | __main__:train:166 - Train Epoch: 15 [6400/36000 (17.69%)], train Loss: 0.325261
+2022-07-31 05:37:06.637 | INFO     | __main__:train:166 - Train Epoch: 15 [9600/36000 (26.58%)], train Loss: 0.379950
+2022-07-31 05:37:21.611 | INFO     | __main__:train:166 - Train Epoch: 15 [12800/36000 (35.47%)], train Loss: 0.344514
+2022-07-31 05:37:36.547 | INFO     | __main__:train:166 - Train Epoch: 15 [16000/36000 (44.36%)], train Loss: 0.343809
+2022-07-31 05:37:51.485 | INFO     | __main__:train:166 - Train Epoch: 15 [19200/36000 (53.24%)], train Loss: 0.313267
+2022-07-31 05:38:06.332 | INFO     | __main__:train:166 - Train Epoch: 15 [22400/36000 (62.13%)], train Loss: 0.313266
+2022-07-31 05:38:21.341 | INFO     | __main__:train:166 - Train Epoch: 15 [25600/36000 (71.02%)], train Loss: 0.375993
+2022-07-31 05:38:36.538 | INFO     | __main__:train:166 - Train Epoch: 15 [28800/36000 (79.91%)], train Loss: 0.344590
+2022-07-31 05:38:50.802 | INFO     | __main__:train:166 - Train Epoch: 15 [32000/36000 (88.80%)], train Loss: 0.313264
+2022-07-31 05:39:05.774 | INFO     | __main__:train:166 - Train Epoch: 15 [35200/36000 (97.69%)], train Loss: 0.313264
+2022-07-31 05:39:22.168 | INFO     | __main__:test:195 - --------------------------------------------Train Epoch: 15-----------------------------------------------------
+2022-07-31 05:39:22.170 | INFO     | __main__:test:196 - Eval set: Average loss: 0.4047, Accuracy: (0.91), Pre: (0.91), Recall: (0.91)
+2022-07-31 05:39:22.170 | INFO     | __main__:test:199 - [[5498  439]
+ [ 671 5392]]
+2022-07-31 05:39:22.172 | INFO     | __main__:<module>:215 - acc is: 0.9075, best acc is 0.9085, best model get in 0
+2022-07-31 05:39:37.129 | INFO     | __main__:train:166 - Train Epoch: 16 [3200/36000 (8.80%)], train Loss: 0.313540
+2022-07-31 05:39:52.069 | INFO     | __main__:train:166 - Train Epoch: 16 [6400/36000 (17.69%)], train Loss: 0.344488
+2022-07-31 05:40:06.899 | INFO     | __main__:train:166 - Train Epoch: 16 [9600/36000 (26.58%)], train Loss: 0.373409
+2022-07-31 05:40:22.017 | INFO     | __main__:train:166 - Train Epoch: 16 [12800/36000 (35.47%)], train Loss: 0.313265
+2022-07-31 05:40:37.021 | INFO     | __main__:train:166 - Train Epoch: 16 [16000/36000 (44.36%)], train Loss: 0.344521
+2022-07-31 05:40:52.179 | INFO     | __main__:train:166 - Train Epoch: 16 [19200/36000 (53.24%)], train Loss: 0.344514
+2022-07-31 05:41:07.031 | INFO     | __main__:train:166 - Train Epoch: 16 [22400/36000 (62.13%)], train Loss: 0.344709
+2022-07-31 05:41:21.963 | INFO     | __main__:train:166 - Train Epoch: 16 [25600/36000 (71.02%)], train Loss: 0.344513
+2022-07-31 05:41:36.940 | INFO     | __main__:train:166 - Train Epoch: 16 [28800/36000 (79.91%)], train Loss: 0.375757
+2022-07-31 05:41:51.971 | INFO     | __main__:train:166 - Train Epoch: 16 [32000/36000 (88.80%)], train Loss: 0.313264
+2022-07-31 05:42:06.912 | INFO     | __main__:train:166 - Train Epoch: 16 [35200/36000 (97.69%)], train Loss: 0.344514
+2022-07-31 05:42:23.420 | INFO     | __main__:test:195 - --------------------------------------------Train Epoch: 16-----------------------------------------------------
+2022-07-31 05:42:23.422 | INFO     | __main__:test:196 - Eval set: Average loss: 0.4027, Accuracy: (0.91), Pre: (0.91), Recall: (0.91)
+2022-07-31 05:42:23.423 | INFO     | __main__:test:199 - [[5524  413]
+ [ 676 5387]]
+2022-07-31 05:42:25.898 | INFO     | __main__:<module>:215 - acc is: 0.9093, best acc is 0.9093, best model get in 16
+2022-07-31 05:42:41.069 | INFO     | __main__:train:166 - Train Epoch: 17 [3200/36000 (8.80%)], train Loss: 0.423873
+2022-07-31 05:42:56.037 | INFO     | __main__:train:166 - Train Epoch: 17 [6400/36000 (17.69%)], train Loss: 0.313266
+2022-07-31 05:43:10.270 | INFO     | __main__:train:166 - Train Epoch: 17 [9600/36000 (26.58%)], train Loss: 0.375763
+2022-07-31 05:43:25.272 | INFO     | __main__:train:166 - Train Epoch: 17 [12800/36000 (35.47%)], train Loss: 0.344514
+2022-07-31 05:43:40.377 | INFO     | __main__:train:166 - Train Epoch: 17 [16000/36000 (44.36%)], train Loss: 0.344514
+2022-07-31 05:43:55.415 | INFO     | __main__:train:166 - Train Epoch: 17 [19200/36000 (53.24%)], train Loss: 0.375763
+2022-07-31 05:44:10.385 | INFO     | __main__:train:166 - Train Epoch: 17 [22400/36000 (62.13%)], train Loss: 0.315537
+2022-07-31 05:44:25.249 | INFO     | __main__:train:166 - Train Epoch: 17 [25600/36000 (71.02%)], train Loss: 0.344514
+2022-07-31 05:44:40.235 | INFO     | __main__:train:166 - Train Epoch: 17 [28800/36000 (79.91%)], train Loss: 0.313264
+2022-07-31 05:44:54.999 | INFO     | __main__:train:166 - Train Epoch: 17 [32000/36000 (88.80%)], train Loss: 0.313274
+2022-07-31 05:45:09.877 | INFO     | __main__:train:166 - Train Epoch: 17 [35200/36000 (97.69%)], train Loss: 0.345536
+2022-07-31 05:45:26.281 | INFO     | __main__:test:195 - --------------------------------------------Train Epoch: 17-----------------------------------------------------
+2022-07-31 05:45:26.285 | INFO     | __main__:test:196 - Eval set: Average loss: 0.4074, Accuracy: (0.90), Pre: (0.91), Recall: (0.90)
+2022-07-31 05:45:26.286 | INFO     | __main__:test:199 - [[5522  415]
+ [ 730 5333]]
+2022-07-31 05:45:26.287 | INFO     | __main__:<module>:215 - acc is: 0.9046, best acc is 0.9093, best model get in 0
+2022-07-31 05:45:41.483 | INFO     | __main__:train:166 - Train Epoch: 18 [3200/36000 (8.80%)], train Loss: 0.344512
+2022-07-31 05:45:56.516 | INFO     | __main__:train:166 - Train Epoch: 18 [6400/36000 (17.69%)], train Loss: 0.344513
+2022-07-31 05:46:11.740 | INFO     | __main__:train:166 - Train Epoch: 18 [9600/36000 (26.58%)], train Loss: 0.394698
+2022-07-31 05:46:27.931 | INFO     | __main__:train:166 - Train Epoch: 18 [12800/36000 (35.47%)], train Loss: 0.313265
+2022-07-31 05:46:43.448 | INFO     | __main__:train:166 - Train Epoch: 18 [16000/36000 (44.36%)], train Loss: 0.313264
+2022-07-31 05:46:58.209 | INFO     | __main__:train:166 - Train Epoch: 18 [19200/36000 (53.24%)], train Loss: 0.356607
+2022-07-31 05:47:13.591 | INFO     | __main__:train:166 - Train Epoch: 18 [22400/36000 (62.13%)], train Loss: 0.407003
+2022-07-31 05:47:29.947 | INFO     | __main__:train:166 - Train Epoch: 18 [25600/36000 (71.02%)], train Loss: 0.344514
+2022-07-31 05:47:45.066 | INFO     | __main__:train:166 - Train Epoch: 18 [28800/36000 (79.91%)], train Loss: 0.314197
+2022-07-31 05:48:00.222 | INFO     | __main__:train:166 - Train Epoch: 18 [32000/36000 (88.80%)], train Loss: 0.343539
+2022-07-31 05:48:15.300 | INFO     | __main__:train:166 - Train Epoch: 18 [35200/36000 (97.69%)], train Loss: 0.347106
+2022-07-31 05:48:32.013 | INFO     | __main__:test:195 - --------------------------------------------Train Epoch: 18-----------------------------------------------------
+2022-07-31 05:48:32.018 | INFO     | __main__:test:196 - Eval set: Average loss: 0.4036, Accuracy: (0.91), Pre: (0.91), Recall: (0.91)
+2022-07-31 05:48:32.018 | INFO     | __main__:test:199 - [[5435  502]
+ [ 606 5457]]
+2022-07-31 05:48:32.020 | INFO     | __main__:<module>:215 - acc is: 0.9077, best acc is 0.9093, best model get in 0
+2022-07-31 05:48:47.552 | INFO     | __main__:train:166 - Train Epoch: 19 [3200/36000 (8.80%)], train Loss: 0.313264
+2022-07-31 05:49:02.725 | INFO     | __main__:train:166 - Train Epoch: 19 [6400/36000 (17.69%)], train Loss: 0.313263
+2022-07-31 05:49:17.906 | INFO     | __main__:train:166 - Train Epoch: 19 [9600/36000 (26.58%)], train Loss: 0.344513
+2022-07-31 05:49:33.417 | INFO     | __main__:train:166 - Train Epoch: 19 [12800/36000 (35.47%)], train Loss: 0.313263
+2022-07-31 05:49:48.405 | INFO     | __main__:train:166 - Train Epoch: 19 [16000/36000 (44.36%)], train Loss: 0.313263
+2022-07-31 05:50:03.495 | INFO     | __main__:train:166 - Train Epoch: 19 [19200/36000 (53.24%)], train Loss: 0.344513
+2022-07-31 05:50:18.890 | INFO     | __main__:train:166 - Train Epoch: 19 [22400/36000 (62.13%)], train Loss: 0.344513
+2022-07-31 05:50:35.097 | INFO     | __main__:train:166 - Train Epoch: 19 [25600/36000 (71.02%)], train Loss: 0.375424
+2022-07-31 05:50:50.294 | INFO     | __main__:train:166 - Train Epoch: 19 [28800/36000 (79.91%)], train Loss: 0.313263
+2022-07-31 05:51:05.442 | INFO     | __main__:train:166 - Train Epoch: 19 [32000/36000 (88.80%)], train Loss: 0.407013
+2022-07-31 05:51:20.456 | INFO     | __main__:train:166 - Train Epoch: 19 [35200/36000 (97.69%)], train Loss: 0.344521
+2022-07-31 05:51:37.073 | INFO     | __main__:test:195 - --------------------------------------------Train Epoch: 19-----------------------------------------------------
+2022-07-31 05:51:37.078 | INFO     | __main__:test:196 - Eval set: Average loss: 0.4073, Accuracy: (0.91), Pre: (0.91), Recall: (0.91)
+2022-07-31 05:51:37.078 | INFO     | __main__:test:199 - [[5549  388]
+ [ 750 5313]]
+2022-07-31 05:51:37.080 | INFO     | __main__:<module>:215 - acc is: 0.9052, best acc is 0.9093, best model get in 0
+2022-07-31 05:51:52.242 | INFO     | __main__:train:166 - Train Epoch: 20 [3200/36000 (8.80%)], train Loss: 0.313264
+2022-07-31 05:52:07.423 | INFO     | __main__:train:166 - Train Epoch: 20 [6400/36000 (17.69%)], train Loss: 0.313264
+2022-07-31 05:52:22.474 | INFO     | __main__:train:166 - Train Epoch: 20 [9600/36000 (26.58%)], train Loss: 0.346724
+2022-07-31 05:52:37.752 | INFO     | __main__:train:166 - Train Epoch: 20 [12800/36000 (35.47%)], train Loss: 0.313267
+2022-07-31 05:52:53.352 | INFO     | __main__:train:166 - Train Epoch: 20 [16000/36000 (44.36%)], train Loss: 0.313267
+2022-07-31 05:53:09.621 | INFO     | __main__:train:166 - Train Epoch: 20 [19200/36000 (53.24%)], train Loss: 0.324509
+2022-07-31 05:53:25.074 | INFO     | __main__:train:166 - Train Epoch: 20 [22400/36000 (62.13%)], train Loss: 0.344514
+2022-07-31 05:53:40.226 | INFO     | __main__:train:166 - Train Epoch: 20 [25600/36000 (71.02%)], train Loss: 0.344515
+2022-07-31 05:53:55.407 | INFO     | __main__:train:166 - Train Epoch: 20 [28800/36000 (79.91%)], train Loss: 0.313264
+2022-07-31 05:54:10.772 | INFO     | __main__:train:166 - Train Epoch: 20 [32000/36000 (88.80%)], train Loss: 0.365744
+2022-07-31 05:54:26.132 | INFO     | __main__:train:166 - Train Epoch: 20 [35200/36000 (97.69%)], train Loss: 0.313296
+2022-07-31 05:54:42.863 | INFO     | __main__:test:195 - --------------------------------------------Train Epoch: 20-----------------------------------------------------
+2022-07-31 05:54:42.870 | INFO     | __main__:test:196 - Eval set: Average loss: 0.4005, Accuracy: (0.91), Pre: (0.91), Recall: (0.91)
+2022-07-31 05:54:42.870 | INFO     | __main__:test:199 - [[5464  473]
+ [ 596 5467]]
+2022-07-31 05:54:45.805 | INFO     | __main__:<module>:215 - acc is: 0.9109, best acc is 0.9109, best model get in 20
+2022-07-31 05:55:01.132 | INFO     | __main__:train:166 - Train Epoch: 21 [3200/36000 (8.80%)], train Loss: 0.348058
+2022-07-31 05:55:16.579 | INFO     | __main__:train:166 - Train Epoch: 21 [6400/36000 (17.69%)], train Loss: 0.313263
+2022-07-31 05:55:31.840 | INFO     | __main__:train:166 - Train Epoch: 21 [9600/36000 (26.58%)], train Loss: 0.314167
+2022-07-31 05:55:47.689 | INFO     | __main__:train:166 - Train Epoch: 21 [12800/36000 (35.47%)], train Loss: 0.345215
+2022-07-31 05:56:02.686 | INFO     | __main__:train:166 - Train Epoch: 21 [16000/36000 (44.36%)], train Loss: 0.344513
+2022-07-31 05:56:17.882 | INFO     | __main__:train:166 - Train Epoch: 21 [19200/36000 (53.24%)], train Loss: 0.403923
+2022-07-31 05:56:32.965 | INFO     | __main__:train:166 - Train Epoch: 21 [22400/36000 (62.13%)], train Loss: 0.313411
+2022-07-31 05:56:48.106 | INFO     | __main__:train:166 - Train Epoch: 21 [25600/36000 (71.02%)], train Loss: 0.344513
+2022-07-31 05:57:03.259 | INFO     | __main__:train:166 - Train Epoch: 21 [28800/36000 (79.91%)], train Loss: 0.313263
+2022-07-31 05:57:18.456 | INFO     | __main__:train:166 - Train Epoch: 21 [32000/36000 (88.80%)], train Loss: 0.313266
+2022-07-31 05:57:33.860 | INFO     | __main__:train:166 - Train Epoch: 21 [35200/36000 (97.69%)], train Loss: 0.344512
+2022-07-31 05:57:50.472 | INFO     | __main__:test:195 - --------------------------------------------Train Epoch: 21-----------------------------------------------------
+2022-07-31 05:57:50.478 | INFO     | __main__:test:196 - Eval set: Average loss: 0.4015, Accuracy: (0.91), Pre: (0.91), Recall: (0.91)
+2022-07-31 05:57:50.479 | INFO     | __main__:test:199 - [[5559  378]
+ [ 693 5370]]
+2022-07-31 05:57:50.481 | INFO     | __main__:<module>:215 - acc is: 0.9107, best acc is 0.9109, best model get in 0
+2022-07-31 05:58:05.567 | INFO     | __main__:train:166 - Train Epoch: 22 [3200/36000 (8.80%)], train Loss: 0.344514
+2022-07-31 05:58:20.874 | INFO     | __main__:train:166 - Train Epoch: 22 [6400/36000 (17.69%)], train Loss: 0.344515
+2022-07-31 05:58:36.338 | INFO     | __main__:train:166 - Train Epoch: 22 [9600/36000 (26.58%)], train Loss: 0.344513
+2022-07-31 05:58:50.734 | INFO     | __main__:train:166 - Train Epoch: 22 [12800/36000 (35.47%)], train Loss: 0.344576
+2022-07-31 05:59:05.939 | INFO     | __main__:train:166 - Train Epoch: 22 [16000/36000 (44.36%)], train Loss: 0.344633
+2022-07-31 05:59:20.960 | INFO     | __main__:train:166 - Train Epoch: 22 [19200/36000 (53.24%)], train Loss: 0.313263
+2022-07-31 05:59:36.231 | INFO     | __main__:train:166 - Train Epoch: 22 [22400/36000 (62.13%)], train Loss: 0.313263
+2022-07-31 05:59:51.319 | INFO     | __main__:train:166 - Train Epoch: 22 [25600/36000 (71.02%)], train Loss: 0.313263
+2022-07-31 06:00:06.774 | INFO     | __main__:train:166 - Train Epoch: 22 [28800/36000 (79.91%)], train Loss: 0.375762
+2022-07-31 06:00:21.619 | INFO     | __main__:train:166 - Train Epoch: 22 [32000/36000 (88.80%)], train Loss: 0.313264
+2022-07-31 06:00:37.117 | INFO     | __main__:train:166 - Train Epoch: 22 [35200/36000 (97.69%)], train Loss: 0.313268
+2022-07-31 06:00:53.689 | INFO     | __main__:test:195 - --------------------------------------------Train Epoch: 22-----------------------------------------------------
+2022-07-31 06:00:53.694 | INFO     | __main__:test:196 - Eval set: Average loss: 0.4012, Accuracy: (0.91), Pre: (0.91), Recall: (0.91)
+2022-07-31 06:00:53.695 | INFO     | __main__:test:199 - [[5516  421]
+ [ 647 5416]]
+2022-07-31 06:00:56.453 | INFO     | __main__:<module>:215 - acc is: 0.9110, best acc is 0.9110, best model get in 22
+2022-07-31 06:01:11.786 | INFO     | __main__:train:166 - Train Epoch: 23 [3200/36000 (8.80%)], train Loss: 0.407012
+2022-07-31 06:01:26.856 | INFO     | __main__:train:166 - Train Epoch: 23 [6400/36000 (17.69%)], train Loss: 0.313263
+2022-07-31 06:01:42.302 | INFO     | __main__:train:166 - Train Epoch: 23 [9600/36000 (26.58%)], train Loss: 0.313262
+2022-07-31 06:01:57.613 | INFO     | __main__:train:166 - Train Epoch: 23 [12800/36000 (35.47%)], train Loss: 0.313262
+2022-07-31 06:02:12.876 | INFO     | __main__:train:166 - Train Epoch: 23 [16000/36000 (44.36%)], train Loss: 0.375762
+2022-07-31 06:02:28.124 | INFO     | __main__:train:166 - Train Epoch: 23 [19200/36000 (53.24%)], train Loss: 0.313262
+2022-07-31 06:02:43.336 | INFO     | __main__:train:166 - Train Epoch: 23 [22400/36000 (62.13%)], train Loss: 0.320981
+2022-07-31 06:02:58.347 | INFO     | __main__:train:166 - Train Epoch: 23 [25600/36000 (71.02%)], train Loss: 0.344513
+2022-07-31 06:03:13.378 | INFO     | __main__:train:166 - Train Epoch: 23 [28800/36000 (79.91%)], train Loss: 0.313262
+2022-07-31 06:03:28.543 | INFO     | __main__:train:166 - Train Epoch: 23 [32000/36000 (88.80%)], train Loss: 0.313262
+2022-07-31 06:03:43.581 | INFO     | __main__:train:166 - Train Epoch: 23 [35200/36000 (97.69%)], train Loss: 0.344512
+2022-07-31 06:04:00.094 | INFO     | __main__:test:195 - --------------------------------------------Train Epoch: 23-----------------------------------------------------
+2022-07-31 06:04:00.101 | INFO     | __main__:test:196 - Eval set: Average loss: 0.4056, Accuracy: (0.91), Pre: (0.91), Recall: (0.91)
+2022-07-31 06:04:00.101 | INFO     | __main__:test:199 - [[5579  358]
+ [ 761 5302]]
+2022-07-31 06:04:00.103 | INFO     | __main__:<module>:215 - acc is: 0.9067, best acc is 0.9110, best model get in 0
+2022-07-31 06:04:15.042 | INFO     | __main__:train:166 - Train Epoch: 24 [3200/36000 (8.80%)], train Loss: 0.375823
+2022-07-31 06:04:30.229 | INFO     | __main__:train:166 - Train Epoch: 24 [6400/36000 (17.69%)], train Loss: 0.344512
+2022-07-31 06:04:45.198 | INFO     | __main__:train:166 - Train Epoch: 24 [9600/36000 (26.58%)], train Loss: 0.401240
+2022-07-31 06:05:00.457 | INFO     | __main__:train:166 - Train Epoch: 24 [12800/36000 (35.47%)], train Loss: 0.364512
+2022-07-31 06:05:15.651 | INFO     | __main__:train:166 - Train Epoch: 24 [16000/36000 (44.36%)], train Loss: 0.313263
+2022-07-31 06:05:31.414 | INFO     | __main__:train:166 - Train Epoch: 24 [19200/36000 (53.24%)], train Loss: 0.313262
+2022-07-31 06:05:47.264 | INFO     | __main__:train:166 - Train Epoch: 24 [22400/36000 (62.13%)], train Loss: 0.313262
+2022-07-31 06:06:02.604 | INFO     | __main__:train:166 - Train Epoch: 24 [25600/36000 (71.02%)], train Loss: 0.313263
+2022-07-31 06:06:17.441 | INFO     | __main__:train:166 - Train Epoch: 24 [28800/36000 (79.91%)], train Loss: 0.344513
+2022-07-31 06:06:32.523 | INFO     | __main__:train:166 - Train Epoch: 24 [32000/36000 (88.80%)], train Loss: 0.344517
+2022-07-31 06:06:47.603 | INFO     | __main__:train:166 - Train Epoch: 24 [35200/36000 (97.69%)], train Loss: 0.344513
+2022-07-31 06:07:04.163 | INFO     | __main__:test:195 - --------------------------------------------Train Epoch: 24-----------------------------------------------------
+2022-07-31 06:07:04.165 | INFO     | __main__:test:196 - Eval set: Average loss: 0.4048, Accuracy: (0.91), Pre: (0.91), Recall: (0.91)
+2022-07-31 06:07:04.165 | INFO     | __main__:test:199 - [[5528  409]
+ [ 719 5344]]
+2022-07-31 06:07:04.167 | INFO     | __main__:<module>:215 - acc is: 0.9060, best acc is 0.9110, best model get in 0
+2022-07-31 06:07:19.250 | INFO     | __main__:train:166 - Train Epoch: 25 [3200/36000 (8.80%)], train Loss: 0.313263
+2022-07-31 06:07:34.502 | INFO     | __main__:train:166 - Train Epoch: 25 [6400/36000 (17.69%)], train Loss: 0.353596
+2022-07-31 06:07:49.619 | INFO     | __main__:train:166 - Train Epoch: 25 [9600/36000 (26.58%)], train Loss: 0.314116
+2022-07-31 06:08:04.784 | INFO     | __main__:train:166 - Train Epoch: 25 [12800/36000 (35.47%)], train Loss: 0.313264
+2022-07-31 06:08:20.000 | INFO     | __main__:train:166 - Train Epoch: 25 [16000/36000 (44.36%)], train Loss: 0.360879
+2022-07-31 06:08:35.340 | INFO     | __main__:train:166 - Train Epoch: 25 [19200/36000 (53.24%)], train Loss: 0.344513
+2022-07-31 06:08:50.465 | INFO     | __main__:train:166 - Train Epoch: 25 [22400/36000 (62.13%)], train Loss: 0.375763
+2022-07-31 06:09:05.253 | INFO     | __main__:train:166 - Train Epoch: 25 [25600/36000 (71.02%)], train Loss: 0.344512
+2022-07-31 06:09:20.392 | INFO     | __main__:train:166 - Train Epoch: 25 [28800/36000 (79.91%)], train Loss: 0.314796
+2022-07-31 06:09:35.616 | INFO     | __main__:train:166 - Train Epoch: 25 [32000/36000 (88.80%)], train Loss: 0.313269
+2022-07-31 06:09:50.581 | INFO     | __main__:train:166 - Train Epoch: 25 [35200/36000 (97.69%)], train Loss: 0.313262
+2022-07-31 06:10:06.980 | INFO     | __main__:test:195 - --------------------------------------------Train Epoch: 25-----------------------------------------------------
+2022-07-31 06:10:06.985 | INFO     | __main__:test:196 - Eval set: Average loss: 0.4024, Accuracy: (0.91), Pre: (0.91), Recall: (0.91)
+2022-07-31 06:10:06.986 | INFO     | __main__:test:199 - [[5464  473]
+ [ 613 5450]]
+2022-07-31 06:10:06.987 | INFO     | __main__:<module>:215 - acc is: 0.9095, best acc is 0.9110, best model get in 0
+2022-07-31 06:10:22.037 | INFO     | __main__:train:166 - Train Epoch: 26 [3200/36000 (8.80%)], train Loss: 0.348216
+2022-07-31 06:10:37.358 | INFO     | __main__:train:166 - Train Epoch: 26 [6400/36000 (17.69%)], train Loss: 0.313263
+2022-07-31 06:10:52.752 | INFO     | __main__:train:166 - Train Epoch: 26 [9600/36000 (26.58%)], train Loss: 0.375763
+2022-07-31 06:11:07.960 | INFO     | __main__:train:166 - Train Epoch: 26 [12800/36000 (35.47%)], train Loss: 0.344512
+2022-07-31 06:11:22.967 | INFO     | __main__:train:166 - Train Epoch: 26 [16000/36000 (44.36%)], train Loss: 0.375762
+2022-07-31 06:11:38.234 | INFO     | __main__:train:166 - Train Epoch: 26 [19200/36000 (53.24%)], train Loss: 0.344512
+2022-07-31 06:11:53.430 | INFO     | __main__:train:166 - Train Epoch: 26 [22400/36000 (62.13%)], train Loss: 0.313262
+2022-07-31 06:12:08.498 | INFO     | __main__:train:166 - Train Epoch: 26 [25600/36000 (71.02%)], train Loss: 0.344512
+2022-07-31 06:12:23.460 | INFO     | __main__:train:166 - Train Epoch: 26 [28800/36000 (79.91%)], train Loss: 0.374317
+2022-07-31 06:12:38.601 | INFO     | __main__:train:166 - Train Epoch: 26 [32000/36000 (88.80%)], train Loss: 0.313262
+2022-07-31 06:12:53.664 | INFO     | __main__:train:166 - Train Epoch: 26 [35200/36000 (97.69%)], train Loss: 0.313262
+2022-07-31 06:13:10.203 | INFO     | __main__:test:195 - --------------------------------------------Train Epoch: 26-----------------------------------------------------
+2022-07-31 06:13:10.208 | INFO     | __main__:test:196 - Eval set: Average loss: 0.4056, Accuracy: (0.91), Pre: (0.91), Recall: (0.91)
+2022-07-31 06:13:10.209 | INFO     | __main__:test:199 - [[5566  371]
+ [ 755 5308]]
+2022-07-31 06:13:10.210 | INFO     | __main__:<module>:215 - acc is: 0.9062, best acc is 0.9110, best model get in 0
+2022-07-31 06:13:25.451 | INFO     | __main__:train:166 - Train Epoch: 27 [3200/36000 (8.80%)], train Loss: 0.344512
+2022-07-31 06:13:40.553 | INFO     | __main__:train:166 - Train Epoch: 27 [6400/36000 (17.69%)], train Loss: 0.313262
+2022-07-31 06:13:55.423 | INFO     | __main__:train:166 - Train Epoch: 27 [9600/36000 (26.58%)], train Loss: 0.344512
+2022-07-31 06:14:10.835 | INFO     | __main__:train:166 - Train Epoch: 27 [12800/36000 (35.47%)], train Loss: 0.344512
+2022-07-31 06:14:25.891 | INFO     | __main__:train:166 - Train Epoch: 27 [16000/36000 (44.36%)], train Loss: 0.313262
+2022-07-31 06:14:41.430 | INFO     | __main__:train:166 - Train Epoch: 27 [19200/36000 (53.24%)], train Loss: 0.313534
+2022-07-31 06:14:56.518 | INFO     | __main__:train:166 - Train Epoch: 27 [22400/36000 (62.13%)], train Loss: 0.375762
+2022-07-31 06:15:11.781 | INFO     | __main__:train:166 - Train Epoch: 27 [25600/36000 (71.02%)], train Loss: 0.344512
+2022-07-31 06:15:26.896 | INFO     | __main__:train:166 - Train Epoch: 27 [28800/36000 (79.91%)], train Loss: 0.407012
+2022-07-31 06:15:42.120 | INFO     | __main__:train:166 - Train Epoch: 27 [32000/36000 (88.80%)], train Loss: 0.313262
+2022-07-31 06:15:57.256 | INFO     | __main__:train:166 - Train Epoch: 27 [35200/36000 (97.69%)], train Loss: 0.313262
+2022-07-31 06:16:13.744 | INFO     | __main__:test:195 - --------------------------------------------Train Epoch: 27-----------------------------------------------------
+2022-07-31 06:16:13.749 | INFO     | __main__:test:196 - Eval set: Average loss: 0.4037, Accuracy: (0.91), Pre: (0.91), Recall: (0.91)
+2022-07-31 06:16:13.749 | INFO     | __main__:test:199 - [[5498  439]
+ [ 665 5398]]
+2022-07-31 06:16:13.751 | INFO     | __main__:<module>:215 - acc is: 0.9080, best acc is 0.9110, best model get in 0
+2022-07-31 06:16:29.069 | INFO     | __main__:train:166 - Train Epoch: 28 [3200/36000 (8.80%)], train Loss: 0.344512
+2022-07-31 06:16:44.448 | INFO     | __main__:train:166 - Train Epoch: 28 [6400/36000 (17.69%)], train Loss: 0.364587
+2022-07-31 06:16:59.934 | INFO     | __main__:train:166 - Train Epoch: 28 [9600/36000 (26.58%)], train Loss: 0.313262
+2022-07-31 06:17:15.141 | INFO     | __main__:train:166 - Train Epoch: 28 [12800/36000 (35.47%)], train Loss: 0.344512
+2022-07-31 06:17:30.379 | INFO     | __main__:train:166 - Train Epoch: 28 [16000/36000 (44.36%)], train Loss: 0.313262
+2022-07-31 06:17:45.371 | INFO     | __main__:train:166 - Train Epoch: 28 [19200/36000 (53.24%)], train Loss: 0.344512
+2022-07-31 06:18:00.469 | INFO     | __main__:train:166 - Train Epoch: 28 [22400/36000 (62.13%)], train Loss: 0.344512
+2022-07-31 06:18:15.604 | INFO     | __main__:train:166 - Train Epoch: 28 [25600/36000 (71.02%)], train Loss: 0.375801
+2022-07-31 06:18:31.011 | INFO     | __main__:train:166 - Train Epoch: 28 [28800/36000 (79.91%)], train Loss: 0.313262
+2022-07-31 06:18:46.167 | INFO     | __main__:train:166 - Train Epoch: 28 [32000/36000 (88.80%)], train Loss: 0.375762
+2022-07-31 06:19:01.494 | INFO     | __main__:train:166 - Train Epoch: 28 [35200/36000 (97.69%)], train Loss: 0.313262
+2022-07-31 06:19:17.864 | INFO     | __main__:test:195 - --------------------------------------------Train Epoch: 28-----------------------------------------------------
+2022-07-31 06:19:17.870 | INFO     | __main__:test:196 - Eval set: Average loss: 0.4016, Accuracy: (0.91), Pre: (0.91), Recall: (0.91)
+2022-07-31 06:19:17.871 | INFO     | __main__:test:199 - [[5553  384]
+ [ 680 5383]]
+2022-07-31 06:19:20.392 | INFO     | __main__:<module>:215 - acc is: 0.9113, best acc is 0.9113, best model get in 28
+2022-07-31 06:19:35.689 | INFO     | __main__:train:166 - Train Epoch: 29 [3200/36000 (8.80%)], train Loss: 0.313263
+2022-07-31 06:19:50.562 | INFO     | __main__:train:166 - Train Epoch: 29 [6400/36000 (17.69%)], train Loss: 0.313262
+2022-07-31 06:20:05.657 | INFO     | __main__:train:166 - Train Epoch: 29 [9600/36000 (26.58%)], train Loss: 0.313262
+2022-07-31 06:20:20.640 | INFO     | __main__:train:166 - Train Epoch: 29 [12800/36000 (35.47%)], train Loss: 0.313263
+2022-07-31 06:20:36.053 | INFO     | __main__:train:166 - Train Epoch: 29 [16000/36000 (44.36%)], train Loss: 0.344502
+2022-07-31 06:20:50.986 | INFO     | __main__:train:166 - Train Epoch: 29 [19200/36000 (53.24%)], train Loss: 0.407012
+2022-07-31 06:21:06.179 | INFO     | __main__:train:166 - Train Epoch: 29 [22400/36000 (62.13%)], train Loss: 0.375762
+2022-07-31 06:21:21.316 | INFO     | __main__:train:166 - Train Epoch: 29 [25600/36000 (71.02%)], train Loss: 0.313262
+2022-07-31 06:21:36.611 | INFO     | __main__:train:166 - Train Epoch: 29 [28800/36000 (79.91%)], train Loss: 0.313262
+2022-07-31 06:21:51.614 | INFO     | __main__:train:166 - Train Epoch: 29 [32000/36000 (88.80%)], train Loss: 0.313262
+2022-07-31 06:22:06.642 | INFO     | __main__:train:166 - Train Epoch: 29 [35200/36000 (97.69%)], train Loss: 0.313263
+2022-07-31 06:22:23.114 | INFO     | __main__:test:195 - --------------------------------------------Train Epoch: 29-----------------------------------------------------
+2022-07-31 06:22:23.120 | INFO     | __main__:test:196 - Eval set: Average loss: 0.4052, Accuracy: (0.91), Pre: (0.91), Recall: (0.91)
+2022-07-31 06:22:23.120 | INFO     | __main__:test:199 - [[5572  365]
+ [ 750 5313]]
+2022-07-31 06:22:23.122 | INFO     | __main__:<module>:215 - acc is: 0.9071, best acc is 0.9113, best model get in 0
+2022-07-31 06:22:38.329 | INFO     | __main__:train:166 - Train Epoch: 30 [3200/36000 (8.80%)], train Loss: 0.313931
+2022-07-31 06:22:53.496 | INFO     | __main__:train:166 - Train Epoch: 30 [6400/36000 (17.69%)], train Loss: 0.313262
+2022-07-31 06:23:08.524 | INFO     | __main__:train:166 - Train Epoch: 30 [9600/36000 (26.58%)], train Loss: 0.344512
+2022-07-31 06:23:23.683 | INFO     | __main__:train:166 - Train Epoch: 30 [12800/36000 (35.47%)], train Loss: 0.375762
+2022-07-31 06:23:38.873 | INFO     | __main__:train:166 - Train Epoch: 30 [16000/36000 (44.36%)], train Loss: 0.344513
+2022-07-31 06:23:54.074 | INFO     | __main__:train:166 - Train Epoch: 30 [19200/36000 (53.24%)], train Loss: 0.344513
+2022-07-31 06:24:09.049 | INFO     | __main__:train:166 - Train Epoch: 30 [22400/36000 (62.13%)], train Loss: 0.313263
+2022-07-31 06:24:24.197 | INFO     | __main__:train:166 - Train Epoch: 30 [25600/36000 (71.02%)], train Loss: 0.313264
+2022-07-31 06:24:39.224 | INFO     | __main__:train:166 - Train Epoch: 30 [28800/36000 (79.91%)], train Loss: 0.344513
+2022-07-31 06:24:54.337 | INFO     | __main__:train:166 - Train Epoch: 30 [32000/36000 (88.80%)], train Loss: 0.313264
+2022-07-31 06:25:09.892 | INFO     | __main__:train:166 - Train Epoch: 30 [35200/36000 (97.69%)], train Loss: 0.344456
+2022-07-31 06:25:26.851 | INFO     | __main__:test:195 - --------------------------------------------Train Epoch: 30-----------------------------------------------------
+2022-07-31 06:25:26.856 | INFO     | __main__:test:196 - Eval set: Average loss: 0.4012, Accuracy: (0.91), Pre: (0.91), Recall: (0.91)
+2022-07-31 06:25:26.857 | INFO     | __main__:test:199 - [[5533  404]
+ [ 672 5391]]
+2022-07-31 06:25:26.858 | INFO     | __main__:<module>:215 - acc is: 0.9103, best acc is 0.9113, best model get in 0
+2022-07-31 06:25:42.031 | INFO     | __main__:train:166 - Train Epoch: 31 [3200/36000 (8.80%)], train Loss: 0.313263
+2022-07-31 06:25:57.341 | INFO     | __main__:train:166 - Train Epoch: 31 [6400/36000 (17.69%)], train Loss: 0.313263
+2022-07-31 06:26:12.439 | INFO     | __main__:train:166 - Train Epoch: 31 [9600/36000 (26.58%)], train Loss: 0.345244
+2022-07-31 06:26:27.535 | INFO     | __main__:train:166 - Train Epoch: 31 [12800/36000 (35.47%)], train Loss: 0.313263
+2022-07-31 06:26:42.538 | INFO     | __main__:train:166 - Train Epoch: 31 [16000/36000 (44.36%)], train Loss: 0.375762
+2022-07-31 06:26:57.585 | INFO     | __main__:train:166 - Train Epoch: 31 [19200/36000 (53.24%)], train Loss: 0.386879
+2022-07-31 06:27:12.556 | INFO     | __main__:train:166 - Train Epoch: 31 [22400/36000 (62.13%)], train Loss: 0.344028
+2022-07-31 06:27:27.599 | INFO     | __main__:train:166 - Train Epoch: 31 [25600/36000 (71.02%)], train Loss: 0.344513
+2022-07-31 06:27:42.884 | INFO     | __main__:train:166 - Train Epoch: 31 [28800/36000 (79.91%)], train Loss: 0.313263
+2022-07-31 06:27:57.919 | INFO     | __main__:train:166 - Train Epoch: 31 [32000/36000 (88.80%)], train Loss: 0.313263
+2022-07-31 06:28:13.067 | INFO     | __main__:train:166 - Train Epoch: 31 [35200/36000 (97.69%)], train Loss: 0.313263
+2022-07-31 06:28:29.634 | INFO     | __main__:test:195 - --------------------------------------------Train Epoch: 31-----------------------------------------------------
+2022-07-31 06:28:29.640 | INFO     | __main__:test:196 - Eval set: Average loss: 0.4031, Accuracy: (0.91), Pre: (0.91), Recall: (0.91)
+2022-07-31 06:28:29.640 | INFO     | __main__:test:199 - [[5462  475]
+ [ 624 5439]]
+2022-07-31 06:28:29.642 | INFO     | __main__:<module>:215 - acc is: 0.9084, best acc is 0.9113, best model get in 0
+2022-07-31 06:28:44.858 | INFO     | __main__:train:166 - Train Epoch: 32 [3200/36000 (8.80%)], train Loss: 0.313940
+2022-07-31 06:29:00.055 | INFO     | __main__:train:166 - Train Epoch: 32 [6400/36000 (17.69%)], train Loss: 0.313262
+2022-07-31 06:29:15.307 | INFO     | __main__:train:166 - Train Epoch: 32 [9600/36000 (26.58%)], train Loss: 0.313263
+2022-07-31 06:29:30.451 | INFO     | __main__:train:166 - Train Epoch: 32 [12800/36000 (35.47%)], train Loss: 0.313262
+2022-07-31 06:29:45.722 | INFO     | __main__:train:166 - Train Epoch: 32 [16000/36000 (44.36%)], train Loss: 0.313262
+2022-07-31 06:30:00.929 | INFO     | __main__:train:166 - Train Epoch: 32 [19200/36000 (53.24%)], train Loss: 0.313284
+2022-07-31 06:30:16.067 | INFO     | __main__:train:166 - Train Epoch: 32 [22400/36000 (62.13%)], train Loss: 0.313263
+2022-07-31 06:30:30.855 | INFO     | __main__:train:166 - Train Epoch: 32 [25600/36000 (71.02%)], train Loss: 0.344512
+2022-07-31 06:30:46.397 | INFO     | __main__:train:166 - Train Epoch: 32 [28800/36000 (79.91%)], train Loss: 0.375771
+2022-07-31 06:31:01.663 | INFO     | __main__:train:166 - Train Epoch: 32 [32000/36000 (88.80%)], train Loss: 0.313262
+2022-07-31 06:31:16.834 | INFO     | __main__:train:166 - Train Epoch: 32 [35200/36000 (97.69%)], train Loss: 0.313262
+2022-07-31 06:31:33.413 | INFO     | __main__:test:195 - --------------------------------------------Train Epoch: 32-----------------------------------------------------
+2022-07-31 06:31:33.419 | INFO     | __main__:test:196 - Eval set: Average loss: 0.4048, Accuracy: (0.91), Pre: (0.91), Recall: (0.91)
+2022-07-31 06:31:33.419 | INFO     | __main__:test:199 - [[5510  427]
+ [ 687 5376]]
+2022-07-31 06:31:33.421 | INFO     | __main__:<module>:215 - acc is: 0.9072, best acc is 0.9113, best model get in 0
+2022-07-31 06:31:48.702 | INFO     | __main__:train:166 - Train Epoch: 33 [3200/36000 (8.80%)], train Loss: 0.357802
+2022-07-31 06:32:03.940 | INFO     | __main__:train:166 - Train Epoch: 33 [6400/36000 (17.69%)], train Loss: 0.313262
+2022-07-31 06:32:19.217 | INFO     | __main__:train:166 - Train Epoch: 33 [9600/36000 (26.58%)], train Loss: 0.344512
+2022-07-31 06:32:34.396 | INFO     | __main__:train:166 - Train Epoch: 33 [12800/36000 (35.47%)], train Loss: 0.313279
+2022-07-31 06:32:49.273 | INFO     | __main__:train:166 - Train Epoch: 33 [16000/36000 (44.36%)], train Loss: 0.313262
+2022-07-31 06:33:04.358 | INFO     | __main__:train:166 - Train Epoch: 33 [19200/36000 (53.24%)], train Loss: 0.344540
+2022-07-31 06:33:19.229 | INFO     | __main__:train:166 - Train Epoch: 33 [22400/36000 (62.13%)], train Loss: 0.330051
+2022-07-31 06:33:34.417 | INFO     | __main__:train:166 - Train Epoch: 33 [25600/36000 (71.02%)], train Loss: 0.344513
+2022-07-31 06:33:49.499 | INFO     | __main__:train:166 - Train Epoch: 33 [28800/36000 (79.91%)], train Loss: 0.313428
+2022-07-31 06:34:04.570 | INFO     | __main__:train:166 - Train Epoch: 33 [32000/36000 (88.80%)], train Loss: 0.313262
+2022-07-31 06:34:19.565 | INFO     | __main__:train:166 - Train Epoch: 33 [35200/36000 (97.69%)], train Loss: 0.344512
+2022-07-31 06:34:36.118 | INFO     | __main__:test:195 - --------------------------------------------Train Epoch: 33-----------------------------------------------------
+2022-07-31 06:34:36.125 | INFO     | __main__:test:196 - Eval set: Average loss: 0.4006, Accuracy: (0.91), Pre: (0.91), Recall: (0.91)
+2022-07-31 06:34:36.125 | INFO     | __main__:test:199 - [[5497  440]
+ [ 620 5443]]
+2022-07-31 06:34:38.797 | INFO     | __main__:<module>:215 - acc is: 0.9117, best acc is 0.9117, best model get in 33
+2022-07-31 06:34:54.072 | INFO     | __main__:train:166 - Train Epoch: 34 [3200/36000 (8.80%)], train Loss: 0.313262
+2022-07-31 06:35:09.158 | INFO     | __main__:train:166 - Train Epoch: 34 [6400/36000 (17.69%)], train Loss: 0.313262
+2022-07-31 06:35:24.400 | INFO     | __main__:train:166 - Train Epoch: 34 [9600/36000 (26.58%)], train Loss: 0.313262
+2022-07-31 06:35:39.775 | INFO     | __main__:train:166 - Train Epoch: 34 [12800/36000 (35.47%)], train Loss: 0.313262
+2022-07-31 06:35:55.023 | INFO     | __main__:train:166 - Train Epoch: 34 [16000/36000 (44.36%)], train Loss: 0.313262
+2022-07-31 06:36:10.161 | INFO     | __main__:train:166 - Train Epoch: 34 [19200/36000 (53.24%)], train Loss: 0.344512
+2022-07-31 06:36:25.656 | INFO     | __main__:train:166 - Train Epoch: 34 [22400/36000 (62.13%)], train Loss: 0.313262
+2022-07-31 06:36:40.066 | INFO     | __main__:train:166 - Train Epoch: 34 [25600/36000 (71.02%)], train Loss: 0.313262
+2022-07-31 06:36:55.329 | INFO     | __main__:train:166 - Train Epoch: 34 [28800/36000 (79.91%)], train Loss: 0.313262
+2022-07-31 06:37:10.555 | INFO     | __main__:train:166 - Train Epoch: 34 [32000/36000 (88.80%)], train Loss: 0.344512
+2022-07-31 06:37:25.729 | INFO     | __main__:train:166 - Train Epoch: 34 [35200/36000 (97.69%)], train Loss: 0.344513
+2022-07-31 06:37:42.326 | INFO     | __main__:test:195 - --------------------------------------------Train Epoch: 34-----------------------------------------------------
+2022-07-31 06:37:42.332 | INFO     | __main__:test:196 - Eval set: Average loss: 0.4041, Accuracy: (0.91), Pre: (0.91), Recall: (0.91)
+2022-07-31 06:37:42.332 | INFO     | __main__:test:199 - [[5525  412]
+ [ 684 5379]]
+2022-07-31 06:37:42.333 | INFO     | __main__:<module>:215 - acc is: 0.9087, best acc is 0.9117, best model get in 0
+2022-07-31 06:37:57.687 | INFO     | __main__:train:166 - Train Epoch: 35 [3200/36000 (8.80%)], train Loss: 0.344512
+2022-07-31 06:38:12.931 | INFO     | __main__:train:166 - Train Epoch: 35 [6400/36000 (17.69%)], train Loss: 0.313262
+2022-07-31 06:38:28.042 | INFO     | __main__:train:166 - Train Epoch: 35 [9600/36000 (26.58%)], train Loss: 0.344512
+2022-07-31 06:38:43.388 | INFO     | __main__:train:166 - Train Epoch: 35 [12800/36000 (35.47%)], train Loss: 0.344511
+2022-07-31 06:38:58.328 | INFO     | __main__:train:166 - Train Epoch: 35 [16000/36000 (44.36%)], train Loss: 0.313268
+2022-07-31 06:39:13.369 | INFO     | __main__:train:166 - Train Epoch: 35 [19200/36000 (53.24%)], train Loss: 0.313263
+2022-07-31 06:39:28.432 | INFO     | __main__:train:166 - Train Epoch: 35 [22400/36000 (62.13%)], train Loss: 0.313262
+2022-07-31 06:39:43.518 | INFO     | __main__:train:166 - Train Epoch: 35 [25600/36000 (71.02%)], train Loss: 0.313262
+2022-07-31 06:39:58.842 | INFO     | __main__:train:166 - Train Epoch: 35 [28800/36000 (79.91%)], train Loss: 0.313262
+2022-07-31 06:40:14.046 | INFO     | __main__:train:166 - Train Epoch: 35 [32000/36000 (88.80%)], train Loss: 0.313262
+2022-07-31 06:40:29.304 | INFO     | __main__:train:166 - Train Epoch: 35 [35200/36000 (97.69%)], train Loss: 0.313262
+2022-07-31 06:40:46.050 | INFO     | __main__:test:195 - --------------------------------------------Train Epoch: 35-----------------------------------------------------
+2022-07-31 06:40:46.059 | INFO     | __main__:test:196 - Eval set: Average loss: 0.4030, Accuracy: (0.91), Pre: (0.91), Recall: (0.91)
+2022-07-31 06:40:46.059 | INFO     | __main__:test:199 - [[5631  306]
+ [ 781 5282]]
+2022-07-31 06:40:46.061 | INFO     | __main__:<module>:215 - acc is: 0.9094, best acc is 0.9117, best model get in 0
+2022-07-31 06:41:01.262 | INFO     | __main__:train:166 - Train Epoch: 36 [3200/36000 (8.80%)], train Loss: 0.344520
+2022-07-31 06:41:16.465 | INFO     | __main__:train:166 - Train Epoch: 36 [6400/36000 (17.69%)], train Loss: 0.313263
+2022-07-31 06:41:31.826 | INFO     | __main__:train:166 - Train Epoch: 36 [9600/36000 (26.58%)], train Loss: 0.344512
+2022-07-31 06:41:47.080 | INFO     | __main__:train:166 - Train Epoch: 36 [12800/36000 (35.47%)], train Loss: 0.375763
+2022-07-31 06:42:02.232 | INFO     | __main__:train:166 - Train Epoch: 36 [16000/36000 (44.36%)], train Loss: 0.313262
+2022-07-31 06:42:17.293 | INFO     | __main__:train:166 - Train Epoch: 36 [19200/36000 (53.24%)], train Loss: 0.344512
+2022-07-31 06:42:32.451 | INFO     | __main__:train:166 - Train Epoch: 36 [22400/36000 (62.13%)], train Loss: 0.313262
+2022-07-31 06:42:47.468 | INFO     | __main__:train:166 - Train Epoch: 36 [25600/36000 (71.02%)], train Loss: 0.313262
+2022-07-31 06:43:02.502 | INFO     | __main__:train:166 - Train Epoch: 36 [28800/36000 (79.91%)], train Loss: 0.313262
+2022-07-31 06:43:17.524 | INFO     | __main__:train:166 - Train Epoch: 36 [32000/36000 (88.80%)], train Loss: 0.313262
+2022-07-31 06:43:32.568 | INFO     | __main__:train:166 - Train Epoch: 36 [35200/36000 (97.69%)], train Loss: 0.344512
+2022-07-31 06:43:49.089 | INFO     | __main__:test:195 - --------------------------------------------Train Epoch: 36-----------------------------------------------------
+2022-07-31 06:43:49.091 | INFO     | __main__:test:196 - Eval set: Average loss: 0.4018, Accuracy: (0.91), Pre: (0.91), Recall: (0.91)
+2022-07-31 06:43:49.092 | INFO     | __main__:test:199 - [[5379  558]
+ [ 521 5542]]
+2022-07-31 06:43:49.093 | INFO     | __main__:<module>:215 - acc is: 0.9101, best acc is 0.9117, best model get in 0
+2022-07-31 06:44:04.293 | INFO     | __main__:train:166 - Train Epoch: 37 [3200/36000 (8.80%)], train Loss: 0.347530
+2022-07-31 06:44:19.407 | INFO     | __main__:train:166 - Train Epoch: 37 [6400/36000 (17.69%)], train Loss: 0.315058
+2022-07-31 06:44:34.603 | INFO     | __main__:train:166 - Train Epoch: 37 [9600/36000 (26.58%)], train Loss: 0.313262
+2022-07-31 06:44:49.546 | INFO     | __main__:train:166 - Train Epoch: 37 [12800/36000 (35.47%)], train Loss: 0.344512
+2022-07-31 06:45:04.493 | INFO     | __main__:train:166 - Train Epoch: 37 [16000/36000 (44.36%)], train Loss: 0.313262
+2022-07-31 06:45:19.508 | INFO     | __main__:train:166 - Train Epoch: 37 [19200/36000 (53.24%)], train Loss: 0.344512
+2022-07-31 06:45:34.581 | INFO     | __main__:train:166 - Train Epoch: 37 [22400/36000 (62.13%)], train Loss: 0.375762
+2022-07-31 06:45:49.560 | INFO     | __main__:train:166 - Train Epoch: 37 [25600/36000 (71.02%)], train Loss: 0.344512
+2022-07-31 06:46:04.608 | INFO     | __main__:train:166 - Train Epoch: 37 [28800/36000 (79.91%)], train Loss: 0.346038
+2022-07-31 06:46:19.651 | INFO     | __main__:train:166 - Train Epoch: 37 [32000/36000 (88.80%)], train Loss: 0.313262
+2022-07-31 06:46:34.786 | INFO     | __main__:train:166 - Train Epoch: 37 [35200/36000 (97.69%)], train Loss: 0.313262
+2022-07-31 06:46:51.330 | INFO     | __main__:test:195 - --------------------------------------------Train Epoch: 37-----------------------------------------------------
+2022-07-31 06:46:51.333 | INFO     | __main__:test:196 - Eval set: Average loss: 0.4027, Accuracy: (0.91), Pre: (0.91), Recall: (0.91)
+2022-07-31 06:46:51.334 | INFO     | __main__:test:199 - [[5554  383]
+ [ 709 5354]]
+2022-07-31 06:46:51.337 | INFO     | __main__:<module>:215 - acc is: 0.9090, best acc is 0.9117, best model get in 0
+2022-07-31 06:47:06.550 | INFO     | __main__:train:166 - Train Epoch: 38 [3200/36000 (8.80%)], train Loss: 0.313262
+2022-07-31 06:47:21.536 | INFO     | __main__:train:166 - Train Epoch: 38 [6400/36000 (17.69%)], train Loss: 0.313262
+2022-07-31 06:47:36.570 | INFO     | __main__:train:166 - Train Epoch: 38 [9600/36000 (26.58%)], train Loss: 0.344512
+2022-07-31 06:47:51.704 | INFO     | __main__:train:166 - Train Epoch: 38 [12800/36000 (35.47%)], train Loss: 0.313262
+2022-07-31 06:48:06.813 | INFO     | __main__:train:166 - Train Epoch: 38 [16000/36000 (44.36%)], train Loss: 0.313262
+2022-07-31 06:48:22.169 | INFO     | __main__:train:166 - Train Epoch: 38 [19200/36000 (53.24%)], train Loss: 0.344512
+2022-07-31 06:48:37.438 | INFO     | __main__:train:166 - Train Epoch: 38 [22400/36000 (62.13%)], train Loss: 0.313262
+2022-07-31 06:48:52.547 | INFO     | __main__:train:166 - Train Epoch: 38 [25600/36000 (71.02%)], train Loss: 0.315987
+2022-07-31 06:49:07.683 | INFO     | __main__:train:166 - Train Epoch: 38 [28800/36000 (79.91%)], train Loss: 0.344512
+2022-07-31 06:49:22.860 | INFO     | __main__:train:166 - Train Epoch: 38 [32000/36000 (88.80%)], train Loss: 0.313262
+2022-07-31 06:49:37.965 | INFO     | __main__:train:166 - Train Epoch: 38 [35200/36000 (97.69%)], train Loss: 0.313262
+2022-07-31 06:49:54.489 | INFO     | __main__:test:195 - --------------------------------------------Train Epoch: 38-----------------------------------------------------
+2022-07-31 06:49:54.491 | INFO     | __main__:test:196 - Eval set: Average loss: 0.4053, Accuracy: (0.91), Pre: (0.91), Recall: (0.91)
+2022-07-31 06:49:54.492 | INFO     | __main__:test:199 - [[5627  310]
+ [ 820 5243]]
+2022-07-31 06:49:54.493 | INFO     | __main__:<module>:215 - acc is: 0.9058, best acc is 0.9117, best model get in 0
+2022-07-31 06:50:09.694 | INFO     | __main__:train:166 - Train Epoch: 39 [3200/36000 (8.80%)], train Loss: 0.332656
+2022-07-31 06:50:24.661 | INFO     | __main__:train:166 - Train Epoch: 39 [6400/36000 (17.69%)], train Loss: 0.313262
+2022-07-31 06:50:40.077 | INFO     | __main__:train:166 - Train Epoch: 39 [9600/36000 (26.58%)], train Loss: 0.313262
+2022-07-31 06:50:55.356 | INFO     | __main__:train:166 - Train Epoch: 39 [12800/36000 (35.47%)], train Loss: 0.344512
+2022-07-31 06:51:10.337 | INFO     | __main__:train:166 - Train Epoch: 39 [16000/36000 (44.36%)], train Loss: 0.313262
+2022-07-31 06:51:25.578 | INFO     | __main__:train:166 - Train Epoch: 39 [19200/36000 (53.24%)], train Loss: 0.375762
+2022-07-31 06:51:40.754 | INFO     | __main__:train:166 - Train Epoch: 39 [22400/36000 (62.13%)], train Loss: 0.313262
+2022-07-31 06:51:55.661 | INFO     | __main__:train:166 - Train Epoch: 39 [25600/36000 (71.02%)], train Loss: 0.313262
+2022-07-31 06:52:10.766 | INFO     | __main__:train:166 - Train Epoch: 39 [28800/36000 (79.91%)], train Loss: 0.313322
+2022-07-31 06:52:25.944 | INFO     | __main__:train:166 - Train Epoch: 39 [32000/36000 (88.80%)], train Loss: 0.313262
+2022-07-31 06:52:40.990 | INFO     | __main__:train:166 - Train Epoch: 39 [35200/36000 (97.69%)], train Loss: 0.344512
+2022-07-31 06:52:57.453 | INFO     | __main__:test:195 - --------------------------------------------Train Epoch: 39-----------------------------------------------------
+2022-07-31 06:52:57.459 | INFO     | __main__:test:196 - Eval set: Average loss: 0.3969, Accuracy: (0.91), Pre: (0.92), Recall: (0.91)
+2022-07-31 06:52:57.459 | INFO     | __main__:test:199 - [[5514  423]
+ [ 599 5464]]
+2022-07-31 06:52:59.899 | INFO     | __main__:<module>:215 - acc is: 0.9148, best acc is 0.9148, best model get in 39
+2022-07-31 06:53:15.050 | INFO     | __main__:train:166 - Train Epoch: 40 [3200/36000 (8.80%)], train Loss: 0.328725
+2022-07-31 06:53:30.064 | INFO     | __main__:train:166 - Train Epoch: 40 [6400/36000 (17.69%)], train Loss: 0.313263
+2022-07-31 06:53:45.167 | INFO     | __main__:train:166 - Train Epoch: 40 [9600/36000 (26.58%)], train Loss: 0.313262
+2022-07-31 06:54:00.381 | INFO     | __main__:train:166 - Train Epoch: 40 [12800/36000 (35.47%)], train Loss: 0.313262
+2022-07-31 06:54:15.536 | INFO     | __main__:train:166 - Train Epoch: 40 [16000/36000 (44.36%)], train Loss: 0.344512
+2022-07-31 06:54:30.605 | INFO     | __main__:train:166 - Train Epoch: 40 [19200/36000 (53.24%)], train Loss: 0.313262
+2022-07-31 06:54:45.546 | INFO     | __main__:train:166 - Train Epoch: 40 [22400/36000 (62.13%)], train Loss: 0.313262
+2022-07-31 06:55:00.565 | INFO     | __main__:train:166 - Train Epoch: 40 [25600/36000 (71.02%)], train Loss: 0.344512
+2022-07-31 06:55:15.517 | INFO     | __main__:train:166 - Train Epoch: 40 [28800/36000 (79.91%)], train Loss: 0.344511
+2022-07-31 06:55:30.516 | INFO     | __main__:train:166 - Train Epoch: 40 [32000/36000 (88.80%)], train Loss: 0.313262
+2022-07-31 06:55:45.645 | INFO     | __main__:train:166 - Train Epoch: 40 [35200/36000 (97.69%)], train Loss: 0.313262
+2022-07-31 06:56:02.263 | INFO     | __main__:test:195 - --------------------------------------------Train Epoch: 40-----------------------------------------------------
+2022-07-31 06:56:02.265 | INFO     | __main__:test:196 - Eval set: Average loss: 0.4004, Accuracy: (0.91), Pre: (0.91), Recall: (0.91)
+2022-07-31 06:56:02.265 | INFO     | __main__:test:199 - [[5550  387]
+ [ 671 5392]]
+2022-07-31 06:56:02.267 | INFO     | __main__:<module>:215 - acc is: 0.9118, best acc is 0.9148, best model get in 0
+2022-07-31 06:56:17.318 | INFO     | __main__:train:166 - Train Epoch: 41 [3200/36000 (8.80%)], train Loss: 0.344512
+2022-07-31 06:56:32.629 | INFO     | __main__:train:166 - Train Epoch: 41 [6400/36000 (17.69%)], train Loss: 0.313262
+2022-07-31 06:56:47.638 | INFO     | __main__:train:166 - Train Epoch: 41 [9600/36000 (26.58%)], train Loss: 0.313262
+2022-07-31 06:57:03.170 | INFO     | __main__:train:166 - Train Epoch: 41 [12800/36000 (35.47%)], train Loss: 0.313262
+2022-07-31 06:57:18.163 | INFO     | __main__:train:166 - Train Epoch: 41 [16000/36000 (44.36%)], train Loss: 0.313262
+2022-07-31 06:57:33.279 | INFO     | __main__:train:166 - Train Epoch: 41 [19200/36000 (53.24%)], train Loss: 0.344512
+2022-07-31 06:57:48.258 | INFO     | __main__:train:166 - Train Epoch: 41 [22400/36000 (62.13%)], train Loss: 0.313262
+2022-07-31 06:58:03.252 | INFO     | __main__:train:166 - Train Epoch: 41 [25600/36000 (71.02%)], train Loss: 0.313262
+2022-07-31 06:58:18.463 | INFO     | __main__:train:166 - Train Epoch: 41 [28800/36000 (79.91%)], train Loss: 0.313262
+2022-07-31 06:58:33.835 | INFO     | __main__:train:166 - Train Epoch: 41 [32000/36000 (88.80%)], train Loss: 0.313262
+2022-07-31 06:58:49.015 | INFO     | __main__:train:166 - Train Epoch: 41 [35200/36000 (97.69%)], train Loss: 0.313262
+2022-07-31 06:59:05.434 | INFO     | __main__:test:195 - --------------------------------------------Train Epoch: 41-----------------------------------------------------
+2022-07-31 06:59:05.439 | INFO     | __main__:test:196 - Eval set: Average loss: 0.4031, Accuracy: (0.91), Pre: (0.91), Recall: (0.91)
+2022-07-31 06:59:05.440 | INFO     | __main__:test:199 - [[5580  357]
+ [ 731 5332]]
+2022-07-31 06:59:05.441 | INFO     | __main__:<module>:215 - acc is: 0.9093, best acc is 0.9148, best model get in 0
+2022-07-31 06:59:20.588 | INFO     | __main__:train:166 - Train Epoch: 42 [3200/36000 (8.80%)], train Loss: 0.313265
+2022-07-31 06:59:35.680 | INFO     | __main__:train:166 - Train Epoch: 42 [6400/36000 (17.69%)], train Loss: 0.344512
+2022-07-31 06:59:50.791 | INFO     | __main__:train:166 - Train Epoch: 42 [9600/36000 (26.58%)], train Loss: 0.313262
+2022-07-31 07:00:05.520 | INFO     | __main__:train:166 - Train Epoch: 42 [12800/36000 (35.47%)], train Loss: 0.313262
+2022-07-31 07:00:20.855 | INFO     | __main__:train:166 - Train Epoch: 42 [16000/36000 (44.36%)], train Loss: 0.313262
+2022-07-31 07:00:36.078 | INFO     | __main__:train:166 - Train Epoch: 42 [19200/36000 (53.24%)], train Loss: 0.313262
+2022-07-31 07:00:51.300 | INFO     | __main__:train:166 - Train Epoch: 42 [22400/36000 (62.13%)], train Loss: 0.313262
+2022-07-31 07:01:06.388 | INFO     | __main__:train:166 - Train Epoch: 42 [25600/36000 (71.02%)], train Loss: 0.313262
+2022-07-31 07:01:21.624 | INFO     | __main__:train:166 - Train Epoch: 42 [28800/36000 (79.91%)], train Loss: 0.344512
+2022-07-31 07:01:36.682 | INFO     | __main__:train:166 - Train Epoch: 42 [32000/36000 (88.80%)], train Loss: 0.313262
+2022-07-31 07:01:51.782 | INFO     | __main__:train:166 - Train Epoch: 42 [35200/36000 (97.69%)], train Loss: 0.344512
+2022-07-31 07:02:08.485 | INFO     | __main__:test:195 - --------------------------------------------Train Epoch: 42-----------------------------------------------------
+2022-07-31 07:02:08.491 | INFO     | __main__:test:196 - Eval set: Average loss: 0.4020, Accuracy: (0.91), Pre: (0.91), Recall: (0.91)
+2022-07-31 07:02:08.491 | INFO     | __main__:test:199 - [[5476  461]
+ [ 615 5448]]
+2022-07-31 07:02:08.493 | INFO     | __main__:<module>:215 - acc is: 0.9103, best acc is 0.9148, best model get in 0
+2022-07-31 07:02:23.741 | INFO     | __main__:train:166 - Train Epoch: 43 [3200/36000 (8.80%)], train Loss: 0.313262
+2022-07-31 07:02:38.701 | INFO     | __main__:train:166 - Train Epoch: 43 [6400/36000 (17.69%)], train Loss: 0.313262
+2022-07-31 07:02:53.746 | INFO     | __main__:train:166 - Train Epoch: 43 [9600/36000 (26.58%)], train Loss: 0.313262
+2022-07-31 07:03:08.923 | INFO     | __main__:train:166 - Train Epoch: 43 [12800/36000 (35.47%)], train Loss: 0.313262
+2022-07-31 07:03:23.853 | INFO     | __main__:train:166 - Train Epoch: 43 [16000/36000 (44.36%)], train Loss: 0.313262
+2022-07-31 07:03:39.016 | INFO     | __main__:train:166 - Train Epoch: 43 [19200/36000 (53.24%)], train Loss: 0.344512
+2022-07-31 07:03:54.122 | INFO     | __main__:train:166 - Train Epoch: 43 [22400/36000 (62.13%)], train Loss: 0.344512
+2022-07-31 07:04:09.222 | INFO     | __main__:train:166 - Train Epoch: 43 [25600/36000 (71.02%)], train Loss: 0.313262
+2022-07-31 07:04:24.397 | INFO     | __main__:train:166 - Train Epoch: 43 [28800/36000 (79.91%)], train Loss: 0.313262
+2022-07-31 07:04:39.553 | INFO     | __main__:train:166 - Train Epoch: 43 [32000/36000 (88.80%)], train Loss: 0.313262
+2022-07-31 07:04:54.523 | INFO     | __main__:train:166 - Train Epoch: 43 [35200/36000 (97.69%)], train Loss: 0.344512
+2022-07-31 07:05:11.072 | INFO     | __main__:test:195 - --------------------------------------------Train Epoch: 43-----------------------------------------------------
+2022-07-31 07:05:11.080 | INFO     | __main__:test:196 - Eval set: Average loss: 0.4054, Accuracy: (0.91), Pre: (0.91), Recall: (0.91)
+2022-07-31 07:05:11.081 | INFO     | __main__:test:199 - [[5569  368]
+ [ 748 5315]]
+2022-07-31 07:05:11.082 | INFO     | __main__:<module>:215 - acc is: 0.9070, best acc is 0.9148, best model get in 0
+2022-07-31 07:05:26.485 | INFO     | __main__:train:166 - Train Epoch: 44 [3200/36000 (8.80%)], train Loss: 0.344490
+2022-07-31 07:05:41.777 | INFO     | __main__:train:166 - Train Epoch: 44 [6400/36000 (17.69%)], train Loss: 0.313262
+2022-07-31 07:05:56.988 | INFO     | __main__:train:166 - Train Epoch: 44 [9600/36000 (26.58%)], train Loss: 0.313262
+2022-07-31 07:06:12.231 | INFO     | __main__:train:166 - Train Epoch: 44 [12800/36000 (35.47%)], train Loss: 0.344512
+2022-07-31 07:06:27.434 | INFO     | __main__:train:166 - Train Epoch: 44 [16000/36000 (44.36%)], train Loss: 0.344512
+2022-07-31 07:06:42.549 | INFO     | __main__:train:166 - Train Epoch: 44 [19200/36000 (53.24%)], train Loss: 0.313262
+2022-07-31 07:06:57.686 | INFO     | __main__:train:166 - Train Epoch: 44 [22400/36000 (62.13%)], train Loss: 0.313262
+2022-07-31 07:07:12.728 | INFO     | __main__:train:166 - Train Epoch: 44 [25600/36000 (71.02%)], train Loss: 0.313262
+2022-07-31 07:07:27.965 | INFO     | __main__:train:166 - Train Epoch: 44 [28800/36000 (79.91%)], train Loss: 0.313262
+2022-07-31 07:07:43.222 | INFO     | __main__:train:166 - Train Epoch: 44 [32000/36000 (88.80%)], train Loss: 0.313262
+2022-07-31 07:07:58.385 | INFO     | __main__:train:166 - Train Epoch: 44 [35200/36000 (97.69%)], train Loss: 0.344519
+2022-07-31 07:08:14.834 | INFO     | __main__:test:195 - --------------------------------------------Train Epoch: 44-----------------------------------------------------
+2022-07-31 07:08:14.840 | INFO     | __main__:test:196 - Eval set: Average loss: 0.4040, Accuracy: (0.91), Pre: (0.91), Recall: (0.91)
+2022-07-31 07:08:14.841 | INFO     | __main__:test:199 - [[5378  559]
+ [ 542 5521]]
+2022-07-31 07:08:14.843 | INFO     | __main__:<module>:215 - acc is: 0.9083, best acc is 0.9148, best model get in 0
+2022-07-31 07:08:30.154 | INFO     | __main__:train:166 - Train Epoch: 45 [3200/36000 (8.80%)], train Loss: 0.344512
+2022-07-31 07:08:45.183 | INFO     | __main__:train:166 - Train Epoch: 45 [6400/36000 (17.69%)], train Loss: 0.344512
+2022-07-31 07:09:00.385 | INFO     | __main__:train:166 - Train Epoch: 45 [9600/36000 (26.58%)], train Loss: 0.313262
+2022-07-31 07:09:15.418 | INFO     | __main__:train:166 - Train Epoch: 45 [12800/36000 (35.47%)], train Loss: 0.317889
+2022-07-31 07:09:30.510 | INFO     | __main__:train:166 - Train Epoch: 45 [16000/36000 (44.36%)], train Loss: 0.313262
+2022-07-31 07:09:45.572 | INFO     | __main__:train:166 - Train Epoch: 45 [19200/36000 (53.24%)], train Loss: 0.313262
+2022-07-31 07:10:00.662 | INFO     | __main__:train:166 - Train Epoch: 45 [22400/36000 (62.13%)], train Loss: 0.313262
+2022-07-31 07:10:15.741 | INFO     | __main__:train:166 - Train Epoch: 45 [25600/36000 (71.02%)], train Loss: 0.406991
+2022-07-31 07:10:30.985 | INFO     | __main__:train:166 - Train Epoch: 45 [28800/36000 (79.91%)], train Loss: 0.313262
+2022-07-31 07:10:46.604 | INFO     | __main__:train:166 - Train Epoch: 45 [32000/36000 (88.80%)], train Loss: 0.313262
+2022-07-31 07:11:01.969 | INFO     | __main__:train:166 - Train Epoch: 45 [35200/36000 (97.69%)], train Loss: 0.344512
+2022-07-31 07:11:18.445 | INFO     | __main__:test:195 - --------------------------------------------Train Epoch: 45-----------------------------------------------------
+2022-07-31 07:11:18.450 | INFO     | __main__:test:196 - Eval set: Average loss: 0.4030, Accuracy: (0.91), Pre: (0.91), Recall: (0.91)
+2022-07-31 07:11:18.450 | INFO     | __main__:test:199 - [[5559  378]
+ [ 718 5345]]
+2022-07-31 07:11:18.452 | INFO     | __main__:<module>:215 - acc is: 0.9087, best acc is 0.9148, best model get in 0
+2022-07-31 07:11:33.544 | INFO     | __main__:train:166 - Train Epoch: 46 [3200/36000 (8.80%)], train Loss: 0.313262
+2022-07-31 07:11:48.704 | INFO     | __main__:train:166 - Train Epoch: 46 [6400/36000 (17.69%)], train Loss: 0.313262
+2022-07-31 07:12:03.716 | INFO     | __main__:train:166 - Train Epoch: 46 [9600/36000 (26.58%)], train Loss: 0.325032
+2022-07-31 07:12:18.978 | INFO     | __main__:train:166 - Train Epoch: 46 [12800/36000 (35.47%)], train Loss: 0.344512
+2022-07-31 07:12:34.172 | INFO     | __main__:train:166 - Train Epoch: 46 [16000/36000 (44.36%)], train Loss: 0.313292
+2022-07-31 07:12:49.210 | INFO     | __main__:train:166 - Train Epoch: 46 [19200/36000 (53.24%)], train Loss: 0.313262
+2022-07-31 07:13:04.307 | INFO     | __main__:train:166 - Train Epoch: 46 [22400/36000 (62.13%)], train Loss: 0.375762
+2022-07-31 07:13:19.372 | INFO     | __main__:train:166 - Train Epoch: 46 [25600/36000 (71.02%)], train Loss: 0.313262
+2022-07-31 07:13:34.376 | INFO     | __main__:train:166 - Train Epoch: 46 [28800/36000 (79.91%)], train Loss: 0.375762
+2022-07-31 07:13:49.410 | INFO     | __main__:train:166 - Train Epoch: 46 [32000/36000 (88.80%)], train Loss: 0.313262
+2022-07-31 07:14:04.770 | INFO     | __main__:train:166 - Train Epoch: 46 [35200/36000 (97.69%)], train Loss: 0.344512
+2022-07-31 07:14:21.359 | INFO     | __main__:test:195 - --------------------------------------------Train Epoch: 46-----------------------------------------------------
+2022-07-31 07:14:21.367 | INFO     | __main__:test:196 - Eval set: Average loss: 0.4086, Accuracy: (0.90), Pre: (0.91), Recall: (0.90)
+2022-07-31 07:14:21.368 | INFO     | __main__:test:199 - [[5633  304]
+ [ 850 5213]]
+2022-07-31 07:14:21.369 | INFO     | __main__:<module>:215 - acc is: 0.9038, best acc is 0.9148, best model get in 0
+2022-07-31 07:14:36.808 | INFO     | __main__:train:166 - Train Epoch: 47 [3200/36000 (8.80%)], train Loss: 0.313262
+2022-07-31 07:14:51.852 | INFO     | __main__:train:166 - Train Epoch: 47 [6400/36000 (17.69%)], train Loss: 0.344512
+2022-07-31 07:15:07.162 | INFO     | __main__:train:166 - Train Epoch: 47 [9600/36000 (26.58%)], train Loss: 0.313262
+2022-07-31 07:15:22.174 | INFO     | __main__:train:166 - Train Epoch: 47 [12800/36000 (35.47%)], train Loss: 0.313262
+2022-07-31 07:15:37.422 | INFO     | __main__:train:166 - Train Epoch: 47 [16000/36000 (44.36%)], train Loss: 0.344512
+2022-07-31 07:15:52.604 | INFO     | __main__:train:166 - Train Epoch: 47 [19200/36000 (53.24%)], train Loss: 0.344512
+2022-07-31 07:16:07.936 | INFO     | __main__:train:166 - Train Epoch: 47 [22400/36000 (62.13%)], train Loss: 0.313262
+2022-07-31 07:16:23.228 | INFO     | __main__:train:166 - Train Epoch: 47 [25600/36000 (71.02%)], train Loss: 0.313262
+2022-07-31 07:16:38.553 | INFO     | __main__:train:166 - Train Epoch: 47 [28800/36000 (79.91%)], train Loss: 0.313262
+2022-07-31 07:16:53.619 | INFO     | __main__:train:166 - Train Epoch: 47 [32000/36000 (88.80%)], train Loss: 0.375762
+2022-07-31 07:17:08.779 | INFO     | __main__:train:166 - Train Epoch: 47 [35200/36000 (97.69%)], train Loss: 0.344512
+2022-07-31 07:17:25.202 | INFO     | __main__:test:195 - --------------------------------------------Train Epoch: 47-----------------------------------------------------
+2022-07-31 07:17:25.208 | INFO     | __main__:test:196 - Eval set: Average loss: 0.4009, Accuracy: (0.91), Pre: (0.91), Recall: (0.91)
+2022-07-31 07:17:25.208 | INFO     | __main__:test:199 - [[5474  463]
+ [ 601 5462]]
+2022-07-31 07:17:25.210 | INFO     | __main__:<module>:215 - acc is: 0.9113, best acc is 0.9148, best model get in 0
+2022-07-31 07:17:40.608 | INFO     | __main__:train:166 - Train Epoch: 48 [3200/36000 (8.80%)], train Loss: 0.313262
+2022-07-31 07:17:55.635 | INFO     | __main__:train:166 - Train Epoch: 48 [6400/36000 (17.69%)], train Loss: 0.313262
+2022-07-31 07:18:10.784 | INFO     | __main__:train:166 - Train Epoch: 48 [9600/36000 (26.58%)], train Loss: 0.313263
+2022-07-31 07:18:26.031 | INFO     | __main__:train:166 - Train Epoch: 48 [12800/36000 (35.47%)], train Loss: 0.313262
+2022-07-31 07:18:41.369 | INFO     | __main__:train:166 - Train Epoch: 48 [16000/36000 (44.36%)], train Loss: 0.313262
+2022-07-31 07:18:56.398 | INFO     | __main__:train:166 - Train Epoch: 48 [19200/36000 (53.24%)], train Loss: 0.344512
+2022-07-31 07:19:11.546 | INFO     | __main__:train:166 - Train Epoch: 48 [22400/36000 (62.13%)], train Loss: 0.313262
+2022-07-31 07:19:26.814 | INFO     | __main__:train:166 - Train Epoch: 48 [25600/36000 (71.02%)], train Loss: 0.344508
+2022-07-31 07:19:41.878 | INFO     | __main__:train:166 - Train Epoch: 48 [28800/36000 (79.91%)], train Loss: 0.313262
+2022-07-31 07:19:56.784 | INFO     | __main__:train:166 - Train Epoch: 48 [32000/36000 (88.80%)], train Loss: 0.344512
+2022-07-31 07:20:11.767 | INFO     | __main__:train:166 - Train Epoch: 48 [35200/36000 (97.69%)], train Loss: 0.344512
+2022-07-31 07:20:28.476 | INFO     | __main__:test:195 - --------------------------------------------Train Epoch: 48-----------------------------------------------------
+2022-07-31 07:20:28.481 | INFO     | __main__:test:196 - Eval set: Average loss: 0.4057, Accuracy: (0.91), Pre: (0.91), Recall: (0.91)
+2022-07-31 07:20:28.482 | INFO     | __main__:test:199 - [[5586  351]
+ [ 767 5296]]
+2022-07-31 07:20:28.484 | INFO     | __main__:<module>:215 - acc is: 0.9068, best acc is 0.9148, best model get in 0
+2022-07-31 07:20:43.684 | INFO     | __main__:train:166 - Train Epoch: 49 [3200/36000 (8.80%)], train Loss: 0.313262
+2022-07-31 07:20:58.801 | INFO     | __main__:train:166 - Train Epoch: 49 [6400/36000 (17.69%)], train Loss: 0.313262
+2022-07-31 07:21:13.868 | INFO     | __main__:train:166 - Train Epoch: 49 [9600/36000 (26.58%)], train Loss: 0.313262
+2022-07-31 07:21:29.175 | INFO     | __main__:train:166 - Train Epoch: 49 [12800/36000 (35.47%)], train Loss: 0.341798
+2022-07-31 07:21:44.286 | INFO     | __main__:train:166 - Train Epoch: 49 [16000/36000 (44.36%)], train Loss: 0.313263
+2022-07-31 07:21:59.495 | INFO     | __main__:train:166 - Train Epoch: 49 [19200/36000 (53.24%)], train Loss: 0.344512
+2022-07-31 07:22:14.586 | INFO     | __main__:train:166 - Train Epoch: 49 [22400/36000 (62.13%)], train Loss: 0.344512
+2022-07-31 07:22:29.833 | INFO     | __main__:train:166 - Train Epoch: 49 [25600/36000 (71.02%)], train Loss: 0.344512
+2022-07-31 07:22:45.513 | INFO     | __main__:train:166 - Train Epoch: 49 [28800/36000 (79.91%)], train Loss: 0.313262
+2022-07-31 07:23:00.640 | INFO     | __main__:train:166 - Train Epoch: 49 [32000/36000 (88.80%)], train Loss: 0.313262
+2022-07-31 07:23:15.694 | INFO     | __main__:train:166 - Train Epoch: 49 [35200/36000 (97.69%)], train Loss: 0.375762
+2022-07-31 07:23:32.210 | INFO     | __main__:test:195 - --------------------------------------------Train Epoch: 49-----------------------------------------------------
+2022-07-31 07:23:32.216 | INFO     | __main__:test:196 - Eval set: Average loss: 0.4025, Accuracy: (0.91), Pre: (0.91), Recall: (0.91)
+2022-07-31 07:23:32.217 | INFO     | __main__:test:199 - [[5524  413]
+ [ 673 5390]]
+2022-07-31 07:23:32.218 | INFO     | __main__:<module>:215 - acc is: 0.9095, best acc is 0.9148, best model get in 0
+2022-07-31 07:23:47.265 | INFO     | __main__:train:166 - Train Epoch: 50 [3200/36000 (8.80%)], train Loss: 0.313262
+2022-07-31 07:24:02.386 | INFO     | __main__:train:166 - Train Epoch: 50 [6400/36000 (17.69%)], train Loss: 0.313262
+2022-07-31 07:24:17.593 | INFO     | __main__:train:166 - Train Epoch: 50 [9600/36000 (26.58%)], train Loss: 0.344512
+2022-07-31 07:24:33.089 | INFO     | __main__:train:166 - Train Epoch: 50 [12800/36000 (35.47%)], train Loss: 0.313262
+2022-07-31 07:24:48.175 | INFO     | __main__:train:166 - Train Epoch: 50 [16000/36000 (44.36%)], train Loss: 0.313262
+2022-07-31 07:25:03.474 | INFO     | __main__:train:166 - Train Epoch: 50 [19200/36000 (53.24%)], train Loss: 0.313262
+2022-07-31 07:25:18.789 | INFO     | __main__:train:166 - Train Epoch: 50 [22400/36000 (62.13%)], train Loss: 0.313262
+2022-07-31 07:25:34.445 | INFO     | __main__:train:166 - Train Epoch: 50 [25600/36000 (71.02%)], train Loss: 0.344512
+2022-07-31 07:25:49.604 | INFO     | __main__:train:166 - Train Epoch: 50 [28800/36000 (79.91%)], train Loss: 0.359741
+2022-07-31 07:26:05.000 | INFO     | __main__:train:166 - Train Epoch: 50 [32000/36000 (88.80%)], train Loss: 0.313262
+2022-07-31 07:26:20.392 | INFO     | __main__:train:166 - Train Epoch: 50 [35200/36000 (97.69%)], train Loss: 0.344512
+2022-07-31 07:26:36.830 | INFO     | __main__:test:195 - --------------------------------------------Train Epoch: 50-----------------------------------------------------
+2022-07-31 07:26:36.832 | INFO     | __main__:test:196 - Eval set: Average loss: 0.4017, Accuracy: (0.91), Pre: (0.91), Recall: (0.91)
+2022-07-31 07:26:36.833 | INFO     | __main__:test:199 - [[5502  435]
+ [ 638 5425]]
+2022-07-31 07:26:36.834 | INFO     | __main__:<module>:215 - acc is: 0.9106, best acc is 0.9148, best model get in 0
+2022-07-31 07:26:52.384 | INFO     | __main__:train:166 - Train Epoch: 51 [3200/36000 (8.80%)], train Loss: 0.344512
+2022-07-31 07:27:07.737 | INFO     | __main__:train:166 - Train Epoch: 51 [6400/36000 (17.69%)], train Loss: 0.313262
+2022-07-31 07:27:22.989 | INFO     | __main__:train:166 - Train Epoch: 51 [9600/36000 (26.58%)], train Loss: 0.313262
+2022-07-31 07:27:38.229 | INFO     | __main__:train:166 - Train Epoch: 51 [12800/36000 (35.47%)], train Loss: 0.407012
+2022-07-31 07:27:53.832 | INFO     | __main__:train:166 - Train Epoch: 51 [16000/36000 (44.36%)], train Loss: 0.375762
+2022-07-31 07:28:09.050 | INFO     | __main__:train:166 - Train Epoch: 51 [19200/36000 (53.24%)], train Loss: 0.344512
+2022-07-31 07:28:24.017 | INFO     | __main__:train:166 - Train Epoch: 51 [22400/36000 (62.13%)], train Loss: 0.313262
+2022-07-31 07:28:39.115 | INFO     | __main__:train:166 - Train Epoch: 51 [25600/36000 (71.02%)], train Loss: 0.313262
+2022-07-31 07:28:54.138 | INFO     | __main__:train:166 - Train Epoch: 51 [28800/36000 (79.91%)], train Loss: 0.313262
+2022-07-31 07:29:09.349 | INFO     | __main__:train:166 - Train Epoch: 51 [32000/36000 (88.80%)], train Loss: 0.313262
+2022-07-31 07:29:24.469 | INFO     | __main__:train:166 - Train Epoch: 51 [35200/36000 (97.69%)], train Loss: 0.313262
+2022-07-31 07:29:41.135 | INFO     | __main__:test:195 - --------------------------------------------Train Epoch: 51-----------------------------------------------------
+2022-07-31 07:29:41.142 | INFO     | __main__:test:196 - Eval set: Average loss: 0.4009, Accuracy: (0.91), Pre: (0.91), Recall: (0.91)
+2022-07-31 07:29:41.142 | INFO     | __main__:test:199 - [[5527  410]
+ [ 652 5411]]
+2022-07-31 07:29:41.144 | INFO     | __main__:<module>:215 - acc is: 0.9115, best acc is 0.9148, best model get in 0
+2022-07-31 07:29:56.522 | INFO     | __main__:train:166 - Train Epoch: 52 [3200/36000 (8.80%)], train Loss: 0.313262
+2022-07-31 07:30:11.902 | INFO     | __main__:train:166 - Train Epoch: 52 [6400/36000 (17.69%)], train Loss: 0.313262
+2022-07-31 07:30:26.837 | INFO     | __main__:train:166 - Train Epoch: 52 [9600/36000 (26.58%)], train Loss: 0.313262
+2022-07-31 07:30:42.282 | INFO     | __main__:train:166 - Train Epoch: 52 [12800/36000 (35.47%)], train Loss: 0.344512
+2022-07-31 07:30:57.864 | INFO     | __main__:train:166 - Train Epoch: 52 [16000/36000 (44.36%)], train Loss: 0.344557
+2022-07-31 07:31:13.454 | INFO     | __main__:train:166 - Train Epoch: 52 [19200/36000 (53.24%)], train Loss: 0.313383
+2022-07-31 07:31:28.383 | INFO     | __main__:train:166 - Train Epoch: 52 [22400/36000 (62.13%)], train Loss: 0.313262
+2022-07-31 07:31:43.372 | INFO     | __main__:train:166 - Train Epoch: 52 [25600/36000 (71.02%)], train Loss: 0.344512
+2022-07-31 07:31:58.627 | INFO     | __main__:train:166 - Train Epoch: 52 [28800/36000 (79.91%)], train Loss: 0.313262
+2022-07-31 07:32:13.691 | INFO     | __main__:train:166 - Train Epoch: 52 [32000/36000 (88.80%)], train Loss: 0.375762
+2022-07-31 07:32:28.736 | INFO     | __main__:train:166 - Train Epoch: 52 [35200/36000 (97.69%)], train Loss: 0.313262
+2022-07-31 07:32:45.359 | INFO     | __main__:test:195 - --------------------------------------------Train Epoch: 52-----------------------------------------------------
+2022-07-31 07:32:45.362 | INFO     | __main__:test:196 - Eval set: Average loss: 0.4039, Accuracy: (0.91), Pre: (0.91), Recall: (0.91)
+2022-07-31 07:32:45.362 | INFO     | __main__:test:199 - [[5596  341]
+ [ 763 5300]]
+2022-07-31 07:32:45.363 | INFO     | __main__:<module>:215 - acc is: 0.9080, best acc is 0.9148, best model get in 0
+2022-07-31 07:33:00.640 | INFO     | __main__:train:166 - Train Epoch: 53 [3200/36000 (8.80%)], train Loss: 0.344512
+2022-07-31 07:33:15.875 | INFO     | __main__:train:166 - Train Epoch: 53 [6400/36000 (17.69%)], train Loss: 0.344512
+2022-07-31 07:33:31.238 | INFO     | __main__:train:166 - Train Epoch: 53 [9600/36000 (26.58%)], train Loss: 0.344512
+2022-07-31 07:33:46.286 | INFO     | __main__:train:166 - Train Epoch: 53 [12800/36000 (35.47%)], train Loss: 0.344512
+2022-07-31 07:34:01.539 | INFO     | __main__:train:166 - Train Epoch: 53 [16000/36000 (44.36%)], train Loss: 0.313262
+2022-07-31 07:34:16.707 | INFO     | __main__:train:166 - Train Epoch: 53 [19200/36000 (53.24%)], train Loss: 0.313262
+2022-07-31 07:34:31.955 | INFO     | __main__:train:166 - Train Epoch: 53 [22400/36000 (62.13%)], train Loss: 0.313262
+2022-07-31 07:34:47.301 | INFO     | __main__:train:166 - Train Epoch: 53 [25600/36000 (71.02%)], train Loss: 0.313262
+2022-07-31 07:35:02.434 | INFO     | __main__:train:166 - Train Epoch: 53 [28800/36000 (79.91%)], train Loss: 0.324301
+2022-07-31 07:35:17.602 | INFO     | __main__:train:166 - Train Epoch: 53 [32000/36000 (88.80%)], train Loss: 0.344512
+2022-07-31 07:35:33.077 | INFO     | __main__:train:166 - Train Epoch: 53 [35200/36000 (97.69%)], train Loss: 0.344512
+2022-07-31 07:35:49.447 | INFO     | __main__:test:195 - --------------------------------------------Train Epoch: 53-----------------------------------------------------
+2022-07-31 07:35:49.452 | INFO     | __main__:test:196 - Eval set: Average loss: 0.4041, Accuracy: (0.91), Pre: (0.91), Recall: (0.91)
+2022-07-31 07:35:49.453 | INFO     | __main__:test:199 - [[5537  400]
+ [ 703 5360]]
+2022-07-31 07:35:49.453 | INFO     | __main__:<module>:215 - acc is: 0.9081, best acc is 0.9148, best model get in 0
+2022-07-31 07:36:04.928 | INFO     | __main__:train:166 - Train Epoch: 54 [3200/36000 (8.80%)], train Loss: 0.313262
+2022-07-31 07:36:20.230 | INFO     | __main__:train:166 - Train Epoch: 54 [6400/36000 (17.69%)], train Loss: 0.313262
+2022-07-31 07:36:35.444 | INFO     | __main__:train:166 - Train Epoch: 54 [9600/36000 (26.58%)], train Loss: 0.313262
+2022-07-31 07:36:50.495 | INFO     | __main__:train:166 - Train Epoch: 54 [12800/36000 (35.47%)], train Loss: 0.313262
+2022-07-31 07:37:05.773 | INFO     | __main__:train:166 - Train Epoch: 54 [16000/36000 (44.36%)], train Loss: 0.344512
+2022-07-31 07:37:21.143 | INFO     | __main__:train:166 - Train Epoch: 54 [19200/36000 (53.24%)], train Loss: 0.313262
+2022-07-31 07:37:36.653 | INFO     | __main__:train:166 - Train Epoch: 54 [22400/36000 (62.13%)], train Loss: 0.313262
+2022-07-31 07:37:51.895 | INFO     | __main__:train:166 - Train Epoch: 54 [25600/36000 (71.02%)], train Loss: 0.313262
+2022-07-31 07:38:07.200 | INFO     | __main__:train:166 - Train Epoch: 54 [28800/36000 (79.91%)], train Loss: 0.313262
+2022-07-31 07:38:22.418 | INFO     | __main__:train:166 - Train Epoch: 54 [32000/36000 (88.80%)], train Loss: 0.313262
+2022-07-31 07:38:38.004 | INFO     | __main__:train:166 - Train Epoch: 54 [35200/36000 (97.69%)], train Loss: 0.313262
+2022-07-31 07:38:54.586 | INFO     | __main__:test:195 - --------------------------------------------Train Epoch: 54-----------------------------------------------------
+2022-07-31 07:38:54.588 | INFO     | __main__:test:196 - Eval set: Average loss: 0.4012, Accuracy: (0.91), Pre: (0.91), Recall: (0.91)
+2022-07-31 07:38:54.589 | INFO     | __main__:test:199 - [[5474  463]
+ [ 605 5458]]
+2022-07-31 07:38:54.590 | INFO     | __main__:<module>:215 - acc is: 0.9110, best acc is 0.9148, best model get in 0
+2022-07-31 07:39:09.704 | INFO     | __main__:train:166 - Train Epoch: 55 [3200/36000 (8.80%)], train Loss: 0.313262
+2022-07-31 07:39:25.215 | INFO     | __main__:train:166 - Train Epoch: 55 [6400/36000 (17.69%)], train Loss: 0.313262
+2022-07-31 07:39:40.326 | INFO     | __main__:train:166 - Train Epoch: 55 [9600/36000 (26.58%)], train Loss: 0.344512
+2022-07-31 07:39:55.883 | INFO     | __main__:train:166 - Train Epoch: 55 [12800/36000 (35.47%)], train Loss: 0.313262
+2022-07-31 07:40:11.143 | INFO     | __main__:train:166 - Train Epoch: 55 [16000/36000 (44.36%)], train Loss: 0.313262
+2022-07-31 07:40:26.386 | INFO     | __main__:train:166 - Train Epoch: 55 [19200/36000 (53.24%)], train Loss: 0.344512
+2022-07-31 07:40:41.624 | INFO     | __main__:train:166 - Train Epoch: 55 [22400/36000 (62.13%)], train Loss: 0.407012
+2022-07-31 07:40:56.885 | INFO     | __main__:train:166 - Train Epoch: 55 [25600/36000 (71.02%)], train Loss: 0.313262
+2022-07-31 07:41:12.118 | INFO     | __main__:train:166 - Train Epoch: 55 [28800/36000 (79.91%)], train Loss: 0.344512
+2022-07-31 07:41:27.524 | INFO     | __main__:train:166 - Train Epoch: 55 [32000/36000 (88.80%)], train Loss: 0.344512
+2022-07-31 07:41:42.777 | INFO     | __main__:train:166 - Train Epoch: 55 [35200/36000 (97.69%)], train Loss: 0.313262
+2022-07-31 07:41:59.396 | INFO     | __main__:test:195 - --------------------------------------------Train Epoch: 55-----------------------------------------------------
+2022-07-31 07:41:59.403 | INFO     | __main__:test:196 - Eval set: Average loss: 0.4070, Accuracy: (0.90), Pre: (0.90), Recall: (0.90)
+2022-07-31 07:41:59.403 | INFO     | __main__:test:199 - [[5446  491]
+ [ 653 5410]]
+2022-07-31 07:41:59.404 | INFO     | __main__:<module>:215 - acc is: 0.9047, best acc is 0.9148, best model get in 0
+2022-07-31 07:42:14.979 | INFO     | __main__:train:166 - Train Epoch: 56 [3200/36000 (8.80%)], train Loss: 0.313262
+2022-07-31 07:42:30.356 | INFO     | __main__:train:166 - Train Epoch: 56 [6400/36000 (17.69%)], train Loss: 0.313262
+2022-07-31 07:42:45.213 | INFO     | __main__:train:166 - Train Epoch: 56 [9600/36000 (26.58%)], train Loss: 0.313262
+2022-07-31 07:43:00.270 | INFO     | __main__:train:166 - Train Epoch: 56 [12800/36000 (35.47%)], train Loss: 0.313262
+2022-07-31 07:43:15.599 | INFO     | __main__:train:166 - Train Epoch: 56 [16000/36000 (44.36%)], train Loss: 0.313262
+2022-07-31 07:43:30.964 | INFO     | __main__:train:166 - Train Epoch: 56 [19200/36000 (53.24%)], train Loss: 0.313262
+2022-07-31 07:43:46.071 | INFO     | __main__:train:166 - Train Epoch: 56 [22400/36000 (62.13%)], train Loss: 0.346799
+2022-07-31 07:44:01.298 | INFO     | __main__:train:166 - Train Epoch: 56 [25600/36000 (71.02%)], train Loss: 0.327759
+2022-07-31 07:44:16.624 | INFO     | __main__:train:166 - Train Epoch: 56 [28800/36000 (79.91%)], train Loss: 0.313262
+2022-07-31 07:44:31.819 | INFO     | __main__:train:166 - Train Epoch: 56 [32000/36000 (88.80%)], train Loss: 0.313262
+2022-07-31 07:44:47.092 | INFO     | __main__:train:166 - Train Epoch: 56 [35200/36000 (97.69%)], train Loss: 0.313262
+2022-07-31 07:45:03.723 | INFO     | __main__:test:195 - --------------------------------------------Train Epoch: 56-----------------------------------------------------
+2022-07-31 07:45:03.725 | INFO     | __main__:test:196 - Eval set: Average loss: 0.4037, Accuracy: (0.91), Pre: (0.91), Recall: (0.91)
+2022-07-31 07:45:03.726 | INFO     | __main__:test:199 - [[5554  383]
+ [ 718 5345]]
+2022-07-31 07:45:03.726 | INFO     | __main__:<module>:215 - acc is: 0.9083, best acc is 0.9148, best model get in 0
+2022-07-31 07:45:18.866 | INFO     | __main__:train:166 - Train Epoch: 57 [3200/36000 (8.80%)], train Loss: 0.344512
+2022-07-31 07:45:34.228 | INFO     | __main__:train:166 - Train Epoch: 57 [6400/36000 (17.69%)], train Loss: 0.313262
+2022-07-31 07:45:49.500 | INFO     | __main__:train:166 - Train Epoch: 57 [9600/36000 (26.58%)], train Loss: 0.375762
+2022-07-31 07:46:04.780 | INFO     | __main__:train:166 - Train Epoch: 57 [12800/36000 (35.47%)], train Loss: 0.313262
+2022-07-31 07:46:20.020 | INFO     | __main__:train:166 - Train Epoch: 57 [16000/36000 (44.36%)], train Loss: 0.344512
+2022-07-31 07:46:34.468 | INFO     | __main__:train:166 - Train Epoch: 57 [19200/36000 (53.24%)], train Loss: 0.313262
+2022-07-31 07:46:49.623 | INFO     | __main__:train:166 - Train Epoch: 57 [22400/36000 (62.13%)], train Loss: 0.344512
+2022-07-31 07:47:04.871 | INFO     | __main__:train:166 - Train Epoch: 57 [25600/36000 (71.02%)], train Loss: 0.313262
+2022-07-31 07:47:20.054 | INFO     | __main__:train:166 - Train Epoch: 57 [28800/36000 (79.91%)], train Loss: 0.313262
+2022-07-31 07:47:35.354 | INFO     | __main__:train:166 - Train Epoch: 57 [32000/36000 (88.80%)], train Loss: 0.313262
+2022-07-31 07:47:50.713 | INFO     | __main__:train:166 - Train Epoch: 57 [35200/36000 (97.69%)], train Loss: 0.373082
+2022-07-31 07:48:07.415 | INFO     | __main__:test:195 - --------------------------------------------Train Epoch: 57-----------------------------------------------------
+2022-07-31 07:48:07.420 | INFO     | __main__:test:196 - Eval set: Average loss: 0.4046, Accuracy: (0.91), Pre: (0.91), Recall: (0.91)
+2022-07-31 07:48:07.420 | INFO     | __main__:test:199 - [[5562  375]
+ [ 727 5336]]
+2022-07-31 07:48:07.422 | INFO     | __main__:<module>:215 - acc is: 0.9082, best acc is 0.9148, best model get in 0
+2022-07-31 07:48:22.923 | INFO     | __main__:train:166 - Train Epoch: 58 [3200/36000 (8.80%)], train Loss: 0.313262
+2022-07-31 07:48:38.400 | INFO     | __main__:train:166 - Train Epoch: 58 [6400/36000 (17.69%)], train Loss: 0.344512
+2022-07-31 07:48:53.869 | INFO     | __main__:train:166 - Train Epoch: 58 [9600/36000 (26.58%)], train Loss: 0.375762
+2022-07-31 07:49:09.161 | INFO     | __main__:train:166 - Train Epoch: 58 [12800/36000 (35.47%)], train Loss: 0.313262
+2022-07-31 07:49:23.513 | INFO     | __main__:train:166 - Train Epoch: 58 [16000/36000 (44.36%)], train Loss: 0.344512
+2022-07-31 07:49:38.919 | INFO     | __main__:train:166 - Train Epoch: 58 [19200/36000 (53.24%)], train Loss: 0.313262
+2022-07-31 07:49:54.144 | INFO     | __main__:train:166 - Train Epoch: 58 [22400/36000 (62.13%)], train Loss: 0.313262
+2022-07-31 07:50:09.512 | INFO     | __main__:train:166 - Train Epoch: 58 [25600/36000 (71.02%)], train Loss: 0.313262
+2022-07-31 07:50:24.716 | INFO     | __main__:train:166 - Train Epoch: 58 [28800/36000 (79.91%)], train Loss: 0.313262
+2022-07-31 07:50:40.054 | INFO     | __main__:train:166 - Train Epoch: 58 [32000/36000 (88.80%)], train Loss: 0.313262
+2022-07-31 07:50:55.470 | INFO     | __main__:train:166 - Train Epoch: 58 [35200/36000 (97.69%)], train Loss: 0.313262
+2022-07-31 07:51:12.194 | INFO     | __main__:test:195 - --------------------------------------------Train Epoch: 58-----------------------------------------------------
+2022-07-31 07:51:12.196 | INFO     | __main__:test:196 - Eval set: Average loss: 0.4010, Accuracy: (0.91), Pre: (0.91), Recall: (0.91)
+2022-07-31 07:51:12.196 | INFO     | __main__:test:199 - [[5400  537]
+ [ 532 5531]]
+2022-07-31 07:51:12.198 | INFO     | __main__:<module>:215 - acc is: 0.9109, best acc is 0.9148, best model get in 0
+2022-07-31 07:51:27.635 | INFO     | __main__:train:166 - Train Epoch: 59 [3200/36000 (8.80%)], train Loss: 0.313262
+2022-07-31 07:51:43.027 | INFO     | __main__:train:166 - Train Epoch: 59 [6400/36000 (17.69%)], train Loss: 0.313262
+2022-07-31 07:51:58.236 | INFO     | __main__:train:166 - Train Epoch: 59 [9600/36000 (26.58%)], train Loss: 0.344512
+2022-07-31 07:52:13.379 | INFO     | __main__:train:166 - Train Epoch: 59 [12800/36000 (35.47%)], train Loss: 0.313262
+2022-07-31 07:52:28.558 | INFO     | __main__:train:166 - Train Epoch: 59 [16000/36000 (44.36%)], train Loss: 0.344353
+2022-07-31 07:52:43.805 | INFO     | __main__:train:166 - Train Epoch: 59 [19200/36000 (53.24%)], train Loss: 0.313262
+2022-07-31 07:52:59.008 | INFO     | __main__:train:166 - Train Epoch: 59 [22400/36000 (62.13%)], train Loss: 0.313262
+2022-07-31 07:53:14.309 | INFO     | __main__:train:166 - Train Epoch: 59 [25600/36000 (71.02%)], train Loss: 0.375762
+2022-07-31 07:53:29.579 | INFO     | __main__:train:166 - Train Epoch: 59 [28800/36000 (79.91%)], train Loss: 0.313262
+2022-07-31 07:53:44.868 | INFO     | __main__:train:166 - Train Epoch: 59 [32000/36000 (88.80%)], train Loss: 0.313262
+2022-07-31 07:54:00.255 | INFO     | __main__:train:166 - Train Epoch: 59 [35200/36000 (97.69%)], train Loss: 0.313262
+2022-07-31 07:54:16.693 | INFO     | __main__:test:195 - --------------------------------------------Train Epoch: 59-----------------------------------------------------
+2022-07-31 07:54:16.698 | INFO     | __main__:test:196 - Eval set: Average loss: 0.4011, Accuracy: (0.91), Pre: (0.91), Recall: (0.91)
+2022-07-31 07:54:16.699 | INFO     | __main__:test:199 - [[5546  391]
+ [ 680 5383]]
+2022-07-31 07:54:16.700 | INFO     | __main__:<module>:215 - acc is: 0.9107, best acc is 0.9148, best model get in 0
+2022-07-31 07:54:32.087 | INFO     | __main__:train:166 - Train Epoch: 60 [3200/36000 (8.80%)], train Loss: 0.313262
+2022-07-31 07:54:47.320 | INFO     | __main__:train:166 - Train Epoch: 60 [6400/36000 (17.69%)], train Loss: 0.313262
+2022-07-31 07:55:02.600 | INFO     | __main__:train:166 - Train Epoch: 60 [9600/36000 (26.58%)], train Loss: 0.313262
+2022-07-31 07:55:17.914 | INFO     | __main__:train:166 - Train Epoch: 60 [12800/36000 (35.47%)], train Loss: 0.313262
+2022-07-31 07:55:33.074 | INFO     | __main__:train:166 - Train Epoch: 60 [16000/36000 (44.36%)], train Loss: 0.313262
+2022-07-31 07:55:48.147 | INFO     | __main__:train:166 - Train Epoch: 60 [19200/36000 (53.24%)], train Loss: 0.344512
+2022-07-31 07:56:03.388 | INFO     | __main__:train:166 - Train Epoch: 60 [22400/36000 (62.13%)], train Loss: 0.344512
+2022-07-31 07:56:18.636 | INFO     | __main__:train:166 - Train Epoch: 60 [25600/36000 (71.02%)], train Loss: 0.313262
+2022-07-31 07:56:33.965 | INFO     | __main__:train:166 - Train Epoch: 60 [28800/36000 (79.91%)], train Loss: 0.344512
+2022-07-31 07:56:49.219 | INFO     | __main__:train:166 - Train Epoch: 60 [32000/36000 (88.80%)], train Loss: 0.313262
+2022-07-31 07:57:05.046 | INFO     | __main__:train:166 - Train Epoch: 60 [35200/36000 (97.69%)], train Loss: 0.313262
+2022-07-31 07:57:21.511 | INFO     | __main__:test:195 - --------------------------------------------Train Epoch: 60-----------------------------------------------------
+2022-07-31 07:57:21.516 | INFO     | __main__:test:196 - Eval set: Average loss: 0.4018, Accuracy: (0.91), Pre: (0.91), Recall: (0.91)
+2022-07-31 07:57:21.516 | INFO     | __main__:test:199 - [[5595  342]
+ [ 729 5334]]
+2022-07-31 07:57:21.517 | INFO     | __main__:<module>:215 - acc is: 0.9107, best acc is 0.9148, best model get in 0
+2022-07-31 07:57:36.716 | INFO     | __main__:train:166 - Train Epoch: 61 [3200/36000 (8.80%)], train Loss: 0.313262
+2022-07-31 07:57:51.981 | INFO     | __main__:train:166 - Train Epoch: 61 [6400/36000 (17.69%)], train Loss: 0.313262
+2022-07-31 07:58:07.014 | INFO     | __main__:train:166 - Train Epoch: 61 [9600/36000 (26.58%)], train Loss: 0.313262
+2022-07-31 07:58:22.282 | INFO     | __main__:train:166 - Train Epoch: 61 [12800/36000 (35.47%)], train Loss: 0.344512
+2022-07-31 07:58:37.646 | INFO     | __main__:train:166 - Train Epoch: 61 [16000/36000 (44.36%)], train Loss: 0.313262
+2022-07-31 07:58:53.110 | INFO     | __main__:train:166 - Train Epoch: 61 [19200/36000 (53.24%)], train Loss: 0.313262
+2022-07-31 07:59:08.063 | INFO     | __main__:train:166 - Train Epoch: 61 [22400/36000 (62.13%)], train Loss: 0.313262
+2022-07-31 07:59:23.197 | INFO     | __main__:train:166 - Train Epoch: 61 [25600/36000 (71.02%)], train Loss: 0.313262
+2022-07-31 07:59:38.287 | INFO     | __main__:train:166 - Train Epoch: 61 [28800/36000 (79.91%)], train Loss: 0.313262
+2022-07-31 07:59:53.853 | INFO     | __main__:train:166 - Train Epoch: 61 [32000/36000 (88.80%)], train Loss: 0.313262
+2022-07-31 08:00:09.222 | INFO     | __main__:train:166 - Train Epoch: 61 [35200/36000 (97.69%)], train Loss: 0.344512
+2022-07-31 08:00:25.888 | INFO     | __main__:test:195 - --------------------------------------------Train Epoch: 61-----------------------------------------------------
+2022-07-31 08:00:25.893 | INFO     | __main__:test:196 - Eval set: Average loss: 0.4017, Accuracy: (0.91), Pre: (0.91), Recall: (0.91)
+2022-07-31 08:00:25.894 | INFO     | __main__:test:199 - [[5554  383]
+ [ 703 5360]]
+2022-07-31 08:00:25.895 | INFO     | __main__:<module>:215 - acc is: 0.9095, best acc is 0.9148, best model get in 0
+2022-07-31 08:00:41.412 | INFO     | __main__:train:166 - Train Epoch: 62 [3200/36000 (8.80%)], train Loss: 0.313262
+2022-07-31 08:00:56.761 | INFO     | __main__:train:166 - Train Epoch: 62 [6400/36000 (17.69%)], train Loss: 0.344512
+2022-07-31 08:01:12.038 | INFO     | __main__:train:166 - Train Epoch: 62 [9600/36000 (26.58%)], train Loss: 0.313262
+2022-07-31 08:01:27.106 | INFO     | __main__:train:166 - Train Epoch: 62 [12800/36000 (35.47%)], train Loss: 0.313262
+2022-07-31 08:01:42.448 | INFO     | __main__:train:166 - Train Epoch: 62 [16000/36000 (44.36%)], train Loss: 0.344512
+2022-07-31 08:01:57.672 | INFO     | __main__:train:166 - Train Epoch: 62 [19200/36000 (53.24%)], train Loss: 0.313262
+2022-07-31 08:02:12.960 | INFO     | __main__:train:166 - Train Epoch: 62 [22400/36000 (62.13%)], train Loss: 0.313262
+2022-07-31 08:02:28.330 | INFO     | __main__:train:166 - Train Epoch: 62 [25600/36000 (71.02%)], train Loss: 0.344512
+2022-07-31 08:02:43.865 | INFO     | __main__:train:166 - Train Epoch: 62 [28800/36000 (79.91%)], train Loss: 0.313262
+2022-07-31 08:02:58.849 | INFO     | __main__:train:166 - Train Epoch: 62 [32000/36000 (88.80%)], train Loss: 0.313262
+2022-07-31 08:03:14.003 | INFO     | __main__:train:166 - Train Epoch: 62 [35200/36000 (97.69%)], train Loss: 0.313262
+2022-07-31 08:03:30.450 | INFO     | __main__:test:195 - --------------------------------------------Train Epoch: 62-----------------------------------------------------
+2022-07-31 08:03:30.454 | INFO     | __main__:test:196 - Eval set: Average loss: 0.3991, Accuracy: (0.91), Pre: (0.91), Recall: (0.91)
+2022-07-31 08:03:30.455 | INFO     | __main__:test:199 - [[5469  468]
+ [ 583 5480]]
+2022-07-31 08:03:30.457 | INFO     | __main__:<module>:215 - acc is: 0.9124, best acc is 0.9148, best model get in 0
+2022-07-31 08:03:45.890 | INFO     | __main__:train:166 - Train Epoch: 63 [3200/36000 (8.80%)], train Loss: 0.313262
+2022-07-31 08:04:01.216 | INFO     | __main__:train:166 - Train Epoch: 63 [6400/36000 (17.69%)], train Loss: 0.313262
+2022-07-31 08:04:16.475 | INFO     | __main__:train:166 - Train Epoch: 63 [9600/36000 (26.58%)], train Loss: 0.313264
+2022-07-31 08:04:31.915 | INFO     | __main__:train:166 - Train Epoch: 63 [12800/36000 (35.47%)], train Loss: 0.313262
+2022-07-31 08:04:47.219 | INFO     | __main__:train:166 - Train Epoch: 63 [16000/36000 (44.36%)], train Loss: 0.344512
+2022-07-31 08:05:02.275 | INFO     | __main__:train:166 - Train Epoch: 63 [19200/36000 (53.24%)], train Loss: 0.313262
+2022-07-31 08:05:17.548 | INFO     | __main__:train:166 - Train Epoch: 63 [22400/36000 (62.13%)], train Loss: 0.313262
+2022-07-31 08:05:32.644 | INFO     | __main__:train:166 - Train Epoch: 63 [25600/36000 (71.02%)], train Loss: 0.313262
+2022-07-31 08:05:48.120 | INFO     | __main__:train:166 - Train Epoch: 63 [28800/36000 (79.91%)], train Loss: 0.313262
+2022-07-31 08:06:03.538 | INFO     | __main__:train:166 - Train Epoch: 63 [32000/36000 (88.80%)], train Loss: 0.313262
+2022-07-31 08:06:18.658 | INFO     | __main__:train:166 - Train Epoch: 63 [35200/36000 (97.69%)], train Loss: 0.313262
+2022-07-31 08:06:35.341 | INFO     | __main__:test:195 - --------------------------------------------Train Epoch: 63-----------------------------------------------------
+2022-07-31 08:06:35.347 | INFO     | __main__:test:196 - Eval set: Average loss: 0.4079, Accuracy: (0.90), Pre: (0.91), Recall: (0.90)
+2022-07-31 08:06:35.347 | INFO     | __main__:test:199 - [[5647  290]
+ [ 856 5207]]
+2022-07-31 08:06:35.349 | INFO     | __main__:<module>:215 - acc is: 0.9045, best acc is 0.9148, best model get in 0
+2022-07-31 08:06:50.648 | INFO     | __main__:train:166 - Train Epoch: 64 [3200/36000 (8.80%)], train Loss: 0.313262
+2022-07-31 08:07:06.101 | INFO     | __main__:train:166 - Train Epoch: 64 [6400/36000 (17.69%)], train Loss: 0.313262
+2022-07-31 08:07:21.213 | INFO     | __main__:train:166 - Train Epoch: 64 [9600/36000 (26.58%)], train Loss: 0.313262
+2022-07-31 08:07:36.282 | INFO     | __main__:train:166 - Train Epoch: 64 [12800/36000 (35.47%)], train Loss: 0.344512
+2022-07-31 08:07:51.417 | INFO     | __main__:train:166 - Train Epoch: 64 [16000/36000 (44.36%)], train Loss: 0.313262
+2022-07-31 08:08:06.649 | INFO     | __main__:train:166 - Train Epoch: 64 [19200/36000 (53.24%)], train Loss: 0.313262
+2022-07-31 08:08:21.519 | INFO     | __main__:train:166 - Train Epoch: 64 [22400/36000 (62.13%)], train Loss: 0.313262
+2022-07-31 08:08:36.924 | INFO     | __main__:train:166 - Train Epoch: 64 [25600/36000 (71.02%)], train Loss: 0.313262
+2022-07-31 08:08:52.405 | INFO     | __main__:train:166 - Train Epoch: 64 [28800/36000 (79.91%)], train Loss: 0.313262
+2022-07-31 08:09:07.687 | INFO     | __main__:train:166 - Train Epoch: 64 [32000/36000 (88.80%)], train Loss: 0.313262
+2022-07-31 08:09:23.035 | INFO     | __main__:train:166 - Train Epoch: 64 [35200/36000 (97.69%)], train Loss: 0.313262
+2022-07-31 08:09:39.629 | INFO     | __main__:test:195 - --------------------------------------------Train Epoch: 64-----------------------------------------------------
+2022-07-31 08:09:39.636 | INFO     | __main__:test:196 - Eval set: Average loss: 0.4021, Accuracy: (0.91), Pre: (0.91), Recall: (0.91)
+2022-07-31 08:09:39.636 | INFO     | __main__:test:199 - [[5598  339]
+ [ 740 5323]]
+2022-07-31 08:09:39.638 | INFO     | __main__:<module>:215 - acc is: 0.9101, best acc is 0.9148, best model get in 0
+2022-07-31 08:09:54.901 | INFO     | __main__:train:166 - Train Epoch: 65 [3200/36000 (8.80%)], train Loss: 0.313262
+2022-07-31 08:10:10.189 | INFO     | __main__:train:166 - Train Epoch: 65 [6400/36000 (17.69%)], train Loss: 0.344512
+2022-07-31 08:10:25.616 | INFO     | __main__:train:166 - Train Epoch: 65 [9600/36000 (26.58%)], train Loss: 0.313262
+2022-07-31 08:10:41.262 | INFO     | __main__:train:166 - Train Epoch: 65 [12800/36000 (35.47%)], train Loss: 0.313262
+2022-07-31 08:10:56.823 | INFO     | __main__:train:166 - Train Epoch: 65 [16000/36000 (44.36%)], train Loss: 0.313262
+2022-07-31 08:11:12.128 | INFO     | __main__:train:166 - Train Epoch: 65 [19200/36000 (53.24%)], train Loss: 0.344512
+2022-07-31 08:11:27.361 | INFO     | __main__:train:166 - Train Epoch: 65 [22400/36000 (62.13%)], train Loss: 0.344512
+2022-07-31 08:11:42.459 | INFO     | __main__:train:166 - Train Epoch: 65 [25600/36000 (71.02%)], train Loss: 0.313262
+2022-07-31 08:11:57.652 | INFO     | __main__:train:166 - Train Epoch: 65 [28800/36000 (79.91%)], train Loss: 0.313262
+2022-07-31 08:12:12.697 | INFO     | __main__:train:166 - Train Epoch: 65 [32000/36000 (88.80%)], train Loss: 0.313262
+2022-07-31 08:12:27.774 | INFO     | __main__:train:166 - Train Epoch: 65 [35200/36000 (97.69%)], train Loss: 0.313262
+2022-07-31 08:12:44.463 | INFO     | __main__:test:195 - --------------------------------------------Train Epoch: 65-----------------------------------------------------
+2022-07-31 08:12:44.465 | INFO     | __main__:test:196 - Eval set: Average loss: 0.3999, Accuracy: (0.91), Pre: (0.91), Recall: (0.91)
+2022-07-31 08:12:44.465 | INFO     | __main__:test:199 - [[5508  429]
+ [ 621 5442]]
+2022-07-31 08:12:44.467 | INFO     | __main__:<module>:215 - acc is: 0.9125, best acc is 0.9148, best model get in 0
+2022-07-31 08:12:59.769 | INFO     | __main__:train:166 - Train Epoch: 66 [3200/36000 (8.80%)], train Loss: 0.313262
+2022-07-31 08:13:14.852 | INFO     | __main__:train:166 - Train Epoch: 66 [6400/36000 (17.69%)], train Loss: 0.313262
+2022-07-31 08:13:30.038 | INFO     | __main__:train:166 - Train Epoch: 66 [9600/36000 (26.58%)], train Loss: 0.313262
+2022-07-31 08:13:45.263 | INFO     | __main__:train:166 - Train Epoch: 66 [12800/36000 (35.47%)], train Loss: 0.313262
+2022-07-31 08:14:00.613 | INFO     | __main__:train:166 - Train Epoch: 66 [16000/36000 (44.36%)], train Loss: 0.313262
+2022-07-31 08:14:15.953 | INFO     | __main__:train:166 - Train Epoch: 66 [19200/36000 (53.24%)], train Loss: 0.375762
+2022-07-31 08:14:31.362 | INFO     | __main__:train:166 - Train Epoch: 66 [22400/36000 (62.13%)], train Loss: 0.313262
+2022-07-31 08:14:46.677 | INFO     | __main__:train:166 - Train Epoch: 66 [25600/36000 (71.02%)], train Loss: 0.344512
+2022-07-31 08:15:01.931 | INFO     | __main__:train:166 - Train Epoch: 66 [28800/36000 (79.91%)], train Loss: 0.313262
+2022-07-31 08:15:17.167 | INFO     | __main__:train:166 - Train Epoch: 66 [32000/36000 (88.80%)], train Loss: 0.313262
+2022-07-31 08:15:32.325 | INFO     | __main__:train:166 - Train Epoch: 66 [35200/36000 (97.69%)], train Loss: 0.344512
+2022-07-31 08:15:49.033 | INFO     | __main__:test:195 - --------------------------------------------Train Epoch: 66-----------------------------------------------------
+2022-07-31 08:15:49.038 | INFO     | __main__:test:196 - Eval set: Average loss: 0.3989, Accuracy: (0.91), Pre: (0.91), Recall: (0.91)
+2022-07-31 08:15:49.039 | INFO     | __main__:test:199 - [[5536  401]
+ [ 636 5427]]
+2022-07-31 08:15:49.040 | INFO     | __main__:<module>:215 - acc is: 0.9136, best acc is 0.9148, best model get in 0
+2022-07-31 08:16:04.270 | INFO     | __main__:train:166 - Train Epoch: 67 [3200/36000 (8.80%)], train Loss: 0.344512
+2022-07-31 08:16:18.881 | INFO     | __main__:train:166 - Train Epoch: 67 [6400/36000 (17.69%)], train Loss: 0.344512
+2022-07-31 08:16:34.159 | INFO     | __main__:train:166 - Train Epoch: 67 [9600/36000 (26.58%)], train Loss: 0.313262
+2022-07-31 08:16:49.393 | INFO     | __main__:train:166 - Train Epoch: 67 [12800/36000 (35.47%)], train Loss: 0.313262
+2022-07-31 08:17:05.240 | INFO     | __main__:train:166 - Train Epoch: 67 [16000/36000 (44.36%)], train Loss: 0.344527
+2022-07-31 08:17:20.766 | INFO     | __main__:train:166 - Train Epoch: 67 [19200/36000 (53.24%)], train Loss: 0.313262
+2022-07-31 08:17:36.163 | INFO     | __main__:train:166 - Train Epoch: 67 [22400/36000 (62.13%)], train Loss: 0.344512
+2022-07-31 08:17:51.655 | INFO     | __main__:train:166 - Train Epoch: 67 [25600/36000 (71.02%)], train Loss: 0.344512
+2022-07-31 08:18:06.761 | INFO     | __main__:train:166 - Train Epoch: 67 [28800/36000 (79.91%)], train Loss: 0.313262
+2022-07-31 08:18:22.113 | INFO     | __main__:train:166 - Train Epoch: 67 [32000/36000 (88.80%)], train Loss: 0.344512
+2022-07-31 08:18:37.608 | INFO     | __main__:train:166 - Train Epoch: 67 [35200/36000 (97.69%)], train Loss: 0.344512
+2022-07-31 08:18:54.245 | INFO     | __main__:test:195 - --------------------------------------------Train Epoch: 67-----------------------------------------------------
+2022-07-31 08:18:54.250 | INFO     | __main__:test:196 - Eval set: Average loss: 0.3989, Accuracy: (0.91), Pre: (0.91), Recall: (0.91)
+2022-07-31 08:18:54.251 | INFO     | __main__:test:199 - [[5537  400]
+ [ 643 5420]]
+2022-07-31 08:18:54.252 | INFO     | __main__:<module>:215 - acc is: 0.9131, best acc is 0.9148, best model get in 0
+2022-07-31 08:19:09.508 | INFO     | __main__:train:166 - Train Epoch: 68 [3200/36000 (8.80%)], train Loss: 0.344512
+2022-07-31 08:19:24.724 | INFO     | __main__:train:166 - Train Epoch: 68 [6400/36000 (17.69%)], train Loss: 0.344512
+2022-07-31 08:19:39.861 | INFO     | __main__:train:166 - Train Epoch: 68 [9600/36000 (26.58%)], train Loss: 0.344512
+2022-07-31 08:19:54.941 | INFO     | __main__:train:166 - Train Epoch: 68 [12800/36000 (35.47%)], train Loss: 0.313262
+2022-07-31 08:20:10.051 | INFO     | __main__:train:166 - Train Epoch: 68 [16000/36000 (44.36%)], train Loss: 0.344512
+2022-07-31 08:20:25.149 | INFO     | __main__:train:166 - Train Epoch: 68 [19200/36000 (53.24%)], train Loss: 0.313262
+2022-07-31 08:20:40.510 | INFO     | __main__:train:166 - Train Epoch: 68 [22400/36000 (62.13%)], train Loss: 0.313262
+2022-07-31 08:20:55.576 | INFO     | __main__:train:166 - Train Epoch: 68 [25600/36000 (71.02%)], train Loss: 0.313262
+2022-07-31 08:21:10.887 | INFO     | __main__:train:166 - Train Epoch: 68 [28800/36000 (79.91%)], train Loss: 0.313262
+2022-07-31 08:21:26.053 | INFO     | __main__:train:166 - Train Epoch: 68 [32000/36000 (88.80%)], train Loss: 0.313262
+2022-07-31 08:21:41.397 | INFO     | __main__:train:166 - Train Epoch: 68 [35200/36000 (97.69%)], train Loss: 0.350600
+2022-07-31 08:21:58.007 | INFO     | __main__:test:195 - --------------------------------------------Train Epoch: 68-----------------------------------------------------
+2022-07-31 08:21:58.014 | INFO     | __main__:test:196 - Eval set: Average loss: 0.4001, Accuracy: (0.91), Pre: (0.91), Recall: (0.91)
+2022-07-31 08:21:58.014 | INFO     | __main__:test:199 - [[5537  400]
+ [ 658 5405]]
+2022-07-31 08:21:58.016 | INFO     | __main__:<module>:215 - acc is: 0.9118, best acc is 0.9148, best model get in 0
+2022-07-31 08:22:13.286 | INFO     | __main__:train:166 - Train Epoch: 69 [3200/36000 (8.80%)], train Loss: 0.344512
+2022-07-31 08:22:28.250 | INFO     | __main__:train:166 - Train Epoch: 69 [6400/36000 (17.69%)], train Loss: 0.313262
+2022-07-31 08:22:43.586 | INFO     | __main__:train:166 - Train Epoch: 69 [9600/36000 (26.58%)], train Loss: 0.313262
+2022-07-31 08:22:58.975 | INFO     | __main__:train:166 - Train Epoch: 69 [12800/36000 (35.47%)], train Loss: 0.313262
+2022-07-31 08:23:14.148 | INFO     | __main__:train:166 - Train Epoch: 69 [16000/36000 (44.36%)], train Loss: 0.313262
+2022-07-31 08:23:29.273 | INFO     | __main__:train:166 - Train Epoch: 69 [19200/36000 (53.24%)], train Loss: 0.313262
+2022-07-31 08:23:44.605 | INFO     | __main__:train:166 - Train Epoch: 69 [22400/36000 (62.13%)], train Loss: 0.313262
+2022-07-31 08:23:59.818 | INFO     | __main__:train:166 - Train Epoch: 69 [25600/36000 (71.02%)], train Loss: 0.313262
+2022-07-31 08:24:15.223 | INFO     | __main__:train:166 - Train Epoch: 69 [28800/36000 (79.91%)], train Loss: 0.344512
+2022-07-31 08:24:30.311 | INFO     | __main__:train:166 - Train Epoch: 69 [32000/36000 (88.80%)], train Loss: 0.313262
+2022-07-31 08:24:45.643 | INFO     | __main__:train:166 - Train Epoch: 69 [35200/36000 (97.69%)], train Loss: 0.313262
+2022-07-31 08:25:02.199 | INFO     | __main__:test:195 - --------------------------------------------Train Epoch: 69-----------------------------------------------------
+2022-07-31 08:25:02.202 | INFO     | __main__:test:196 - Eval set: Average loss: 0.4009, Accuracy: (0.91), Pre: (0.91), Recall: (0.91)
+2022-07-31 08:25:02.202 | INFO     | __main__:test:199 - [[5562  375]
+ [ 692 5371]]
+2022-07-31 08:25:02.203 | INFO     | __main__:<module>:215 - acc is: 0.9111, best acc is 0.9148, best model get in 0
+2022-07-31 08:25:17.600 | INFO     | __main__:train:166 - Train Epoch: 70 [3200/36000 (8.80%)], train Loss: 0.313262
+2022-07-31 08:25:32.528 | INFO     | __main__:train:166 - Train Epoch: 70 [6400/36000 (17.69%)], train Loss: 0.313262
+2022-07-31 08:25:47.602 | INFO     | __main__:train:166 - Train Epoch: 70 [9600/36000 (26.58%)], train Loss: 0.313262
+2022-07-31 08:26:02.799 | INFO     | __main__:train:166 - Train Epoch: 70 [12800/36000 (35.47%)], train Loss: 0.344512
+2022-07-31 08:26:17.938 | INFO     | __main__:train:166 - Train Epoch: 70 [16000/36000 (44.36%)], train Loss: 0.344512
+2022-07-31 08:26:33.159 | INFO     | __main__:train:166 - Train Epoch: 70 [19200/36000 (53.24%)], train Loss: 0.313262
+2022-07-31 08:26:48.365 | INFO     | __main__:train:166 - Train Epoch: 70 [22400/36000 (62.13%)], train Loss: 0.313262
+2022-07-31 08:27:03.718 | INFO     | __main__:train:166 - Train Epoch: 70 [25600/36000 (71.02%)], train Loss: 0.313262
+2022-07-31 08:27:19.000 | INFO     | __main__:train:166 - Train Epoch: 70 [28800/36000 (79.91%)], train Loss: 0.319161
+2022-07-31 08:27:34.186 | INFO     | __main__:train:166 - Train Epoch: 70 [32000/36000 (88.80%)], train Loss: 0.313262
+2022-07-31 08:27:49.375 | INFO     | __main__:train:166 - Train Epoch: 70 [35200/36000 (97.69%)], train Loss: 0.313262
+2022-07-31 08:28:06.089 | INFO     | __main__:test:195 - --------------------------------------------Train Epoch: 70-----------------------------------------------------
+2022-07-31 08:28:06.096 | INFO     | __main__:test:196 - Eval set: Average loss: 0.3994, Accuracy: (0.91), Pre: (0.91), Recall: (0.91)
+2022-07-31 08:28:06.096 | INFO     | __main__:test:199 - [[5569  368]
+ [ 684 5379]]
+2022-07-31 08:28:06.097 | INFO     | __main__:<module>:215 - acc is: 0.9123, best acc is 0.9148, best model get in 0
+2022-07-31 08:28:21.295 | INFO     | __main__:train:166 - Train Epoch: 71 [3200/36000 (8.80%)], train Loss: 0.313262
+2022-07-31 08:28:36.671 | INFO     | __main__:train:166 - Train Epoch: 71 [6400/36000 (17.69%)], train Loss: 0.349173
+2022-07-31 08:28:51.734 | INFO     | __main__:train:166 - Train Epoch: 71 [9600/36000 (26.58%)], train Loss: 0.313262
+2022-07-31 08:29:06.854 | INFO     | __main__:train:166 - Train Epoch: 71 [12800/36000 (35.47%)], train Loss: 0.313262
+2022-07-31 08:29:22.144 | INFO     | __main__:train:166 - Train Epoch: 71 [16000/36000 (44.36%)], train Loss: 0.344512
+2022-07-31 08:29:37.315 | INFO     | __main__:train:166 - Train Epoch: 71 [19200/36000 (53.24%)], train Loss: 0.313262
+2022-07-31 08:29:52.642 | INFO     | __main__:train:166 - Train Epoch: 71 [22400/36000 (62.13%)], train Loss: 0.344512
+2022-07-31 08:30:07.750 | INFO     | __main__:train:166 - Train Epoch: 71 [25600/36000 (71.02%)], train Loss: 0.313262
+2022-07-31 08:30:22.566 | INFO     | __main__:train:166 - Train Epoch: 71 [28800/36000 (79.91%)], train Loss: 0.313262
+2022-07-31 08:30:37.870 | INFO     | __main__:train:166 - Train Epoch: 71 [32000/36000 (88.80%)], train Loss: 0.313262
+2022-07-31 08:30:53.302 | INFO     | __main__:train:166 - Train Epoch: 71 [35200/36000 (97.69%)], train Loss: 0.344512
+2022-07-31 08:31:09.930 | INFO     | __main__:test:195 - --------------------------------------------Train Epoch: 71-----------------------------------------------------
+2022-07-31 08:31:09.936 | INFO     | __main__:test:196 - Eval set: Average loss: 0.4001, Accuracy: (0.91), Pre: (0.91), Recall: (0.91)
+2022-07-31 08:31:09.936 | INFO     | __main__:test:199 - [[5543  394]
+ [ 667 5396]]
+2022-07-31 08:31:09.939 | INFO     | __main__:<module>:215 - acc is: 0.9116, best acc is 0.9148, best model get in 0
+2022-07-31 08:31:25.216 | INFO     | __main__:train:166 - Train Epoch: 72 [3200/36000 (8.80%)], train Loss: 0.344512
+2022-07-31 08:31:40.154 | INFO     | __main__:train:166 - Train Epoch: 72 [6400/36000 (17.69%)], train Loss: 0.313262
+2022-07-31 08:31:55.407 | INFO     | __main__:train:166 - Train Epoch: 72 [9600/36000 (26.58%)], train Loss: 0.313262
+2022-07-31 08:32:10.388 | INFO     | __main__:train:166 - Train Epoch: 72 [12800/36000 (35.47%)], train Loss: 0.344512
+2022-07-31 08:32:25.504 | INFO     | __main__:train:166 - Train Epoch: 72 [16000/36000 (44.36%)], train Loss: 0.313262
+2022-07-31 08:32:40.769 | INFO     | __main__:train:166 - Train Epoch: 72 [19200/36000 (53.24%)], train Loss: 0.313400
+2022-07-31 08:32:55.857 | INFO     | __main__:train:166 - Train Epoch: 72 [22400/36000 (62.13%)], train Loss: 0.313262
+2022-07-31 08:33:10.918 | INFO     | __main__:train:166 - Train Epoch: 72 [25600/36000 (71.02%)], train Loss: 0.375762
+2022-07-31 08:33:26.133 | INFO     | __main__:train:166 - Train Epoch: 72 [28800/36000 (79.91%)], train Loss: 0.344512
+2022-07-31 08:33:41.207 | INFO     | __main__:train:166 - Train Epoch: 72 [32000/36000 (88.80%)], train Loss: 0.344512
+2022-07-31 08:33:56.257 | INFO     | __main__:train:166 - Train Epoch: 72 [35200/36000 (97.69%)], train Loss: 0.344512
+2022-07-31 08:34:12.811 | INFO     | __main__:test:195 - --------------------------------------------Train Epoch: 72-----------------------------------------------------
+2022-07-31 08:34:12.817 | INFO     | __main__:test:196 - Eval set: Average loss: 0.3979, Accuracy: (0.91), Pre: (0.92), Recall: (0.91)
+2022-07-31 08:34:12.817 | INFO     | __main__:test:199 - [[5554  383]
+ [ 640 5423]]
+2022-07-31 08:34:12.819 | INFO     | __main__:<module>:215 - acc is: 0.9147, best acc is 0.9148, best model get in 0
+2022-07-31 08:34:27.742 | INFO     | __main__:train:166 - Train Epoch: 73 [3200/36000 (8.80%)], train Loss: 0.344512
+2022-07-31 08:34:42.978 | INFO     | __main__:train:166 - Train Epoch: 73 [6400/36000 (17.69%)], train Loss: 0.313262
+2022-07-31 08:34:58.105 | INFO     | __main__:train:166 - Train Epoch: 73 [9600/36000 (26.58%)], train Loss: 0.313262
+2022-07-31 08:35:13.335 | INFO     | __main__:train:166 - Train Epoch: 73 [12800/36000 (35.47%)], train Loss: 0.344512
+2022-07-31 08:35:28.294 | INFO     | __main__:train:166 - Train Epoch: 73 [16000/36000 (44.36%)], train Loss: 0.313262
+2022-07-31 08:35:43.607 | INFO     | __main__:train:166 - Train Epoch: 73 [19200/36000 (53.24%)], train Loss: 0.313262
+2022-07-31 08:35:58.630 | INFO     | __main__:train:166 - Train Epoch: 73 [22400/36000 (62.13%)], train Loss: 0.313262
+2022-07-31 08:36:13.766 | INFO     | __main__:train:166 - Train Epoch: 73 [25600/36000 (71.02%)], train Loss: 0.344512
+2022-07-31 08:36:28.957 | INFO     | __main__:train:166 - Train Epoch: 73 [28800/36000 (79.91%)], train Loss: 0.313262
+2022-07-31 08:36:44.259 | INFO     | __main__:train:166 - Train Epoch: 73 [32000/36000 (88.80%)], train Loss: 0.313262
+2022-07-31 08:36:59.155 | INFO     | __main__:train:166 - Train Epoch: 73 [35200/36000 (97.69%)], train Loss: 0.375762
+2022-07-31 08:37:15.772 | INFO     | __main__:test:195 - --------------------------------------------Train Epoch: 73-----------------------------------------------------
+2022-07-31 08:37:15.778 | INFO     | __main__:test:196 - Eval set: Average loss: 0.3988, Accuracy: (0.91), Pre: (0.91), Recall: (0.91)
+2022-07-31 08:37:15.779 | INFO     | __main__:test:199 - [[5442  495]
+ [ 540 5523]]
+2022-07-31 08:37:15.784 | INFO     | __main__:<module>:215 - acc is: 0.9137, best acc is 0.9148, best model get in 0
+2022-07-31 08:37:30.954 | INFO     | __main__:train:166 - Train Epoch: 74 [3200/36000 (8.80%)], train Loss: 0.313262
+2022-07-31 08:37:46.024 | INFO     | __main__:train:166 - Train Epoch: 74 [6400/36000 (17.69%)], train Loss: 0.313262
+2022-07-31 08:38:01.239 | INFO     | __main__:train:166 - Train Epoch: 74 [9600/36000 (26.58%)], train Loss: 0.313262
+2022-07-31 08:38:16.427 | INFO     | __main__:train:166 - Train Epoch: 74 [12800/36000 (35.47%)], train Loss: 0.344512
+2022-07-31 08:38:31.684 | INFO     | __main__:train:166 - Train Epoch: 74 [16000/36000 (44.36%)], train Loss: 0.344513
+2022-07-31 08:38:46.751 | INFO     | __main__:train:166 - Train Epoch: 74 [19200/36000 (53.24%)], train Loss: 0.344512
+2022-07-31 08:39:01.900 | INFO     | __main__:train:166 - Train Epoch: 74 [22400/36000 (62.13%)], train Loss: 0.344512
+2022-07-31 08:39:16.943 | INFO     | __main__:train:166 - Train Epoch: 74 [25600/36000 (71.02%)], train Loss: 0.313262
+2022-07-31 08:39:32.012 | INFO     | __main__:train:166 - Train Epoch: 74 [28800/36000 (79.91%)], train Loss: 0.313262
+2022-07-31 08:39:47.041 | INFO     | __main__:train:166 - Train Epoch: 74 [32000/36000 (88.80%)], train Loss: 0.344512
+2022-07-31 08:40:02.624 | INFO     | __main__:train:166 - Train Epoch: 74 [35200/36000 (97.69%)], train Loss: 0.344512
+2022-07-31 08:40:19.154 | INFO     | __main__:test:195 - --------------------------------------------Train Epoch: 74-----------------------------------------------------
+2022-07-31 08:40:19.160 | INFO     | __main__:test:196 - Eval set: Average loss: 0.4000, Accuracy: (0.91), Pre: (0.91), Recall: (0.91)
+2022-07-31 08:40:19.160 | INFO     | __main__:test:199 - [[5588  349]
+ [ 708 5355]]
+2022-07-31 08:40:19.162 | INFO     | __main__:<module>:215 - acc is: 0.9119, best acc is 0.9148, best model get in 0
+2022-07-31 08:40:34.519 | INFO     | __main__:train:166 - Train Epoch: 75 [3200/36000 (8.80%)], train Loss: 0.344512
+2022-07-31 08:40:49.612 | INFO     | __main__:train:166 - Train Epoch: 75 [6400/36000 (17.69%)], train Loss: 0.344512
+2022-07-31 08:41:04.663 | INFO     | __main__:train:166 - Train Epoch: 75 [9600/36000 (26.58%)], train Loss: 0.344512
+2022-07-31 08:41:19.680 | INFO     | __main__:train:166 - Train Epoch: 75 [12800/36000 (35.47%)], train Loss: 0.313262
+2022-07-31 08:41:34.909 | INFO     | __main__:train:166 - Train Epoch: 75 [16000/36000 (44.36%)], train Loss: 0.313262
+2022-07-31 08:41:50.073 | INFO     | __main__:train:166 - Train Epoch: 75 [19200/36000 (53.24%)], train Loss: 0.313262
+2022-07-31 08:42:05.273 | INFO     | __main__:train:166 - Train Epoch: 75 [22400/36000 (62.13%)], train Loss: 0.344512
+2022-07-31 08:42:20.226 | INFO     | __main__:train:166 - Train Epoch: 75 [25600/36000 (71.02%)], train Loss: 0.313262
+2022-07-31 08:42:35.389 | INFO     | __main__:train:166 - Train Epoch: 75 [28800/36000 (79.91%)], train Loss: 0.313262
+2022-07-31 08:42:50.535 | INFO     | __main__:train:166 - Train Epoch: 75 [32000/36000 (88.80%)], train Loss: 0.313262
+2022-07-31 08:43:05.572 | INFO     | __main__:train:166 - Train Epoch: 75 [35200/36000 (97.69%)], train Loss: 0.344512
+2022-07-31 08:43:22.125 | INFO     | __main__:test:195 - --------------------------------------------Train Epoch: 75-----------------------------------------------------
+2022-07-31 08:43:22.130 | INFO     | __main__:test:196 - Eval set: Average loss: 0.3975, Accuracy: (0.91), Pre: (0.92), Recall: (0.91)
+2022-07-31 08:43:22.131 | INFO     | __main__:test:199 - [[5581  356]
+ [ 674 5389]]
+2022-07-31 08:43:22.133 | INFO     | __main__:<module>:215 - acc is: 0.9142, best acc is 0.9148, best model get in 0
+2022-07-31 08:43:37.427 | INFO     | __main__:train:166 - Train Epoch: 76 [3200/36000 (8.80%)], train Loss: 0.313262
+2022-07-31 08:43:52.669 | INFO     | __main__:train:166 - Train Epoch: 76 [6400/36000 (17.69%)], train Loss: 0.313262
+2022-07-31 08:44:07.656 | INFO     | __main__:train:166 - Train Epoch: 76 [9600/36000 (26.58%)], train Loss: 0.313262
+2022-07-31 08:44:22.701 | INFO     | __main__:train:166 - Train Epoch: 76 [12800/36000 (35.47%)], train Loss: 0.313262
+2022-07-31 08:44:37.610 | INFO     | __main__:train:166 - Train Epoch: 76 [16000/36000 (44.36%)], train Loss: 0.313262
+2022-07-31 08:44:52.530 | INFO     | __main__:train:166 - Train Epoch: 76 [19200/36000 (53.24%)], train Loss: 0.344512
+2022-07-31 08:45:07.451 | INFO     | __main__:train:166 - Train Epoch: 76 [22400/36000 (62.13%)], train Loss: 0.313262
+2022-07-31 08:45:22.562 | INFO     | __main__:train:166 - Train Epoch: 76 [25600/36000 (71.02%)], train Loss: 0.313262
+2022-07-31 08:45:37.610 | INFO     | __main__:train:166 - Train Epoch: 76 [28800/36000 (79.91%)], train Loss: 0.313262
+2022-07-31 08:45:52.571 | INFO     | __main__:train:166 - Train Epoch: 76 [32000/36000 (88.80%)], train Loss: 0.313262
+2022-07-31 08:46:07.541 | INFO     | __main__:train:166 - Train Epoch: 76 [35200/36000 (97.69%)], train Loss: 0.313262
+2022-07-31 08:46:24.065 | INFO     | __main__:test:195 - --------------------------------------------Train Epoch: 76-----------------------------------------------------
+2022-07-31 08:46:24.071 | INFO     | __main__:test:196 - Eval set: Average loss: 0.3981, Accuracy: (0.91), Pre: (0.91), Recall: (0.91)
+2022-07-31 08:46:24.071 | INFO     | __main__:test:199 - [[5525  412]
+ [ 616 5447]]
+2022-07-31 08:46:24.073 | INFO     | __main__:<module>:215 - acc is: 0.9143, best acc is 0.9148, best model get in 0
+2022-07-31 08:46:39.213 | INFO     | __main__:train:166 - Train Epoch: 77 [3200/36000 (8.80%)], train Loss: 0.313262
+2022-07-31 08:46:54.182 | INFO     | __main__:train:166 - Train Epoch: 77 [6400/36000 (17.69%)], train Loss: 0.344512
+2022-07-31 08:47:09.320 | INFO     | __main__:train:166 - Train Epoch: 77 [9600/36000 (26.58%)], train Loss: 0.313262
+2022-07-31 08:47:24.270 | INFO     | __main__:train:166 - Train Epoch: 77 [12800/36000 (35.47%)], train Loss: 0.313262
+2022-07-31 08:47:39.583 | INFO     | __main__:train:166 - Train Epoch: 77 [16000/36000 (44.36%)], train Loss: 0.313264
+2022-07-31 08:47:54.544 | INFO     | __main__:train:166 - Train Epoch: 77 [19200/36000 (53.24%)], train Loss: 0.313262
+2022-07-31 08:48:09.642 | INFO     | __main__:train:166 - Train Epoch: 77 [22400/36000 (62.13%)], train Loss: 0.313262
+2022-07-31 08:48:24.894 | INFO     | __main__:train:166 - Train Epoch: 77 [25600/36000 (71.02%)], train Loss: 0.344512
+2022-07-31 08:48:40.106 | INFO     | __main__:train:166 - Train Epoch: 77 [28800/36000 (79.91%)], train Loss: 0.375762
+2022-07-31 08:48:54.977 | INFO     | __main__:train:166 - Train Epoch: 77 [32000/36000 (88.80%)], train Loss: 0.344512
+2022-07-31 08:49:10.094 | INFO     | __main__:train:166 - Train Epoch: 77 [35200/36000 (97.69%)], train Loss: 0.313262
+2022-07-31 08:49:26.475 | INFO     | __main__:test:195 - --------------------------------------------Train Epoch: 77-----------------------------------------------------
+2022-07-31 08:49:26.481 | INFO     | __main__:test:196 - Eval set: Average loss: 0.3996, Accuracy: (0.91), Pre: (0.91), Recall: (0.91)
+2022-07-31 08:49:26.482 | INFO     | __main__:test:199 - [[5566  371]
+ [ 674 5389]]
+2022-07-31 08:49:26.484 | INFO     | __main__:<module>:215 - acc is: 0.9129, best acc is 0.9148, best model get in 0
+2022-07-31 08:49:41.619 | INFO     | __main__:train:166 - Train Epoch: 78 [3200/36000 (8.80%)], train Loss: 0.313262
+2022-07-31 08:49:56.685 | INFO     | __main__:train:166 - Train Epoch: 78 [6400/36000 (17.69%)], train Loss: 0.313262
+2022-07-31 08:50:11.808 | INFO     | __main__:train:166 - Train Epoch: 78 [9600/36000 (26.58%)], train Loss: 0.313262
+2022-07-31 08:50:26.995 | INFO     | __main__:train:166 - Train Epoch: 78 [12800/36000 (35.47%)], train Loss: 0.313262
+2022-07-31 08:50:42.416 | INFO     | __main__:train:166 - Train Epoch: 78 [16000/36000 (44.36%)], train Loss: 0.313262
+2022-07-31 08:50:57.743 | INFO     | __main__:train:166 - Train Epoch: 78 [19200/36000 (53.24%)], train Loss: 0.313262
+2022-07-31 08:51:12.957 | INFO     | __main__:train:166 - Train Epoch: 78 [22400/36000 (62.13%)], train Loss: 0.313262
+2022-07-31 08:51:27.361 | INFO     | __main__:train:166 - Train Epoch: 78 [25600/36000 (71.02%)], train Loss: 0.344512
+2022-07-31 08:51:42.490 | INFO     | __main__:train:166 - Train Epoch: 78 [28800/36000 (79.91%)], train Loss: 0.313262
+2022-07-31 08:51:57.630 | INFO     | __main__:train:166 - Train Epoch: 78 [32000/36000 (88.80%)], train Loss: 0.313262
+2022-07-31 08:52:12.615 | INFO     | __main__:train:166 - Train Epoch: 78 [35200/36000 (97.69%)], train Loss: 0.313262
+2022-07-31 08:52:29.192 | INFO     | __main__:test:195 - --------------------------------------------Train Epoch: 78-----------------------------------------------------
+2022-07-31 08:52:29.197 | INFO     | __main__:test:196 - Eval set: Average loss: 0.3998, Accuracy: (0.91), Pre: (0.91), Recall: (0.91)
+2022-07-31 08:52:29.197 | INFO     | __main__:test:199 - [[5535  402]
+ [ 640 5423]]
+2022-07-31 08:52:29.199 | INFO     | __main__:<module>:215 - acc is: 0.9132, best acc is 0.9148, best model get in 0
+2022-07-31 08:52:44.215 | INFO     | __main__:train:166 - Train Epoch: 79 [3200/36000 (8.80%)], train Loss: 0.313262
+2022-07-31 08:52:59.295 | INFO     | __main__:train:166 - Train Epoch: 79 [6400/36000 (17.69%)], train Loss: 0.313262
+2022-07-31 08:53:13.971 | INFO     | __main__:train:166 - Train Epoch: 79 [9600/36000 (26.58%)], train Loss: 0.344512
+2022-07-31 08:53:29.089 | INFO     | __main__:train:166 - Train Epoch: 79 [12800/36000 (35.47%)], train Loss: 0.313262
+2022-07-31 08:53:43.947 | INFO     | __main__:train:166 - Train Epoch: 79 [16000/36000 (44.36%)], train Loss: 0.344512
+2022-07-31 08:53:59.083 | INFO     | __main__:train:166 - Train Epoch: 79 [19200/36000 (53.24%)], train Loss: 0.313262
+2022-07-31 08:54:14.229 | INFO     | __main__:train:166 - Train Epoch: 79 [22400/36000 (62.13%)], train Loss: 0.313262
+2022-07-31 08:54:29.428 | INFO     | __main__:train:166 - Train Epoch: 79 [25600/36000 (71.02%)], train Loss: 0.313262
+2022-07-31 08:54:44.149 | INFO     | __main__:train:166 - Train Epoch: 79 [28800/36000 (79.91%)], train Loss: 0.344512
+2022-07-31 08:54:59.360 | INFO     | __main__:train:166 - Train Epoch: 79 [32000/36000 (88.80%)], train Loss: 0.313262
+2022-07-31 08:55:14.470 | INFO     | __main__:train:166 - Train Epoch: 79 [35200/36000 (97.69%)], train Loss: 0.344512
+2022-07-31 08:55:30.982 | INFO     | __main__:test:195 - --------------------------------------------Train Epoch: 79-----------------------------------------------------
+2022-07-31 08:55:30.988 | INFO     | __main__:test:196 - Eval set: Average loss: 0.4021, Accuracy: (0.91), Pre: (0.91), Recall: (0.91)
+2022-07-31 08:55:30.988 | INFO     | __main__:test:199 - [[5512  425]
+ [ 647 5416]]
+2022-07-31 08:55:30.990 | INFO     | __main__:<module>:215 - acc is: 0.9107, best acc is 0.9148, best model get in 0
+2022-07-31 08:55:46.281 | INFO     | __main__:train:166 - Train Epoch: 80 [3200/36000 (8.80%)], train Loss: 0.344512
+2022-07-31 08:56:01.258 | INFO     | __main__:train:166 - Train Epoch: 80 [6400/36000 (17.69%)], train Loss: 0.313262
+2022-07-31 08:56:16.323 | INFO     | __main__:train:166 - Train Epoch: 80 [9600/36000 (26.58%)], train Loss: 0.375762
+2022-07-31 08:56:31.428 | INFO     | __main__:train:166 - Train Epoch: 80 [12800/36000 (35.47%)], train Loss: 0.313262
+2022-07-31 08:56:46.595 | INFO     | __main__:train:166 - Train Epoch: 80 [16000/36000 (44.36%)], train Loss: 0.344512
+2022-07-31 08:57:01.888 | INFO     | __main__:train:166 - Train Epoch: 80 [19200/36000 (53.24%)], train Loss: 0.313262
+2022-07-31 08:57:16.979 | INFO     | __main__:train:166 - Train Epoch: 80 [22400/36000 (62.13%)], train Loss: 0.313262
+2022-07-31 08:57:31.911 | INFO     | __main__:train:166 - Train Epoch: 80 [25600/36000 (71.02%)], train Loss: 0.313262
+2022-07-31 08:57:47.108 | INFO     | __main__:train:166 - Train Epoch: 80 [28800/36000 (79.91%)], train Loss: 0.313262
+2022-07-31 08:58:02.048 | INFO     | __main__:train:166 - Train Epoch: 80 [32000/36000 (88.80%)], train Loss: 0.313262
+2022-07-31 08:58:17.209 | INFO     | __main__:train:166 - Train Epoch: 80 [35200/36000 (97.69%)], train Loss: 0.313262
+2022-07-31 08:58:33.832 | INFO     | __main__:test:195 - --------------------------------------------Train Epoch: 80-----------------------------------------------------
+2022-07-31 08:58:33.839 | INFO     | __main__:test:196 - Eval set: Average loss: 0.4002, Accuracy: (0.91), Pre: (0.91), Recall: (0.91)
+2022-07-31 08:58:33.840 | INFO     | __main__:test:199 - [[5546  391]
+ [ 660 5403]]
+2022-07-31 08:58:33.842 | INFO     | __main__:<module>:215 - acc is: 0.9124, best acc is 0.9148, best model get in 0
+2022-07-31 08:58:48.934 | INFO     | __main__:train:166 - Train Epoch: 81 [3200/36000 (8.80%)], train Loss: 0.313262
+2022-07-31 08:59:03.951 | INFO     | __main__:train:166 - Train Epoch: 81 [6400/36000 (17.69%)], train Loss: 0.375762
+2022-07-31 08:59:18.950 | INFO     | __main__:train:166 - Train Epoch: 81 [9600/36000 (26.58%)], train Loss: 0.313262
+2022-07-31 08:59:34.131 | INFO     | __main__:train:166 - Train Epoch: 81 [12800/36000 (35.47%)], train Loss: 0.313262
+2022-07-31 08:59:49.136 | INFO     | __main__:train:166 - Train Epoch: 81 [16000/36000 (44.36%)], train Loss: 0.313262
+2022-07-31 09:00:04.409 | INFO     | __main__:train:166 - Train Epoch: 81 [19200/36000 (53.24%)], train Loss: 0.313262
+2022-07-31 09:00:19.523 | INFO     | __main__:train:166 - Train Epoch: 81 [22400/36000 (62.13%)], train Loss: 0.313262
+2022-07-31 09:00:34.768 | INFO     | __main__:train:166 - Train Epoch: 81 [25600/36000 (71.02%)], train Loss: 0.375762
+2022-07-31 09:00:49.931 | INFO     | __main__:train:166 - Train Epoch: 81 [28800/36000 (79.91%)], train Loss: 0.313262
+2022-07-31 09:01:05.184 | INFO     | __main__:train:166 - Train Epoch: 81 [32000/36000 (88.80%)], train Loss: 0.313262
+2022-07-31 09:01:20.145 | INFO     | __main__:train:166 - Train Epoch: 81 [35200/36000 (97.69%)], train Loss: 0.344512
+2022-07-31 09:01:36.676 | INFO     | __main__:test:195 - --------------------------------------------Train Epoch: 81-----------------------------------------------------
+2022-07-31 09:01:36.683 | INFO     | __main__:test:196 - Eval set: Average loss: 0.3983, Accuracy: (0.91), Pre: (0.91), Recall: (0.91)
+2022-07-31 09:01:36.683 | INFO     | __main__:test:199 - [[5515  422]
+ [ 602 5461]]
+2022-07-31 09:01:36.685 | INFO     | __main__:<module>:215 - acc is: 0.9147, best acc is 0.9148, best model get in 0
+2022-07-31 09:01:52.033 | INFO     | __main__:train:166 - Train Epoch: 82 [3200/36000 (8.80%)], train Loss: 0.313262
+2022-07-31 09:02:07.422 | INFO     | __main__:train:166 - Train Epoch: 82 [6400/36000 (17.69%)], train Loss: 0.344512
+2022-07-31 09:02:22.615 | INFO     | __main__:train:166 - Train Epoch: 82 [9600/36000 (26.58%)], train Loss: 0.313262
+2022-07-31 09:02:37.801 | INFO     | __main__:train:166 - Train Epoch: 82 [12800/36000 (35.47%)], train Loss: 0.313262
+2022-07-31 09:02:52.296 | INFO     | __main__:train:166 - Train Epoch: 82 [16000/36000 (44.36%)], train Loss: 0.327688
+2022-07-31 09:03:07.445 | INFO     | __main__:train:166 - Train Epoch: 82 [19200/36000 (53.24%)], train Loss: 0.344512
+2022-07-31 09:03:22.684 | INFO     | __main__:train:166 - Train Epoch: 82 [22400/36000 (62.13%)], train Loss: 0.344512
+2022-07-31 09:03:37.665 | INFO     | __main__:train:166 - Train Epoch: 82 [25600/36000 (71.02%)], train Loss: 0.375762
+2022-07-31 09:03:52.793 | INFO     | __main__:train:166 - Train Epoch: 82 [28800/36000 (79.91%)], train Loss: 0.313262
+2022-07-31 09:04:07.783 | INFO     | __main__:train:166 - Train Epoch: 82 [32000/36000 (88.80%)], train Loss: 0.344512
+2022-07-31 09:04:23.046 | INFO     | __main__:train:166 - Train Epoch: 82 [35200/36000 (97.69%)], train Loss: 0.313262
+2022-07-31 09:04:39.499 | INFO     | __main__:test:195 - --------------------------------------------Train Epoch: 82-----------------------------------------------------
+2022-07-31 09:04:39.506 | INFO     | __main__:test:196 - Eval set: Average loss: 0.3984, Accuracy: (0.91), Pre: (0.91), Recall: (0.91)
+2022-07-31 09:04:39.506 | INFO     | __main__:test:199 - [[5521  416]
+ [ 613 5450]]
+2022-07-31 09:04:39.508 | INFO     | __main__:<module>:215 - acc is: 0.9143, best acc is 0.9148, best model get in 0
+2022-07-31 09:04:54.757 | INFO     | __main__:train:166 - Train Epoch: 83 [3200/36000 (8.80%)], train Loss: 0.313262
+2022-07-31 09:05:09.814 | INFO     | __main__:train:166 - Train Epoch: 83 [6400/36000 (17.69%)], train Loss: 0.313262
+2022-07-31 09:05:24.983 | INFO     | __main__:train:166 - Train Epoch: 83 [9600/36000 (26.58%)], train Loss: 0.313262
+2022-07-31 09:05:40.435 | INFO     | __main__:train:166 - Train Epoch: 83 [12800/36000 (35.47%)], train Loss: 0.313262
+2022-07-31 09:05:55.573 | INFO     | __main__:train:166 - Train Epoch: 83 [16000/36000 (44.36%)], train Loss: 0.313262
+2022-07-31 09:06:10.664 | INFO     | __main__:train:166 - Train Epoch: 83 [19200/36000 (53.24%)], train Loss: 0.313262
+2022-07-31 09:06:25.840 | INFO     | __main__:train:166 - Train Epoch: 83 [22400/36000 (62.13%)], train Loss: 0.313262
+2022-07-31 09:06:40.940 | INFO     | __main__:train:166 - Train Epoch: 83 [25600/36000 (71.02%)], train Loss: 0.313262
+2022-07-31 09:06:56.156 | INFO     | __main__:train:166 - Train Epoch: 83 [28800/36000 (79.91%)], train Loss: 0.313262
+2022-07-31 09:07:11.294 | INFO     | __main__:train:166 - Train Epoch: 83 [32000/36000 (88.80%)], train Loss: 0.344512
+2022-07-31 09:07:26.296 | INFO     | __main__:train:166 - Train Epoch: 83 [35200/36000 (97.69%)], train Loss: 0.313262
+2022-07-31 09:07:42.973 | INFO     | __main__:test:195 - --------------------------------------------Train Epoch: 83-----------------------------------------------------
+2022-07-31 09:07:42.979 | INFO     | __main__:test:196 - Eval set: Average loss: 0.4010, Accuracy: (0.91), Pre: (0.91), Recall: (0.91)
+2022-07-31 09:07:42.979 | INFO     | __main__:test:199 - [[5633  304]
+ [ 753 5310]]
+2022-07-31 09:07:42.981 | INFO     | __main__:<module>:215 - acc is: 0.9119, best acc is 0.9148, best model get in 0
+2022-07-31 09:07:58.136 | INFO     | __main__:train:166 - Train Epoch: 84 [3200/36000 (8.80%)], train Loss: 0.313262
+2022-07-31 09:08:12.860 | INFO     | __main__:train:166 - Train Epoch: 84 [6400/36000 (17.69%)], train Loss: 0.344512
+2022-07-31 09:08:28.343 | INFO     | __main__:train:166 - Train Epoch: 84 [9600/36000 (26.58%)], train Loss: 0.344512
+2022-07-31 09:08:43.592 | INFO     | __main__:train:166 - Train Epoch: 84 [12800/36000 (35.47%)], train Loss: 0.313262
+2022-07-31 09:08:58.492 | INFO     | __main__:train:166 - Train Epoch: 84 [16000/36000 (44.36%)], train Loss: 0.313262
+2022-07-31 09:09:13.678 | INFO     | __main__:train:166 - Train Epoch: 84 [19200/36000 (53.24%)], train Loss: 0.313262
+2022-07-31 09:09:28.765 | INFO     | __main__:train:166 - Train Epoch: 84 [22400/36000 (62.13%)], train Loss: 0.313262
+2022-07-31 09:09:43.860 | INFO     | __main__:train:166 - Train Epoch: 84 [25600/36000 (71.02%)], train Loss: 0.344512
+2022-07-31 09:09:59.008 | INFO     | __main__:train:166 - Train Epoch: 84 [28800/36000 (79.91%)], train Loss: 0.313262
+2022-07-31 09:10:14.126 | INFO     | __main__:train:166 - Train Epoch: 84 [32000/36000 (88.80%)], train Loss: 0.313262
+2022-07-31 09:10:29.210 | INFO     | __main__:train:166 - Train Epoch: 84 [35200/36000 (97.69%)], train Loss: 0.313262
+2022-07-31 09:10:45.846 | INFO     | __main__:test:195 - --------------------------------------------Train Epoch: 84-----------------------------------------------------
+2022-07-31 09:10:45.852 | INFO     | __main__:test:196 - Eval set: Average loss: 0.3989, Accuracy: (0.91), Pre: (0.91), Recall: (0.91)
+2022-07-31 09:10:45.852 | INFO     | __main__:test:199 - [[5563  374]
+ [ 663 5400]]
+2022-07-31 09:10:45.854 | INFO     | __main__:<module>:215 - acc is: 0.9136, best acc is 0.9148, best model get in 0
+2022-07-31 09:11:01.128 | INFO     | __main__:train:166 - Train Epoch: 85 [3200/36000 (8.80%)], train Loss: 0.313262
+2022-07-31 09:11:16.375 | INFO     | __main__:train:166 - Train Epoch: 85 [6400/36000 (17.69%)], train Loss: 0.313262
+2022-07-31 09:11:31.557 | INFO     | __main__:train:166 - Train Epoch: 85 [9600/36000 (26.58%)], train Loss: 0.313262
+2022-07-31 09:11:46.501 | INFO     | __main__:train:166 - Train Epoch: 85 [12800/36000 (35.47%)], train Loss: 0.313262
+2022-07-31 09:12:01.588 | INFO     | __main__:train:166 - Train Epoch: 85 [16000/36000 (44.36%)], train Loss: 0.344512
+2022-07-31 09:12:16.689 | INFO     | __main__:train:166 - Train Epoch: 85 [19200/36000 (53.24%)], train Loss: 0.344512
+2022-07-31 09:12:31.890 | INFO     | __main__:train:166 - Train Epoch: 85 [22400/36000 (62.13%)], train Loss: 0.344512
+2022-07-31 09:12:47.059 | INFO     | __main__:train:166 - Train Epoch: 85 [25600/36000 (71.02%)], train Loss: 0.313262
+2022-07-31 09:13:02.243 | INFO     | __main__:train:166 - Train Epoch: 85 [28800/36000 (79.91%)], train Loss: 0.313262
+2022-07-31 09:13:17.556 | INFO     | __main__:train:166 - Train Epoch: 85 [32000/36000 (88.80%)], train Loss: 0.313262
+2022-07-31 09:13:32.857 | INFO     | __main__:train:166 - Train Epoch: 85 [35200/36000 (97.69%)], train Loss: 0.313262
+2022-07-31 09:13:49.534 | INFO     | __main__:test:195 - --------------------------------------------Train Epoch: 85-----------------------------------------------------
+2022-07-31 09:13:49.539 | INFO     | __main__:test:196 - Eval set: Average loss: 0.3980, Accuracy: (0.91), Pre: (0.92), Recall: (0.92)
+2022-07-31 09:13:49.540 | INFO     | __main__:test:199 - [[5579  358]
+ [ 665 5398]]
+2022-07-31 09:13:49.542 | INFO     | __main__:<module>:215 - acc is: 0.9147, best acc is 0.9148, best model get in 0
+2022-07-31 09:14:04.987 | INFO     | __main__:train:166 - Train Epoch: 86 [3200/36000 (8.80%)], train Loss: 0.313262
+2022-07-31 09:14:19.573 | INFO     | __main__:train:166 - Train Epoch: 86 [6400/36000 (17.69%)], train Loss: 0.313262
+2022-07-31 09:14:34.899 | INFO     | __main__:train:166 - Train Epoch: 86 [9600/36000 (26.58%)], train Loss: 0.313262
+2022-07-31 09:14:49.987 | INFO     | __main__:train:166 - Train Epoch: 86 [12800/36000 (35.47%)], train Loss: 0.313262
+2022-07-31 09:15:05.086 | INFO     | __main__:train:166 - Train Epoch: 86 [16000/36000 (44.36%)], train Loss: 0.344512
+2022-07-31 09:15:20.425 | INFO     | __main__:train:166 - Train Epoch: 86 [19200/36000 (53.24%)], train Loss: 0.313262
+2022-07-31 09:15:35.686 | INFO     | __main__:train:166 - Train Epoch: 86 [22400/36000 (62.13%)], train Loss: 0.313262
+2022-07-31 09:15:50.700 | INFO     | __main__:train:166 - Train Epoch: 86 [25600/36000 (71.02%)], train Loss: 0.313262
+2022-07-31 09:16:05.769 | INFO     | __main__:train:166 - Train Epoch: 86 [28800/36000 (79.91%)], train Loss: 0.313262
+2022-07-31 09:16:20.963 | INFO     | __main__:train:166 - Train Epoch: 86 [32000/36000 (88.80%)], train Loss: 0.313262
+2022-07-31 09:16:36.000 | INFO     | __main__:train:166 - Train Epoch: 86 [35200/36000 (97.69%)], train Loss: 0.313262
+2022-07-31 09:16:52.533 | INFO     | __main__:test:195 - --------------------------------------------Train Epoch: 86-----------------------------------------------------
+2022-07-31 09:16:52.539 | INFO     | __main__:test:196 - Eval set: Average loss: 0.3987, Accuracy: (0.91), Pre: (0.92), Recall: (0.91)
+2022-07-31 09:16:52.540 | INFO     | __main__:test:199 - [[5596  341]
+ [ 689 5374]]
+2022-07-31 09:16:52.542 | INFO     | __main__:<module>:215 - acc is: 0.9142, best acc is 0.9148, best model get in 0
+2022-07-31 09:17:07.719 | INFO     | __main__:train:166 - Train Epoch: 87 [3200/36000 (8.80%)], train Loss: 0.344512
+2022-07-31 09:17:22.699 | INFO     | __main__:train:166 - Train Epoch: 87 [6400/36000 (17.69%)], train Loss: 0.313262
+2022-07-31 09:17:37.809 | INFO     | __main__:train:166 - Train Epoch: 87 [9600/36000 (26.58%)], train Loss: 0.344512
+2022-07-31 09:17:52.940 | INFO     | __main__:train:166 - Train Epoch: 87 [12800/36000 (35.47%)], train Loss: 0.344512
+2022-07-31 09:18:07.928 | INFO     | __main__:train:166 - Train Epoch: 87 [16000/36000 (44.36%)], train Loss: 0.313262
+2022-07-31 09:18:23.264 | INFO     | __main__:train:166 - Train Epoch: 87 [19200/36000 (53.24%)], train Loss: 0.313262
+2022-07-31 09:18:38.287 | INFO     | __main__:train:166 - Train Epoch: 87 [22400/36000 (62.13%)], train Loss: 0.344512
+2022-07-31 09:18:53.488 | INFO     | __main__:train:166 - Train Epoch: 87 [25600/36000 (71.02%)], train Loss: 0.313262
+2022-07-31 09:19:08.738 | INFO     | __main__:train:166 - Train Epoch: 87 [28800/36000 (79.91%)], train Loss: 0.313262
+2022-07-31 09:19:24.015 | INFO     | __main__:train:166 - Train Epoch: 87 [32000/36000 (88.80%)], train Loss: 0.344512
+2022-07-31 09:19:39.208 | INFO     | __main__:train:166 - Train Epoch: 87 [35200/36000 (97.69%)], train Loss: 0.344512
+2022-07-31 09:19:55.812 | INFO     | __main__:test:195 - --------------------------------------------Train Epoch: 87-----------------------------------------------------
+2022-07-31 09:19:55.818 | INFO     | __main__:test:196 - Eval set: Average loss: 0.3980, Accuracy: (0.91), Pre: (0.92), Recall: (0.91)
+2022-07-31 09:19:55.818 | INFO     | __main__:test:199 - [[5534  403]
+ [ 621 5442]]
+2022-07-31 09:19:55.820 | INFO     | __main__:<module>:215 - acc is: 0.9147, best acc is 0.9148, best model get in 0
+2022-07-31 09:20:10.745 | INFO     | __main__:train:166 - Train Epoch: 88 [3200/36000 (8.80%)], train Loss: 0.344512
+2022-07-31 09:20:25.920 | INFO     | __main__:train:166 - Train Epoch: 88 [6400/36000 (17.69%)], train Loss: 0.344512
+2022-07-31 09:20:41.111 | INFO     | __main__:train:166 - Train Epoch: 88 [9600/36000 (26.58%)], train Loss: 0.344512
+2022-07-31 09:20:56.393 | INFO     | __main__:train:166 - Train Epoch: 88 [12800/36000 (35.47%)], train Loss: 0.344512
+2022-07-31 09:21:11.424 | INFO     | __main__:train:166 - Train Epoch: 88 [16000/36000 (44.36%)], train Loss: 0.313262
+2022-07-31 09:21:26.570 | INFO     | __main__:train:166 - Train Epoch: 88 [19200/36000 (53.24%)], train Loss: 0.313262
+2022-07-31 09:21:41.800 | INFO     | __main__:train:166 - Train Epoch: 88 [22400/36000 (62.13%)], train Loss: 0.313262
+2022-07-31 09:21:56.963 | INFO     | __main__:train:166 - Train Epoch: 88 [25600/36000 (71.02%)], train Loss: 0.313262
+2022-07-31 09:22:11.969 | INFO     | __main__:train:166 - Train Epoch: 88 [28800/36000 (79.91%)], train Loss: 0.313262
+2022-07-31 09:22:27.036 | INFO     | __main__:train:166 - Train Epoch: 88 [32000/36000 (88.80%)], train Loss: 0.313262
+2022-07-31 09:22:42.467 | INFO     | __main__:train:166 - Train Epoch: 88 [35200/36000 (97.69%)], train Loss: 0.313262
+2022-07-31 09:22:59.074 | INFO     | __main__:test:195 - --------------------------------------------Train Epoch: 88-----------------------------------------------------
+2022-07-31 09:22:59.082 | INFO     | __main__:test:196 - Eval set: Average loss: 0.3995, Accuracy: (0.91), Pre: (0.91), Recall: (0.91)
+2022-07-31 09:22:59.082 | INFO     | __main__:test:199 - [[5611  326]
+ [ 715 5348]]
+2022-07-31 09:22:59.084 | INFO     | __main__:<module>:215 - acc is: 0.9133, best acc is 0.9148, best model get in 0
+2022-07-31 09:23:14.332 | INFO     | __main__:train:166 - Train Epoch: 89 [3200/36000 (8.80%)], train Loss: 0.313262
+2022-07-31 09:23:29.321 | INFO     | __main__:train:166 - Train Epoch: 89 [6400/36000 (17.69%)], train Loss: 0.313262
+2022-07-31 09:23:44.460 | INFO     | __main__:train:166 - Train Epoch: 89 [9600/36000 (26.58%)], train Loss: 0.344512
+2022-07-31 09:23:59.531 | INFO     | __main__:train:166 - Train Epoch: 89 [12800/36000 (35.47%)], train Loss: 0.344512
+2022-07-31 09:24:14.497 | INFO     | __main__:train:166 - Train Epoch: 89 [16000/36000 (44.36%)], train Loss: 0.313262
+2022-07-31 09:24:29.739 | INFO     | __main__:train:166 - Train Epoch: 89 [19200/36000 (53.24%)], train Loss: 0.313262
+2022-07-31 09:24:44.827 | INFO     | __main__:train:166 - Train Epoch: 89 [22400/36000 (62.13%)], train Loss: 0.344512
+2022-07-31 09:25:00.100 | INFO     | __main__:train:166 - Train Epoch: 89 [25600/36000 (71.02%)], train Loss: 0.313262
+2022-07-31 09:25:15.166 | INFO     | __main__:train:166 - Train Epoch: 89 [28800/36000 (79.91%)], train Loss: 0.313262
+2022-07-31 09:25:30.223 | INFO     | __main__:train:166 - Train Epoch: 89 [32000/36000 (88.80%)], train Loss: 0.313262
+2022-07-31 09:25:45.302 | INFO     | __main__:train:166 - Train Epoch: 89 [35200/36000 (97.69%)], train Loss: 0.313262
+2022-07-31 09:26:01.837 | INFO     | __main__:test:195 - --------------------------------------------Train Epoch: 89-----------------------------------------------------
+2022-07-31 09:26:01.839 | INFO     | __main__:test:196 - Eval set: Average loss: 0.3980, Accuracy: (0.91), Pre: (0.92), Recall: (0.91)
+2022-07-31 09:26:01.840 | INFO     | __main__:test:199 - [[5568  369]
+ [ 654 5409]]
+2022-07-31 09:26:01.841 | INFO     | __main__:<module>:215 - acc is: 0.9147, best acc is 0.9148, best model get in 0
+2022-07-31 09:26:17.060 | INFO     | __main__:train:166 - Train Epoch: 90 [3200/36000 (8.80%)], train Loss: 0.313262
+2022-07-31 09:26:32.360 | INFO     | __main__:train:166 - Train Epoch: 90 [6400/36000 (17.69%)], train Loss: 0.344512
+2022-07-31 09:26:47.433 | INFO     | __main__:train:166 - Train Epoch: 90 [9600/36000 (26.58%)], train Loss: 0.313262
+2022-07-31 09:27:02.583 | INFO     | __main__:train:166 - Train Epoch: 90 [12800/36000 (35.47%)], train Loss: 0.313262
+2022-07-31 09:27:17.675 | INFO     | __main__:train:166 - Train Epoch: 90 [16000/36000 (44.36%)], train Loss: 0.313262
+2022-07-31 09:27:32.749 | INFO     | __main__:train:166 - Train Epoch: 90 [19200/36000 (53.24%)], train Loss: 0.313262
+2022-07-31 09:27:47.896 | INFO     | __main__:train:166 - Train Epoch: 90 [22400/36000 (62.13%)], train Loss: 0.313262
+2022-07-31 09:28:03.068 | INFO     | __main__:train:166 - Train Epoch: 90 [25600/36000 (71.02%)], train Loss: 0.313262
+2022-07-31 09:28:18.193 | INFO     | __main__:train:166 - Train Epoch: 90 [28800/36000 (79.91%)], train Loss: 0.313262
+2022-07-31 09:28:33.628 | INFO     | __main__:train:166 - Train Epoch: 90 [32000/36000 (88.80%)], train Loss: 0.344512
+2022-07-31 09:28:48.593 | INFO     | __main__:train:166 - Train Epoch: 90 [35200/36000 (97.69%)], train Loss: 0.313262
+2022-07-31 09:29:05.043 | INFO     | __main__:test:195 - --------------------------------------------Train Epoch: 90-----------------------------------------------------
+2022-07-31 09:29:05.055 | INFO     | __main__:test:196 - Eval set: Average loss: 0.3982, Accuracy: (0.91), Pre: (0.92), Recall: (0.91)
+2022-07-31 09:29:05.055 | INFO     | __main__:test:199 - [[5561  376]
+ [ 650 5413]]
+2022-07-31 09:29:05.057 | INFO     | __main__:<module>:215 - acc is: 0.9145, best acc is 0.9148, best model get in 0
+2022-07-31 09:29:20.348 | INFO     | __main__:train:166 - Train Epoch: 91 [3200/36000 (8.80%)], train Loss: 0.344512
+2022-07-31 09:29:35.493 | INFO     | __main__:train:166 - Train Epoch: 91 [6400/36000 (17.69%)], train Loss: 0.344512
+2022-07-31 09:29:50.609 | INFO     | __main__:train:166 - Train Epoch: 91 [9600/36000 (26.58%)], train Loss: 0.313262
+2022-07-31 09:30:05.701 | INFO     | __main__:train:166 - Train Epoch: 91 [12800/36000 (35.47%)], train Loss: 0.313262
+2022-07-31 09:30:20.782 | INFO     | __main__:train:166 - Train Epoch: 91 [16000/36000 (44.36%)], train Loss: 0.313262
+2022-07-31 09:30:36.029 | INFO     | __main__:train:166 - Train Epoch: 91 [19200/36000 (53.24%)], train Loss: 0.313262
+2022-07-31 09:30:51.276 | INFO     | __main__:train:166 - Train Epoch: 91 [22400/36000 (62.13%)], train Loss: 0.313262
+2022-07-31 09:31:06.400 | INFO     | __main__:train:166 - Train Epoch: 91 [25600/36000 (71.02%)], train Loss: 0.313262
+2022-07-31 09:31:21.689 | INFO     | __main__:train:166 - Train Epoch: 91 [28800/36000 (79.91%)], train Loss: 0.313262
+2022-07-31 09:31:36.702 | INFO     | __main__:train:166 - Train Epoch: 91 [32000/36000 (88.80%)], train Loss: 0.313262
+2022-07-31 09:31:51.775 | INFO     | __main__:train:166 - Train Epoch: 91 [35200/36000 (97.69%)], train Loss: 0.313262
+2022-07-31 09:32:08.243 | INFO     | __main__:test:195 - --------------------------------------------Train Epoch: 91-----------------------------------------------------
+2022-07-31 09:32:08.247 | INFO     | __main__:test:196 - Eval set: Average loss: 0.3986, Accuracy: (0.91), Pre: (0.91), Recall: (0.91)
+2022-07-31 09:32:08.248 | INFO     | __main__:test:199 - [[5577  360]
+ [ 672 5391]]
+2022-07-31 09:32:08.249 | INFO     | __main__:<module>:215 - acc is: 0.9140, best acc is 0.9148, best model get in 0
+2022-07-31 09:32:23.374 | INFO     | __main__:train:166 - Train Epoch: 92 [3200/36000 (8.80%)], train Loss: 0.313262
+2022-07-31 09:32:38.354 | INFO     | __main__:train:166 - Train Epoch: 92 [6400/36000 (17.69%)], train Loss: 0.313262
+2022-07-31 09:32:53.615 | INFO     | __main__:train:166 - Train Epoch: 92 [9600/36000 (26.58%)], train Loss: 0.344512
+2022-07-31 09:33:08.672 | INFO     | __main__:train:166 - Train Epoch: 92 [12800/36000 (35.47%)], train Loss: 0.344512
+2022-07-31 09:33:23.782 | INFO     | __main__:train:166 - Train Epoch: 92 [16000/36000 (44.36%)], train Loss: 0.313262
+2022-07-31 09:33:38.881 | INFO     | __main__:train:166 - Train Epoch: 92 [19200/36000 (53.24%)], train Loss: 0.313262
+2022-07-31 09:33:53.940 | INFO     | __main__:train:166 - Train Epoch: 92 [22400/36000 (62.13%)], train Loss: 0.313262
+2022-07-31 09:34:09.027 | INFO     | __main__:train:166 - Train Epoch: 92 [25600/36000 (71.02%)], train Loss: 0.313262
+2022-07-31 09:34:24.005 | INFO     | __main__:train:166 - Train Epoch: 92 [28800/36000 (79.91%)], train Loss: 0.344512
+2022-07-31 09:34:39.140 | INFO     | __main__:train:166 - Train Epoch: 92 [32000/36000 (88.80%)], train Loss: 0.313262
+2022-07-31 09:34:54.159 | INFO     | __main__:train:166 - Train Epoch: 92 [35200/36000 (97.69%)], train Loss: 0.313262
+2022-07-31 09:35:10.598 | INFO     | __main__:test:195 - --------------------------------------------Train Epoch: 92-----------------------------------------------------
+2022-07-31 09:35:10.606 | INFO     | __main__:test:196 - Eval set: Average loss: 0.3975, Accuracy: (0.92), Pre: (0.92), Recall: (0.92)
+2022-07-31 09:35:10.607 | INFO     | __main__:test:199 - [[5576  361]
+ [ 657 5406]]
+2022-07-31 09:35:13.280 | INFO     | __main__:<module>:215 - acc is: 0.9152, best acc is 0.9152, best model get in 92
+2022-07-31 09:35:28.161 | INFO     | __main__:train:166 - Train Epoch: 93 [3200/36000 (8.80%)], train Loss: 0.313262
+2022-07-31 09:35:43.397 | INFO     | __main__:train:166 - Train Epoch: 93 [6400/36000 (17.69%)], train Loss: 0.313262
+2022-07-31 09:35:58.407 | INFO     | __main__:train:166 - Train Epoch: 93 [9600/36000 (26.58%)], train Loss: 0.344512
+2022-07-31 09:36:13.522 | INFO     | __main__:train:166 - Train Epoch: 93 [12800/36000 (35.47%)], train Loss: 0.344512
+2022-07-31 09:36:28.576 | INFO     | __main__:train:166 - Train Epoch: 93 [16000/36000 (44.36%)], train Loss: 0.313262
+2022-07-31 09:36:43.784 | INFO     | __main__:train:166 - Train Epoch: 93 [19200/36000 (53.24%)], train Loss: 0.313262
+2022-07-31 09:36:58.752 | INFO     | __main__:train:166 - Train Epoch: 93 [22400/36000 (62.13%)], train Loss: 0.344512
+2022-07-31 09:37:13.986 | INFO     | __main__:train:166 - Train Epoch: 93 [25600/36000 (71.02%)], train Loss: 0.344512
+2022-07-31 09:37:29.158 | INFO     | __main__:train:166 - Train Epoch: 93 [28800/36000 (79.91%)], train Loss: 0.313262
+2022-07-31 09:37:44.298 | INFO     | __main__:train:166 - Train Epoch: 93 [32000/36000 (88.80%)], train Loss: 0.344512
+2022-07-31 09:37:59.387 | INFO     | __main__:train:166 - Train Epoch: 93 [35200/36000 (97.69%)], train Loss: 0.313262
+2022-07-31 09:38:15.859 | INFO     | __main__:test:195 - --------------------------------------------Train Epoch: 93-----------------------------------------------------
+2022-07-31 09:38:15.865 | INFO     | __main__:test:196 - Eval set: Average loss: 0.3986, Accuracy: (0.91), Pre: (0.92), Recall: (0.91)
+2022-07-31 09:38:15.865 | INFO     | __main__:test:199 - [[5565  372]
+ [ 655 5408]]
+2022-07-31 09:38:15.867 | INFO     | __main__:<module>:215 - acc is: 0.9144, best acc is 0.9152, best model get in 0
+2022-07-31 09:38:31.372 | INFO     | __main__:train:166 - Train Epoch: 94 [3200/36000 (8.80%)], train Loss: 0.344512
+2022-07-31 09:38:46.560 | INFO     | __main__:train:166 - Train Epoch: 94 [6400/36000 (17.69%)], train Loss: 0.313262
+2022-07-31 09:39:01.545 | INFO     | __main__:train:166 - Train Epoch: 94 [9600/36000 (26.58%)], train Loss: 0.344512
+2022-07-31 09:39:16.866 | INFO     | __main__:train:166 - Train Epoch: 94 [12800/36000 (35.47%)], train Loss: 0.375762
+2022-07-31 09:39:31.895 | INFO     | __main__:train:166 - Train Epoch: 94 [16000/36000 (44.36%)], train Loss: 0.344512
+2022-07-31 09:39:47.111 | INFO     | __main__:train:166 - Train Epoch: 94 [19200/36000 (53.24%)], train Loss: 0.313262
+2022-07-31 09:40:02.222 | INFO     | __main__:train:166 - Train Epoch: 94 [22400/36000 (62.13%)], train Loss: 0.313262
+2022-07-31 09:40:17.209 | INFO     | __main__:train:166 - Train Epoch: 94 [25600/36000 (71.02%)], train Loss: 0.313262
+2022-07-31 09:40:32.250 | INFO     | __main__:train:166 - Train Epoch: 94 [28800/36000 (79.91%)], train Loss: 0.375762
+2022-07-31 09:40:47.278 | INFO     | __main__:train:166 - Train Epoch: 94 [32000/36000 (88.80%)], train Loss: 0.313262
+2022-07-31 09:41:02.416 | INFO     | __main__:train:166 - Train Epoch: 94 [35200/36000 (97.69%)], train Loss: 0.313262
+2022-07-31 09:41:18.870 | INFO     | __main__:test:195 - --------------------------------------------Train Epoch: 94-----------------------------------------------------
+2022-07-31 09:41:18.878 | INFO     | __main__:test:196 - Eval set: Average loss: 0.3979, Accuracy: (0.91), Pre: (0.92), Recall: (0.92)
+2022-07-31 09:41:18.878 | INFO     | __main__:test:199 - [[5580  357]
+ [ 665 5398]]
+2022-07-31 09:41:18.880 | INFO     | __main__:<module>:215 - acc is: 0.9148, best acc is 0.9152, best model get in 0
+2022-07-31 09:41:34.069 | INFO     | __main__:train:166 - Train Epoch: 95 [3200/36000 (8.80%)], train Loss: 0.313262
+2022-07-31 09:41:49.264 | INFO     | __main__:train:166 - Train Epoch: 95 [6400/36000 (17.69%)], train Loss: 0.313262
+2022-07-31 09:42:04.406 | INFO     | __main__:train:166 - Train Epoch: 95 [9600/36000 (26.58%)], train Loss: 0.313262
+2022-07-31 09:42:19.717 | INFO     | __main__:train:166 - Train Epoch: 95 [12800/36000 (35.47%)], train Loss: 0.313262
+2022-07-31 09:42:34.993 | INFO     | __main__:train:166 - Train Epoch: 95 [16000/36000 (44.36%)], train Loss: 0.313262
+2022-07-31 09:42:50.076 | INFO     | __main__:train:166 - Train Epoch: 95 [19200/36000 (53.24%)], train Loss: 0.313262
+2022-07-31 09:43:05.193 | INFO     | __main__:train:166 - Train Epoch: 95 [22400/36000 (62.13%)], train Loss: 0.344512
+2022-07-31 09:43:20.581 | INFO     | __main__:train:166 - Train Epoch: 95 [25600/36000 (71.02%)], train Loss: 0.375762
+2022-07-31 09:43:35.471 | INFO     | __main__:train:166 - Train Epoch: 95 [28800/36000 (79.91%)], train Loss: 0.313262
+2022-07-31 09:43:50.614 | INFO     | __main__:train:166 - Train Epoch: 95 [32000/36000 (88.80%)], train Loss: 0.344512
+2022-07-31 09:44:05.458 | INFO     | __main__:train:166 - Train Epoch: 95 [35200/36000 (97.69%)], train Loss: 0.313262
+2022-07-31 09:44:22.028 | INFO     | __main__:test:195 - --------------------------------------------Train Epoch: 95-----------------------------------------------------
+2022-07-31 09:44:22.035 | INFO     | __main__:test:196 - Eval set: Average loss: 0.3979, Accuracy: (0.91), Pre: (0.91), Recall: (0.91)
+2022-07-31 09:44:22.035 | INFO     | __main__:test:199 - [[5530  407]
+ [ 618 5445]]
+2022-07-31 09:44:22.037 | INFO     | __main__:<module>:215 - acc is: 0.9146, best acc is 0.9152, best model get in 0
+2022-07-31 09:44:37.042 | INFO     | __main__:train:166 - Train Epoch: 96 [3200/36000 (8.80%)], train Loss: 0.313262
+2022-07-31 09:44:52.166 | INFO     | __main__:train:166 - Train Epoch: 96 [6400/36000 (17.69%)], train Loss: 0.344512
+2022-07-31 09:45:07.253 | INFO     | __main__:train:166 - Train Epoch: 96 [9600/36000 (26.58%)], train Loss: 0.344512
+2022-07-31 09:45:22.337 | INFO     | __main__:train:166 - Train Epoch: 96 [12800/36000 (35.47%)], train Loss: 0.344512
+2022-07-31 09:45:37.546 | INFO     | __main__:train:166 - Train Epoch: 96 [16000/36000 (44.36%)], train Loss: 0.313262
+2022-07-31 09:45:52.609 | INFO     | __main__:train:166 - Train Epoch: 96 [19200/36000 (53.24%)], train Loss: 0.344512
+2022-07-31 09:46:07.646 | INFO     | __main__:train:166 - Train Epoch: 96 [22400/36000 (62.13%)], train Loss: 0.313262
+2022-07-31 09:46:22.822 | INFO     | __main__:train:166 - Train Epoch: 96 [25600/36000 (71.02%)], train Loss: 0.313262
+2022-07-31 09:46:38.006 | INFO     | __main__:train:166 - Train Epoch: 96 [28800/36000 (79.91%)], train Loss: 0.375762
+2022-07-31 09:46:52.924 | INFO     | __main__:train:166 - Train Epoch: 96 [32000/36000 (88.80%)], train Loss: 0.313262
+2022-07-31 09:47:08.229 | INFO     | __main__:train:166 - Train Epoch: 96 [35200/36000 (97.69%)], train Loss: 0.344512
+2022-07-31 09:47:24.875 | INFO     | __main__:test:195 - --------------------------------------------Train Epoch: 96-----------------------------------------------------
+2022-07-31 09:47:24.883 | INFO     | __main__:test:196 - Eval set: Average loss: 0.3971, Accuracy: (0.92), Pre: (0.92), Recall: (0.92)
+2022-07-31 09:47:24.883 | INFO     | __main__:test:199 - [[5568  369]
+ [ 642 5421]]
+2022-07-31 09:47:27.600 | INFO     | __main__:<module>:215 - acc is: 0.9157, best acc is 0.9157, best model get in 96
+2022-07-31 09:47:42.620 | INFO     | __main__:train:166 - Train Epoch: 97 [3200/36000 (8.80%)], train Loss: 0.313262
+2022-07-31 09:47:57.728 | INFO     | __main__:train:166 - Train Epoch: 97 [6400/36000 (17.69%)], train Loss: 0.313262
+2022-07-31 09:48:12.966 | INFO     | __main__:train:166 - Train Epoch: 97 [9600/36000 (26.58%)], train Loss: 0.313262
+2022-07-31 09:48:28.428 | INFO     | __main__:train:166 - Train Epoch: 97 [12800/36000 (35.47%)], train Loss: 0.313262
+2022-07-31 09:48:43.621 | INFO     | __main__:train:166 - Train Epoch: 97 [16000/36000 (44.36%)], train Loss: 0.313262
+2022-07-31 09:48:58.596 | INFO     | __main__:train:166 - Train Epoch: 97 [19200/36000 (53.24%)], train Loss: 0.344512
+2022-07-31 09:49:13.612 | INFO     | __main__:train:166 - Train Epoch: 97 [22400/36000 (62.13%)], train Loss: 0.375762
+2022-07-31 09:49:28.685 | INFO     | __main__:train:166 - Train Epoch: 97 [25600/36000 (71.02%)], train Loss: 0.344512
+2022-07-31 09:49:43.866 | INFO     | __main__:train:166 - Train Epoch: 97 [28800/36000 (79.91%)], train Loss: 0.344512
+2022-07-31 09:49:58.864 | INFO     | __main__:train:166 - Train Epoch: 97 [32000/36000 (88.80%)], train Loss: 0.313262
+2022-07-31 09:50:14.022 | INFO     | __main__:train:166 - Train Epoch: 97 [35200/36000 (97.69%)], train Loss: 0.313262
+2022-07-31 09:50:30.439 | INFO     | __main__:test:195 - --------------------------------------------Train Epoch: 97-----------------------------------------------------
+2022-07-31 09:50:30.444 | INFO     | __main__:test:196 - Eval set: Average loss: 0.3970, Accuracy: (0.92), Pre: (0.92), Recall: (0.92)
+2022-07-31 09:50:30.445 | INFO     | __main__:test:199 - [[5574  363]
+ [ 647 5416]]
+2022-07-31 09:50:33.086 | INFO     | __main__:<module>:215 - acc is: 0.9158, best acc is 0.9158, best model get in 97
+2022-07-31 09:50:48.477 | INFO     | __main__:train:166 - Train Epoch: 98 [3200/36000 (8.80%)], train Loss: 0.344512
+2022-07-31 09:51:03.600 | INFO     | __main__:train:166 - Train Epoch: 98 [6400/36000 (17.69%)], train Loss: 0.313262
+2022-07-31 09:51:18.655 | INFO     | __main__:train:166 - Train Epoch: 98 [9600/36000 (26.58%)], train Loss: 0.313262
+2022-07-31 09:51:33.796 | INFO     | __main__:train:166 - Train Epoch: 98 [12800/36000 (35.47%)], train Loss: 0.313262
+2022-07-31 09:51:48.891 | INFO     | __main__:train:166 - Train Epoch: 98 [16000/36000 (44.36%)], train Loss: 0.313262
+2022-07-31 09:52:03.705 | INFO     | __main__:train:166 - Train Epoch: 98 [19200/36000 (53.24%)], train Loss: 0.313262
+2022-07-31 09:52:18.783 | INFO     | __main__:train:166 - Train Epoch: 98 [22400/36000 (62.13%)], train Loss: 0.313262
+2022-07-31 09:52:34.154 | INFO     | __main__:train:166 - Train Epoch: 98 [25600/36000 (71.02%)], train Loss: 0.313262
+2022-07-31 09:52:49.305 | INFO     | __main__:train:166 - Train Epoch: 98 [28800/36000 (79.91%)], train Loss: 0.313262
+2022-07-31 09:53:04.508 | INFO     | __main__:train:166 - Train Epoch: 98 [32000/36000 (88.80%)], train Loss: 0.313262
+2022-07-31 09:53:19.569 | INFO     | __main__:train:166 - Train Epoch: 98 [35200/36000 (97.69%)], train Loss: 0.313262
+2022-07-31 09:53:36.145 | INFO     | __main__:test:195 - --------------------------------------------Train Epoch: 98-----------------------------------------------------
+2022-07-31 09:53:36.151 | INFO     | __main__:test:196 - Eval set: Average loss: 0.3973, Accuracy: (0.92), Pre: (0.92), Recall: (0.92)
+2022-07-31 09:53:36.151 | INFO     | __main__:test:199 - [[5582  355]
+ [ 661 5402]]
+2022-07-31 09:53:36.152 | INFO     | __main__:<module>:215 - acc is: 0.9153, best acc is 0.9158, best model get in 0
+2022-07-31 09:53:51.233 | INFO     | __main__:train:166 - Train Epoch: 99 [3200/36000 (8.80%)], train Loss: 0.313262
+2022-07-31 09:54:06.674 | INFO     | __main__:train:166 - Train Epoch: 99 [6400/36000 (17.69%)], train Loss: 0.344512
+2022-07-31 09:54:21.765 | INFO     | __main__:train:166 - Train Epoch: 99 [9600/36000 (26.58%)], train Loss: 0.313262
+2022-07-31 09:54:37.036 | INFO     | __main__:train:166 - Train Epoch: 99 [12800/36000 (35.47%)], train Loss: 0.344512
+2022-07-31 09:54:52.283 | INFO     | __main__:train:166 - Train Epoch: 99 [16000/36000 (44.36%)], train Loss: 0.313262
+2022-07-31 09:55:07.378 | INFO     | __main__:train:166 - Train Epoch: 99 [19200/36000 (53.24%)], train Loss: 0.329961
+2022-07-31 09:55:22.277 | INFO     | __main__:train:166 - Train Epoch: 99 [22400/36000 (62.13%)], train Loss: 0.313262
+2022-07-31 09:55:37.549 | INFO     | __main__:train:166 - Train Epoch: 99 [25600/36000 (71.02%)], train Loss: 0.344512
+2022-07-31 09:55:52.657 | INFO     | __main__:train:166 - Train Epoch: 99 [28800/36000 (79.91%)], train Loss: 0.313262
+2022-07-31 09:56:07.796 | INFO     | __main__:train:166 - Train Epoch: 99 [32000/36000 (88.80%)], train Loss: 0.313262
+2022-07-31 09:56:23.054 | INFO     | __main__:train:166 - Train Epoch: 99 [35200/36000 (97.69%)], train Loss: 0.313262
+2022-07-31 09:56:39.691 | INFO     | __main__:test:195 - --------------------------------------------Train Epoch: 99-----------------------------------------------------
+2022-07-31 09:56:39.697 | INFO     | __main__:test:196 - Eval set: Average loss: 0.3973, Accuracy: (0.92), Pre: (0.92), Recall: (0.92)
+2022-07-31 09:56:39.697 | INFO     | __main__:test:199 - [[5579  358]
+ [ 653 5410]]
+2022-07-31 09:56:39.699 | INFO     | __main__:<module>:215 - acc is: 0.9157, best acc is 0.9158, best model get in 0
+2022-07-31 09:56:55.091 | INFO     | __main__:train:166 - Train Epoch: 100 [3200/36000 (8.80%)], train Loss: 0.313262
+2022-07-31 09:57:10.141 | INFO     | __main__:train:166 - Train Epoch: 100 [6400/36000 (17.69%)], train Loss: 0.313262
+2022-07-31 09:57:25.289 | INFO     | __main__:train:166 - Train Epoch: 100 [9600/36000 (26.58%)], train Loss: 0.313262
+2022-07-31 09:57:40.435 | INFO     | __main__:train:166 - Train Epoch: 100 [12800/36000 (35.47%)], train Loss: 0.313262
+2022-07-31 09:57:55.929 | INFO     | __main__:train:166 - Train Epoch: 100 [16000/36000 (44.36%)], train Loss: 0.313262
+2022-07-31 09:58:11.102 | INFO     | __main__:train:166 - Train Epoch: 100 [19200/36000 (53.24%)], train Loss: 0.313262
+2022-07-31 09:58:26.636 | INFO     | __main__:train:166 - Train Epoch: 100 [22400/36000 (62.13%)], train Loss: 0.313262
+2022-07-31 09:58:41.560 | INFO     | __main__:train:166 - Train Epoch: 100 [25600/36000 (71.02%)], train Loss: 0.344512
+2022-07-31 09:58:56.702 | INFO     | __main__:train:166 - Train Epoch: 100 [28800/36000 (79.91%)], train Loss: 0.313262
+2022-07-31 09:59:11.934 | INFO     | __main__:train:166 - Train Epoch: 100 [32000/36000 (88.80%)], train Loss: 0.313262
+2022-07-31 09:59:27.063 | INFO     | __main__:train:166 - Train Epoch: 100 [35200/36000 (97.69%)], train Loss: 0.344512
+2022-07-31 09:59:43.567 | INFO     | __main__:test:195 - --------------------------------------------Train Epoch: 100-----------------------------------------------------
+2022-07-31 09:59:43.575 | INFO     | __main__:test:196 - Eval set: Average loss: 0.3973, Accuracy: (0.92), Pre: (0.92), Recall: (0.92)
+2022-07-31 09:59:43.576 | INFO     | __main__:test:199 - [[5580  357]
+ [ 656 5407]]
+2022-07-31 09:59:43.579 | INFO     | __main__:<module>:215 - acc is: 0.9156, best acc is 0.9158, best model get in 0
