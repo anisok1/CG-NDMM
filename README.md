@@ -9,10 +9,8 @@ the code of this paper "Linguistic Steganalysis via Multi-task with Crossing Gen
 
 ## Usage
 Only the test TWEET data has been provided. 
-
-Run train.py to train the model, 
-
-and run run_bert_cooper.py to implement model training and prediction.
+ 
+Run run_bert_cooper.py to implement LS-NDMM training and prediction.
 
 ## Authors
 Huiqing You
